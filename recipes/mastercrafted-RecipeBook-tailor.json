@@ -1,0 +1,50 @@
+{
+  "name": "Tailor",
+  "description": "Crafted clothing and armor from Creature Loot",
+  "ownership": {
+    "UaeZM6yl2QxuItnu": "2"
+  },
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Cloak of the Manta Ray",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.c1BtF2fuQE3Ij41z",
+              "quantity": 1,
+              "name": "Aboleth Hide"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.XoYawZs4h0vDyCMr",
+              "quantity": 1,
+              "name": "Cloak of the Manta Ray"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/back/cloak-collared-blue.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    }
+  ],
+  "img": "icons/tools/fasteners/button.webp",
+  "documentName": "RecipeBook"
+}

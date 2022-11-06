@@ -1,0 +1,86 @@
+{
+  "name": "Tinker",
+  "description": "Crafted Trinkets from Creature Loot",
+  "ownership": {
+    "UaeZM6yl2QxuItnu": "2"
+  },
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Psychic Dice Set",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Jeweler's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.m39NcT0DnabVzDgY",
+              "quantity": 1,
+              "name": "Aboleth Teeth"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.5CVqXMnVbDEMBUhn",
+              "quantity": 1,
+              "name": "Psychic Dice Set"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/gaming/dice-runed-brown.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Toxic Decanter of Endless Water",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.7Q7e2pdwrAwl44rK",
+              "quantity": 1,
+              "name": "Aboleth's Bladder"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.YrW2sv97nA2AWqBi",
+              "quantity": 1,
+              "name": "Toxic Decanter of Endless Water"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flask-corked-blue.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    }
+  ],
+  "img": "icons/tools/smithing/hammer-sledge-steel-grey.webp",
+  "documentName": "RecipeBook"
+}

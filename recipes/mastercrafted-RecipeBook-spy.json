@@ -1,0 +1,122 @@
+{
+  "name": "Spy",
+  "description": "Crafted potions and brews from Creature Loot",
+  "ownership": {
+    "UaeZM6yl2QxuItnu": "2"
+  },
+  "tools": "Alchemist's Supplies",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Air Incense",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.0Jc0aF3YlYAl9ZO7",
+              "quantity": 1,
+              "name": "Aarakocra Feathers"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.R72iSIiKnHIgFtsX",
+              "quantity": 1,
+              "name": "Air Incense"
+            }
+          ]
+        }
+      ],
+      "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Aboleth's Bane",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.jYUfLjiQ70z1MOZw",
+              "quantity": 1,
+              "name": "Aboleth Mucous"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.z2q0o5DB8XgycfjK",
+              "quantity": 1,
+              "name": "Aboleth's Bane"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/vial-cork-green.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Potent Acid",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.NWNzyTmezEXOYD8E",
+              "quantity": 1,
+              "name": "Ankheg Acid"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.uMDRFzaEaiuhEksW",
+              "quantity": 1,
+              "name": "Potent Acid"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    }
+  ],
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "documentName": "RecipeBook"
+}

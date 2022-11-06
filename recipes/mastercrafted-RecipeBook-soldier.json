@@ -1,0 +1,122 @@
+{
+  "name": "Soldier",
+  "description": "Forged weapons from Creature Loot",
+  "ownership": {
+    "UaeZM6yl2QxuItnu": "2"
+  },
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Tentacle Rod",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Must be Mastercrafted by a Drow",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.3ThO3LbCPhFWHNLk",
+              "quantity": "3",
+              "name": "Aboleth Tentacle"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.FMEHLZrnJELjanRU",
+              "quantity": 1,
+              "name": "Tentacle Rod"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/biological/antenna-blue.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Whip +2",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.d3A39CpYHwCSOnra",
+              "quantity": 1,
+              "name": "Aboleth Tail"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.JG4uRXKvY8GygZZR",
+              "quantity": 1,
+              "name": "Whip, +2"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/misc/whip-red-yellow.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Acid Greatsword",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.v6ne8mCrsuSZtvuT",
+              "quantity": 1,
+              "name": "Ankheg Claw"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.PeoqUmCfyLc6aD1G",
+              "quantity": 1,
+              "name": "Acid Greatsword"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/swords/greatsword-guard-gold-worn.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    }
+  ],
+  "img": "icons/tools/smithing/crucible-trough.webp",
+  "documentName": "RecipeBook"
+}
