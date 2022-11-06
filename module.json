@@ -1,7 +1,7 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "creature-loot",
+  "title": "Creature Loot",
+  "description": "Collating Jon Gazda's Creature Loot supplements for use in Foundry with theripper93's premium modules.",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -12,11 +12,35 @@
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Action Jay",
+      "url": "https://github.com/action-jay",
+      "discord": "action.jay#4322"
     }
   ],
+      "packs": [
+        {
+            "name": "creature-loot-items",
+            "label": "Creature Loot Items",
+            "path": "./packs/creature-loot-items.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "creature-loot-journals",
+            "label": "Creature Loot Journals",
+            "path": "./packs/creature-loot-journals.db",
+            "type": "JournalEntry",
+            "system": "dnd5e"
+        },
+        {
+            "name": "creature-loot-tables",
+            "label": "Creature Loot Tables",
+            "path": "./packs/creature-loot-tables.db",
+            "type": "RollTable",
+            "system": "dnd5e"
+        }
+    ],
   "relationships": {
     "systems": [],
     "requires": []
