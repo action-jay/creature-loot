@@ -4,7 +4,7 @@
   "ownership": {
     "UaeZM6yl2QxuItnu": "2"
   },
-  "tools": "Alchemist's Supplies",
+  "tools": "",
   "ingredientsInspection": "1",
   "productInspection": "1",
   "recipes": [
@@ -14,13 +14,13 @@
       "ingredientsInspection": "0",
       "productInspection": "0",
       "description": "",
-      "tools": "",
+      "tools": "Alchemist's Supplies",
       "ingredients": [
         {
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.0Jc0aF3YlYAl9ZO7",
+              "uuid": "Compendium.creature-loot.creature-loot-items.Q2fZifGnRPMGPgjs",
               "quantity": 1,
               "name": "Aarakocra Feathers"
             }
@@ -32,7 +32,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.R72iSIiKnHIgFtsX",
+              "uuid": "Compendium.creature-loot.creature-loot-items.tQlkg8ETPVfU6R8K",
               "quantity": 1,
               "name": "Air Incense"
             }
@@ -50,13 +50,13 @@
       "ingredientsInspection": "0",
       "productInspection": "0",
       "description": "",
-      "tools": "",
+      "tools": "Alchemist's Supplies",
       "ingredients": [
         {
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.jYUfLjiQ70z1MOZw",
+              "uuid": "Compendium.creature-loot.creature-loot-items.QtEkA5XgWXikgIGA",
               "quantity": 1,
               "name": "Aboleth Mucous"
             }
@@ -68,7 +68,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.z2q0o5DB8XgycfjK",
+              "uuid": "Compendium.creature-loot.creature-loot-items.zbyYWk1A3hMbImAG",
               "quantity": 1,
               "name": "Aboleth's Bane"
             }
@@ -86,7 +86,7 @@
       "ingredientsInspection": "0",
       "productInspection": "0",
       "description": "",
-      "tools": "",
+      "tools": "Alchemist's Supplies",
       "ingredients": [
         {
           "name": null,
@@ -112,6 +112,186 @@
         }
       ],
       "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Potion of Invisibility",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.kS0PRhOXPgLGY6KV",
+              "quantity": 1,
+              "name": "Ectoplasm"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.csk4n5VDqIa52Gis",
+              "quantity": 1,
+              "name": "Potion of Invisibility"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Oil of Etherealness",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.kS0PRhOXPgLGY6KV",
+              "quantity": 1,
+              "name": "Ectoplasm"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.Kkf7LSbcsinWRLFO",
+              "quantity": 1,
+              "name": "Oil of Etherealness"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Stone Salve",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.1EDGxp85Y96Z0T7i",
+              "quantity": 1,
+              "name": "Basilisk Stomach"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.GkIQLHyg1zROt8rW",
+              "quantity": 1,
+              "name": "Stone Salve"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-corked-empty.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Un-Undead Potion",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.eCXhipG71vUfjHsH",
+              "quantity": 1,
+              "name": "Death Tyrant Skull"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.SXk5Or7fW8grzC1V",
+              "quantity": 1,
+              "name": "Un-Undead Potion"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-round-corked-glowing-green.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Potion of Hrugguk",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.gh9adryMzllnF9lY",
+              "quantity": 1,
+              "name": "Strong Bugbear Heart"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.TlB7N4TtaXbEX605",
+              "quantity": 1,
+              "name": "Potion of Hrugguk"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flask-capped-yellow-green.webp",
       "ownership": {
         "UaeZM6yl2QxuItnu": "0"
       }

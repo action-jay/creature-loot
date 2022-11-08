@@ -20,7 +20,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.3ThO3LbCPhFWHNLk",
+              "uuid": "Compendium.creature-loot.creature-loot-items.Hu0cO3JtY57I7SHA",
               "quantity": "3",
               "name": "Aboleth Tentacle"
             }
@@ -32,7 +32,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.FMEHLZrnJELjanRU",
+              "uuid": "Compendium.world.ddb-pcandg-items.pIUHZwOQ2Ey8alml",
               "quantity": 1,
               "name": "Tentacle Rod"
             }
@@ -56,7 +56,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.d3A39CpYHwCSOnra",
+              "uuid": "Compendium.creature-loot.creature-loot-items.jMhT1HWJKbzwF4E6",
               "quantity": 1,
               "name": "Aboleth Tail"
             }
@@ -68,7 +68,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.JG4uRXKvY8GygZZR",
+              "uuid": "Compendium.world.ddb-pcandg-items.SyxJS7uttx6hm7AH",
               "quantity": 1,
               "name": "Whip, +2"
             }
@@ -112,6 +112,330 @@
         }
       ],
       "img": "icons/weapons/swords/greatsword-guard-gold-worn.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Poison Dagger",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.BDHWdEhZDTknGBuT",
+              "quantity": 1,
+              "name": "Basilisk Fang"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.mHyZhJoRKr93ixWN",
+              "quantity": 1,
+              "name": "Poison Dagger"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/daggers/dagger-black.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Dragon Slayer",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.AuzWNRAK3Cb6q1Gb",
+              "quantity": "20",
+              "name": "Behir Claws"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.DJQgAZSgvMahjiCD",
+              "quantity": 1,
+              "name": "Dragon Slayer"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/swords/greatsword-crossguard-embossed-gold.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Lightning Dagger",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.fjHpHR3Zejmm5oKH",
+              "quantity": 1,
+              "name": "Behir Fang"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.pEGrXOnjqCbB9JN7",
+              "quantity": 1,
+              "name": "Lightning Dagger"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/daggers/dagger-black.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Lightning Whip",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.psRCJillrBK8H0ys",
+              "quantity": 1,
+              "name": "Behir Tail"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.HGty8tdY5VFnwINn",
+              "quantity": 1,
+              "name": "Lightning Whip"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/misc/whip-red-yellow.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Grotesque Sentinel Shield",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.fchSDphe1BlzqebT",
+              "quantity": 1,
+              "name": "Large Beholder Eye"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.xlOIfH6Gat0Y2V0L",
+              "quantity": 1,
+              "name": "Grotesque Sentinel Shield"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/shield/heater-steel-sword-yellow-black.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Bulette Dagger",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.3vp7s98R2KWwHZHZ",
+              "quantity": 1,
+              "name": "Bulette Claws"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.kQqad2j7LNwuexzl",
+              "quantity": 1,
+              "name": "Bulette Dagger"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/daggers/dagger-simple-violet.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Bulette Shield",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.YADVVgLcwkFkrtMg",
+              "quantity": 1,
+              "name": "Bulette Head Plate"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.9a7aCJHZYpxttmbv",
+              "quantity": 1,
+              "name": "Bulette Shield"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/shield/targe-steel-blue.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Bulette Shortbow",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Weaver's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.6xa9YT6PB3LtnwEV",
+              "quantity": 1,
+              "name": "Bulette Tendon"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.6LpU7pXEabbSpz8P",
+              "quantity": 1,
+              "name": "Bulette Shortbow"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/bows/shortbow-recurve-leather.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Shield of Spell Reflection",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.xf4LFjs3ydR2cTwX",
+              "quantity": 1,
+              "name": "Spectator Hide"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.4J51wJy4FpMkZGUc",
+              "quantity": 1,
+              "name": "Shield of Spell Reflection"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/shield/oval-wooden-boss-steel.webp",
       "ownership": {
         "UaeZM6yl2QxuItnu": "0"
       }
