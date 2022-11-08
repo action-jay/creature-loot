@@ -115,6 +115,150 @@
       "ownership": {
         "UaeZM6yl2QxuItnu": "0"
       }
+    },
+    {
+      "name": "Cape of the Mountebank",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.KjWzpMtSU3N1xpvE",
+              "quantity": "4",
+              "name": "Cambion Wing"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.zN0kKrWkkQ0RQeFp",
+              "quantity": 1,
+              "name": "Cape of the Mountebank"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Chuul Scale Mail",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.BID1xwdXUadeSweo",
+              "quantity": 1,
+              "name": "Chuul Carapace"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.nhr9Mwp13XLibHKp",
+              "quantity": 1,
+              "name": "Chuul Scale Mail"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-scale-grey.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Cloak of Displacement",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Must be mastercrafted (illusion) by a spellcaster",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.9H9rrzY2QiqELoVT",
+              "quantity": "4",
+              "name": "Cloaker Wing"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.uBIt0MkpSLczyKy7",
+              "quantity": 1,
+              "name": "Cloak of Displacement"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/back/cloak-hooded-red.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Armor of Radiant Resistance, Hide",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.4r7JDItsKFOEWiyL",
+              "quantity": 1,
+              "name": "Couatl Hide"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.s4KxHwWzsgFaPjbN",
+              "quantity": 1,
+              "name": "Armor of Radiant Resistance, Hide"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
     }
   ],
   "img": "icons/tools/fasteners/button.webp",

@@ -295,6 +295,294 @@
       "ownership": {
         "UaeZM6yl2QxuItnu": "0"
       }
+    },
+    {
+      "name": "Potion of Fire Resistance",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.AdkrZMJ48hDJrH9O",
+              "quantity": 1,
+              "name": "Cambion Horn"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.AvP2YX57d61sUqnt",
+              "quantity": 1,
+              "name": "Potion of Fire Resistance"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Crawler Mucus",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.p2rfxfHP0Aybe0fx",
+              "quantity": 1,
+              "name": "Crawler Tentacle"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.fd2LREeUD2tXgnBl",
+              "quantity": 1,
+              "name": "Crawler Mucus (Contact)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/materials/slime-brown.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Potion of Healing",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.AUSwYCH5OsGChEJp",
+              "quantity": 1,
+              "name": "Centaur Hooves"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.GZH47iKdYZgW4Ru1",
+              "quantity": 1,
+              "name": "Potion of Healing"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Potion of Fire Breath",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.ehvK5C164RzwEdkX",
+              "quantity": 1,
+              "name": "Chimera Claw"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.eQArkagmHO4pheFP",
+              "quantity": 1,
+              "name": "Potion of Fire Breath"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Potion of Stealth",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.8cUi9gLcX9eYfeQE",
+              "quantity": 1,
+              "name": "Cloaker Blood"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.Pf6LuDf39wOORdfm",
+              "quantity": 1,
+              "name": "Potion of Stealth"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-vial-corked-purple.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Potion of Darkvision",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.miMgyLXN93oa5Y66",
+              "quantity": 1,
+              "name": "Cloaker Eye"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.zI3tl1uFaaPALGYd",
+              "quantity": 1,
+              "name": "Potion of Darkvision"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-vial-corked-purple.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Poison of Petrification",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.A19lUPrhRqh8z82C",
+              "quantity": 1,
+              "name": "Cockatrice Venom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.HVpP2tUJlieWruz9",
+              "quantity": 1,
+              "name": "Poison of Petrification"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-corked-empty.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Potion of Hill Giant Strength",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Alchemist's Supplies",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.HzX64gzm28wdCeDD",
+              "quantity": 1,
+              "name": "Cyclops Heart"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot.creature-loot-items.ah2DetZkLuBrcPEs",
+              "quantity": 1,
+              "name": "Potion of Hill Giant Strength"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-circular-corked-labeled-green.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
     }
   ],
   "img": "icons/tools/laboratory/vials-blue-pink.webp",
