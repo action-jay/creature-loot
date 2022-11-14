@@ -4,11 +4,17 @@ Collating Jon Gazda's Creature Loot supplements for use in Foundry with therippe
 
 Also recommended: Better Loot Tables, Compendium Folders
 
-This includes
+This will include:
 - Compendium of lootable and crafted items described in the supplement
 - Compendium of rollable tables for each creature
 - Journal with Gatherer entries for automated looting
+
+And later:
 - Recipe books for crafting items from loot
+
+*tables need to be imported to your world for Gatherer journal entries to work. Everything else references from within the compendiums
+
+Manifest: https://github.com/action-jay/creature-loot/releases/latest/download/module.json
 
 Source Content: https://www.gmbinder.com/share/-L9zV7_eIrs3bqQ_cNd5
 
