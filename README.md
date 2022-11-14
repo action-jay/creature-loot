@@ -19,4 +19,4 @@ Manifest: https://github.com/action-jay/creature-loot/releases/latest/download/m
 Source Content: https://www.gmbinder.com/share/-L9zV7_eIrs3bqQ_cNd5
 
 Monster Manual Progress:
-⬤◐○○○○○○○○○○○ 12%
+⬤◔○○○○○○○ 14%
