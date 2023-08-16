@@ -2,57 +2,52 @@
   "id": "creature-loot",
   "title": "Creature Loot",
   "description": "Collating Jon Gazda's Creature Loot supplements for use in Foundry with theripper93's premium modules.",
-  "version": "This is auto replaced",
-  "library": "false",
-  "manifestPlusVersion": "1.2.0",
-  "compatibility": {
-    "minimum": 10,
-    "verified": 10,
-    "maximum": 11
-  },
+  "version": "0.3.0",
   "authors": [
     {
       "name": "Action Jay",
       "url": "https://github.com/action-jay",
       "discord": "action.jay#4322"
+    },
+    {
+      "name": "p4535992",
+      "url": "https://github.com/p4535992",
+      "discord": "",
+      "twitter": "",
+      "patreon": "",
+      "github": "p4535992",
+      "ko-fi": "",
+      "reddit": "",
+      "email": ""
     }
   ],
-      "packs": [
-        {
-            "name": "creature-loot-items",
-            "label": "Creature Loot Items",
-            "path": "./packs/creature-loot-items.db",
-            "entity": "Item",
-            "type": "Item",
-            "system": "dnd5e"
-        },
-        {
-            "name": "creature-loot-journals",
-            "label": "Creature Loot Journals",
-            "path": "./packs/creature-loot-journals.db",
-            "type": "JournalEntry",
-            "system": "dnd5e"
-        },
-        {
-            "name": "creature-loot-tables",
-            "label": "Creature Loot Tables",
-            "path": "./packs/creature-loot-tables.db",
-            "type": "RollTable",
-            "system": "dnd5e"
-        }
-    ],
-  "relationships": {
-    "systems": [],
-    "requires": []
-  },
-  "esmodules": [
-    "scripts/module.js"
+  "type": "module",
+  "socket": true,
+  "includes": [
+    "./assets/**",
+    "./lang/**",
+    "./languages/**",
+    "./scripts/**",
+    "./styles/**",
+    "./templates/**",
+    "./module.json",
+    "./README.md",
+    "./icons/**",
+    "packs/**"
   ],
-  "scripts": [
-    "scripts/lib/lib.js"
-  ],
-  "styles": [
-    "styles/module.css"
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+    },
+    {
+      "type": "cover",
+      "location": ""
+    },
+    {
+      "type": "screenshot",
+      "location": ""
+    }
   ],
   "languages": [
     {
@@ -61,15 +56,64 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
-  "license": "LICENSE",
-  "readme": "README.md",
-  "media": [
+  "packs": [
     {
-      "type": "icon",
-      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+      "name": "creature-loot-items",
+      "label": "Creature Loot Items",
+      "path": "packs/creature-loot-items.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "creature-loot-journals",
+      "label": "Creature Loot Journals",
+      "path": "packs/creature-loot-journals.db",
+      "type": "JournalEntry",
+      "system": "dnd5e"
+    },
+    {
+      "name": "creature-loot-tables",
+      "label": "Creature Loot Tables",
+      "path": "packs/creature-loot-tables.db",
+      "type": "RollTable",
+      "system": "dnd5e"
     }
-  ]
+  ],
+  "systems": [],
+  "scripts": [],
+  "esmodules": ["module.js"],
+  "styles": [],
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11,
+    "maximum": 11
+  },
+  "manifestPlusVersion": "1.2.1",
+  "url": "https://github.com/p4535992/foundryvtt-creature-loot",
+  "manifest": "https://github.com/p4535992/foundryvtt-creature-loot/releases/download/0.3.0/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-creature-loot/releases/download/0.3.0/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-creature-loot/blob/master/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-creature-loot/blob/master/CHANGELOG.md",
+  "bugs": "https://github.com/p4535992/foundryvtt-creature-loot/issues",
+  "allowBugReporter": true,
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+        "compatibility": {
+          "verified": "2.2.1"
+        }
+      },
+      {
+        "id": "sw5e",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/unrealkakeman89/sw5e/master/system.json",
+        "compatibility": {}
+      }
+    ],
+    "requires": [],
+    "conflicts": []
+  }
 }
