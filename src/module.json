@@ -60,21 +60,21 @@
     {
       "name": "creature-loot-items",
       "label": "Creature Loot Items",
-      "path": "packs/creature-loot-items.db",
+      "path": "packs/creature-loot-items",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "creature-loot-journals",
       "label": "Creature Loot Journals",
-      "path": "packs/creature-loot-journals.db",
+      "path": "packs/creature-loot-journals",
       "type": "JournalEntry",
       "system": "dnd5e"
     },
     {
       "name": "creature-loot-tables",
       "label": "Creature Loot Tables",
-      "path": "packs/creature-loot-tables.db",
+      "path": "packs/creature-loot-tables",
       "type": "RollTable",
       "system": "dnd5e"
     }
