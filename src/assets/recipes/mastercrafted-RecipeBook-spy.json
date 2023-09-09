@@ -20,7 +20,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.Q2fZifGnRPMGPgjs",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.Q2fZifGnRPMGPgjs",
               "quantity": 1,
               "name": "Aarakocra Feathers"
             }
@@ -32,7 +32,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.tQlkg8ETPVfU6R8K",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.tQlkg8ETPVfU6R8K",
               "quantity": 1,
               "name": "Air Incense"
             }
@@ -56,7 +56,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.QtEkA5XgWXikgIGA",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.QtEkA5XgWXikgIGA",
               "quantity": 1,
               "name": "Aboleth Mucous"
             }
@@ -68,7 +68,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.zbyYWk1A3hMbImAG",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.zbyYWk1A3hMbImAG",
               "quantity": 1,
               "name": "Aboleth's Bane"
             }
@@ -92,7 +92,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.NWNzyTmezEXOYD8E",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.NWNzyTmezEXOYD8E",
               "quantity": 1,
               "name": "Ankheg Acid"
             }
@@ -104,7 +104,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.uMDRFzaEaiuhEksW",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.uMDRFzaEaiuhEksW",
               "quantity": 1,
               "name": "Potent Acid"
             }
@@ -128,7 +128,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.kS0PRhOXPgLGY6KV",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.kS0PRhOXPgLGY6KV",
               "quantity": 1,
               "name": "Ectoplasm"
             }
@@ -140,7 +140,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.csk4n5VDqIa52Gis",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.csk4n5VDqIa52Gis",
               "quantity": 1,
               "name": "Potion of Invisibility"
             }
@@ -164,7 +164,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.kS0PRhOXPgLGY6KV",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.kS0PRhOXPgLGY6KV",
               "quantity": 1,
               "name": "Ectoplasm"
             }
@@ -176,7 +176,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.Kkf7LSbcsinWRLFO",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.Kkf7LSbcsinWRLFO",
               "quantity": 1,
               "name": "Oil of Etherealness"
             }
@@ -200,7 +200,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.1EDGxp85Y96Z0T7i",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.1EDGxp85Y96Z0T7i",
               "quantity": 1,
               "name": "Basilisk Stomach"
             }
@@ -212,7 +212,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.GkIQLHyg1zROt8rW",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.GkIQLHyg1zROt8rW",
               "quantity": 1,
               "name": "Stone Salve"
             }
@@ -236,7 +236,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.eCXhipG71vUfjHsH",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.eCXhipG71vUfjHsH",
               "quantity": 1,
               "name": "Death Tyrant Skull"
             }
@@ -248,7 +248,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.SXk5Or7fW8grzC1V",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.SXk5Or7fW8grzC1V",
               "quantity": 1,
               "name": "Un-Undead Potion"
             }
@@ -272,7 +272,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.gh9adryMzllnF9lY",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.gh9adryMzllnF9lY",
               "quantity": 1,
               "name": "Strong Bugbear Heart"
             }
@@ -284,7 +284,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.TlB7N4TtaXbEX605",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.TlB7N4TtaXbEX605",
               "quantity": 1,
               "name": "Potion of Hrugguk"
             }
@@ -308,7 +308,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.AdkrZMJ48hDJrH9O",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.AdkrZMJ48hDJrH9O",
               "quantity": 1,
               "name": "Cambion Horn"
             }
@@ -320,7 +320,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.AvP2YX57d61sUqnt",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.AvP2YX57d61sUqnt",
               "quantity": 1,
               "name": "Potion of Fire Resistance"
             }
@@ -344,7 +344,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.p2rfxfHP0Aybe0fx",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.p2rfxfHP0Aybe0fx",
               "quantity": 1,
               "name": "Crawler Tentacle"
             }
@@ -356,7 +356,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.fd2LREeUD2tXgnBl",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.fd2LREeUD2tXgnBl",
               "quantity": 1,
               "name": "Crawler Mucus (Contact)"
             }
@@ -380,7 +380,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.AUSwYCH5OsGChEJp",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.AUSwYCH5OsGChEJp",
               "quantity": 1,
               "name": "Centaur Hooves"
             }
@@ -392,7 +392,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.GZH47iKdYZgW4Ru1",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.GZH47iKdYZgW4Ru1",
               "quantity": 1,
               "name": "Potion of Healing"
             }
@@ -416,7 +416,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.ehvK5C164RzwEdkX",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.ehvK5C164RzwEdkX",
               "quantity": 1,
               "name": "Chimera Claw"
             }
@@ -428,7 +428,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.eQArkagmHO4pheFP",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.eQArkagmHO4pheFP",
               "quantity": 1,
               "name": "Potion of Fire Breath"
             }
@@ -452,7 +452,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.8cUi9gLcX9eYfeQE",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.8cUi9gLcX9eYfeQE",
               "quantity": 1,
               "name": "Cloaker Blood"
             }
@@ -464,7 +464,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.Pf6LuDf39wOORdfm",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.Pf6LuDf39wOORdfm",
               "quantity": 1,
               "name": "Potion of Stealth"
             }
@@ -488,7 +488,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.miMgyLXN93oa5Y66",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.miMgyLXN93oa5Y66",
               "quantity": 1,
               "name": "Cloaker Eye"
             }
@@ -500,7 +500,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.zI3tl1uFaaPALGYd",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.zI3tl1uFaaPALGYd",
               "quantity": 1,
               "name": "Potion of Darkvision"
             }
@@ -524,7 +524,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.A19lUPrhRqh8z82C",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.A19lUPrhRqh8z82C",
               "quantity": 1,
               "name": "Cockatrice Venom"
             }
@@ -536,7 +536,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.HVpP2tUJlieWruz9",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.HVpP2tUJlieWruz9",
               "quantity": 1,
               "name": "Poison of Petrification"
             }
@@ -560,7 +560,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.HzX64gzm28wdCeDD",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.HzX64gzm28wdCeDD",
               "quantity": 1,
               "name": "Cyclops Heart"
             }
@@ -572,7 +572,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.ah2DetZkLuBrcPEs",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.ah2DetZkLuBrcPEs",
               "quantity": 1,
               "name": "Potion of Hill Giant Strength"
             }

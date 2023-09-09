@@ -20,7 +20,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.Zw93B7r7yhGKzzjC",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.Zw93B7r7yhGKzzjC",
               "quantity": 1,
               "name": "Aboleth Hide"
             }
@@ -56,7 +56,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.W4lSJdBig8rnPKfO",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.W4lSJdBig8rnPKfO",
               "quantity": 1,
               "name": "Animate Carpet Patch"
             }
@@ -68,7 +68,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.mXiSv5mMFJs7kUck",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.mXiSv5mMFJs7kUck",
               "quantity": 1,
               "name": "Carpet of Flying"
             }
@@ -92,7 +92,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.C0nNYCjI79DLKC24",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.C0nNYCjI79DLKC24",
               "quantity": 1,
               "name": "Behir Hide"
             }
@@ -104,7 +104,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.hY85eAkSV6reT8fj",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.hY85eAkSV6reT8fj",
               "quantity": "2",
               "name": "Armor of Lightning Resistance, Studded Leather"
             }
@@ -128,7 +128,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.KjWzpMtSU3N1xpvE",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.KjWzpMtSU3N1xpvE",
               "quantity": "4",
               "name": "Cambion Wing"
             }
@@ -140,7 +140,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.zN0kKrWkkQ0RQeFp",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.zN0kKrWkkQ0RQeFp",
               "quantity": 1,
               "name": "Cape of the Mountebank"
             }
@@ -164,7 +164,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.BID1xwdXUadeSweo",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.BID1xwdXUadeSweo",
               "quantity": 1,
               "name": "Chuul Carapace"
             }
@@ -176,7 +176,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.nhr9Mwp13XLibHKp",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.nhr9Mwp13XLibHKp",
               "quantity": 1,
               "name": "Chuul Scale Mail"
             }
@@ -200,7 +200,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.9H9rrzY2QiqELoVT",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.9H9rrzY2QiqELoVT",
               "quantity": "4",
               "name": "Cloaker Wing"
             }
@@ -212,7 +212,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.uBIt0MkpSLczyKy7",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.uBIt0MkpSLczyKy7",
               "quantity": 1,
               "name": "Cloak of Displacement"
             }
@@ -236,7 +236,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.4r7JDItsKFOEWiyL",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.4r7JDItsKFOEWiyL",
               "quantity": 1,
               "name": "Couatl Hide"
             }
@@ -248,7 +248,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.s4KxHwWzsgFaPjbN",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.s4KxHwWzsgFaPjbN",
               "quantity": 1,
               "name": "Armor of Radiant Resistance, Hide"
             }

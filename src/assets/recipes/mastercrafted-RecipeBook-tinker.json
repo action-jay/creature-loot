@@ -20,7 +20,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.8gSJlGpiOlRsOlnA",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.8gSJlGpiOlRsOlnA",
               "quantity": 1,
               "name": "Aboleth Teeth"
             }
@@ -32,7 +32,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.nvYlEjijPVAptBrY",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.nvYlEjijPVAptBrY",
               "quantity": 1,
               "name": "Psychic Dice Set"
             }
@@ -56,7 +56,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.FkmYPaisStM4G07e",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.FkmYPaisStM4G07e",
               "quantity": 1,
               "name": "Aboleth's Bladder"
             }
@@ -68,7 +68,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.G3sOFh6GIlkqxNRu",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.G3sOFh6GIlkqxNRu",
               "quantity": 1,
               "name": "Toxic Decanter of Endless Water"
             }
@@ -92,7 +92,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.0hSD1HGa7R1Yljsu",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.0hSD1HGa7R1Yljsu",
               "quantity": 1,
               "name": "Azer Heart"
             }
@@ -104,7 +104,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.KMOnmXaJvA8Gf13G",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.KMOnmXaJvA8Gf13G",
               "quantity": 1,
               "name": "Elemental Gem (Red Corundum)"
             }
@@ -128,7 +128,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.d4PcrEmWdmI9zsj0",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.d4PcrEmWdmI9zsj0",
               "quantity": "4",
               "name": "Beholder Eyestalk"
             }
@@ -140,7 +140,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.eSOSGaYEvjlyHwOT",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.eSOSGaYEvjlyHwOT",
               "quantity": 1,
               "name": "Spell Scroll - Summon Spectator"
             }
@@ -164,7 +164,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.eD8LT3ZrarnZMZUR",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.eD8LT3ZrarnZMZUR",
               "quantity": 1,
               "name": "Bullywug Bladder"
             }
@@ -176,7 +176,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.hdTPO8YyQS8QGzH3",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.hdTPO8YyQS8QGzH3",
               "quantity": 1,
               "name": "Waterskin"
             }
@@ -200,7 +200,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.oJsUnVtIYUEpUrlU",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.oJsUnVtIYUEpUrlU",
               "quantity": 1,
               "name": "Cloaker Head"
             }
@@ -212,7 +212,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.4KMUvEln2RpYvs1w",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.4KMUvEln2RpYvs1w",
               "quantity": 1,
               "name": "Cloaker Skull Horn"
             }
@@ -236,7 +236,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.Opz5IelEJsKPCvMI",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.Opz5IelEJsKPCvMI",
               "quantity": 1,
               "name": "Cyclops Eye"
             }
@@ -248,7 +248,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.yT9pkplAIBxS82zc",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.yT9pkplAIBxS82zc",
               "quantity": 1,
               "name": "Cyclops Eye Amulet"
             }

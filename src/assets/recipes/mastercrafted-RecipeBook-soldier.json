@@ -20,7 +20,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.Hu0cO3JtY57I7SHA",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.Hu0cO3JtY57I7SHA",
               "quantity": "3",
               "name": "Aboleth Tentacle"
             }
@@ -56,7 +56,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.jMhT1HWJKbzwF4E6",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.jMhT1HWJKbzwF4E6",
               "quantity": 1,
               "name": "Aboleth Tail"
             }
@@ -92,7 +92,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.v6ne8mCrsuSZtvuT",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.v6ne8mCrsuSZtvuT",
               "quantity": 1,
               "name": "Ankheg Claw"
             }
@@ -104,7 +104,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.PeoqUmCfyLc6aD1G",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.PeoqUmCfyLc6aD1G",
               "quantity": 1,
               "name": "Acid Greatsword"
             }
@@ -128,7 +128,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.BDHWdEhZDTknGBuT",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.BDHWdEhZDTknGBuT",
               "quantity": 1,
               "name": "Basilisk Fang"
             }
@@ -140,7 +140,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.mHyZhJoRKr93ixWN",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.mHyZhJoRKr93ixWN",
               "quantity": 1,
               "name": "Poison Dagger"
             }
@@ -164,7 +164,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.AuzWNRAK3Cb6q1Gb",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.AuzWNRAK3Cb6q1Gb",
               "quantity": "20",
               "name": "Behir Claws"
             }
@@ -176,7 +176,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.DJQgAZSgvMahjiCD",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.DJQgAZSgvMahjiCD",
               "quantity": 1,
               "name": "Dragon Slayer"
             }
@@ -200,7 +200,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.fjHpHR3Zejmm5oKH",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.fjHpHR3Zejmm5oKH",
               "quantity": 1,
               "name": "Behir Fang"
             }
@@ -212,7 +212,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.pEGrXOnjqCbB9JN7",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.pEGrXOnjqCbB9JN7",
               "quantity": 1,
               "name": "Lightning Dagger"
             }
@@ -236,7 +236,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.psRCJillrBK8H0ys",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.psRCJillrBK8H0ys",
               "quantity": 1,
               "name": "Behir Tail"
             }
@@ -248,7 +248,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.HGty8tdY5VFnwINn",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.HGty8tdY5VFnwINn",
               "quantity": 1,
               "name": "Lightning Whip"
             }
@@ -272,7 +272,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.fchSDphe1BlzqebT",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.fchSDphe1BlzqebT",
               "quantity": 1,
               "name": "Large Beholder Eye"
             }
@@ -284,7 +284,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.xlOIfH6Gat0Y2V0L",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.xlOIfH6Gat0Y2V0L",
               "quantity": 1,
               "name": "Grotesque Sentinel Shield"
             }
@@ -308,7 +308,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.3vp7s98R2KWwHZHZ",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.3vp7s98R2KWwHZHZ",
               "quantity": 1,
               "name": "Bulette Claws"
             }
@@ -320,7 +320,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.kQqad2j7LNwuexzl",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.kQqad2j7LNwuexzl",
               "quantity": 1,
               "name": "Bulette Dagger"
             }
@@ -344,7 +344,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.YADVVgLcwkFkrtMg",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.YADVVgLcwkFkrtMg",
               "quantity": 1,
               "name": "Bulette Head Plate"
             }
@@ -356,7 +356,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.9a7aCJHZYpxttmbv",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.9a7aCJHZYpxttmbv",
               "quantity": 1,
               "name": "Bulette Shield"
             }
@@ -380,7 +380,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.6xa9YT6PB3LtnwEV",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.6xa9YT6PB3LtnwEV",
               "quantity": 1,
               "name": "Bulette Tendon"
             }
@@ -392,7 +392,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.6LpU7pXEabbSpz8P",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.6LpU7pXEabbSpz8P",
               "quantity": 1,
               "name": "Bulette Shortbow"
             }
@@ -416,7 +416,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.xf4LFjs3ydR2cTwX",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.xf4LFjs3ydR2cTwX",
               "quantity": 1,
               "name": "Spectator Hide"
             }
@@ -428,7 +428,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.4J51wJy4FpMkZGUc",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.4J51wJy4FpMkZGUc",
               "quantity": 1,
               "name": "Shield of Spell Reflection"
             }
@@ -452,7 +452,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.9PjTB3iugCh1HwhV",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.9PjTB3iugCh1HwhV",
               "quantity": "2",
               "name": "Chuul Pincers"
             }
@@ -464,7 +464,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.creature-loot.creature-loot-items.lEMk6Em8dJvPGVR1",
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.lEMk6Em8dJvPGVR1",
               "quantity": 1,
               "name": "Chuul Greatsword"
             }

@@ -1,8 +1,8 @@
 {
-  "id": "creature-loot",
-  "title": "Creature Loot",
+  "id": "creature-loot-crafting-and-gathering",
+  "title": "Creature Loot Crafting & Gathering",
   "description": "Collating Jon Gazda's Creature Loot supplements for use in Foundry with theripper93's premium modules.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "authors": [
     {
       "name": "Action Jay",
@@ -58,23 +58,23 @@
   ],
   "packs": [
     {
-      "name": "creature-loot-items",
+      "name": "creature-loot-crafting-and-gathering-items",
       "label": "Creature Loot Items",
-      "path": "packs/creature-loot-items",
+      "path": "packs/creature-loot-crafting-and-gathering-items",
       "type": "Item",
       "system": "dnd5e"
     },
     {
-      "name": "creature-loot-journals",
+      "name": "creature-loot-crafting-and-gathering-journals",
       "label": "Creature Loot Journals",
-      "path": "packs/creature-loot-journals",
+      "path": "packs/creature-loot-crafting-and-gathering-journals",
       "type": "JournalEntry",
       "system": "dnd5e"
     },
     {
-      "name": "creature-loot-tables",
+      "name": "creature-loot-crafting-and-gathering-tables",
       "label": "Creature Loot Tables",
-      "path": "packs/creature-loot-tables",
+      "path": "packs/creature-loot-crafting-and-gathering-tables",
       "type": "RollTable",
       "system": "dnd5e"
     }
@@ -89,12 +89,12 @@
     "maximum": 11
   },
   "manifestPlusVersion": "1.2.1",
-  "url": "https://github.com/p4535992/foundryvtt-creature-loot",
-  "manifest": "https://github.com/p4535992/foundryvtt-creature-loot/releases/download/0.3.0/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-creature-loot/releases/download/0.3.0/module.zip",
-  "readme": "https://github.com/p4535992/foundryvtt-creature-loot/blob/master/README.md",
-  "changelog": "https://github.com/p4535992/foundryvtt-creature-loot/blob/master/CHANGELOG.md",
-  "bugs": "https://github.com/p4535992/foundryvtt-creature-loot/issues",
+  "url": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering",
+  "manifest": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.1/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.1/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/blob/master/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/blob/master/CHANGELOG.md",
+  "bugs": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/issues",
   "allowBugReporter": true,
   "relationships": {
     "systems": [
