@@ -14,7 +14,7 @@
 
 [![Translation status](https://weblate.foundryvtt-hub.com/widgets/creature-loot-crafting-and-gathering/-/287x66-black.png)](https://weblate.foundryvtt-hub.com/engage/creature-loot-crafting-and-gathering/)
 
-### Most of the original work was done by [action-jay](https://github.com/action-jay/) if you are feeling generous buy him a coffee [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/user/membership?u=78783518) and if you are feeling even more generous one for me too [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/p4535992
+### Most of the original work was done by [action-jay](https://github.com/action-jay/) if you are feeling generous buy him a coffee [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/user/membership?u=78783518) and if you are feeling even more generous one for me too [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/p4535992)
 
 Collating Jon Gazda's Creature Loot supplements for use in Foundry with theripper93's premium modules Gatherer and Mastercrafted
 
@@ -28,7 +28,7 @@ And later:
 
 *tables need to be imported to your world for Gatherer journal entries to work. Everything else references from within the compendiums
 
-Source Content: https://www.gmbinder.com/share/-L9zV7_eIrs3bqQ_cNd5
+The material referenced here comes from "Creature Loot PDF" by Unknown available free on GM Binder at [Creature Loot PDF](https://www.gmbinder.com/share/-L9zV7_eIrs3bqQ_cNd5) or here on the project [Potion Brewing and Ingredient Gathering for DnD 5e (Local)]()
 
 Monster Manual Progress:
 ⬤⬤⬤◔○○○○○○○○○ 26%
