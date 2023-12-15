@@ -2,7 +2,7 @@
   "id": "creature-loot-crafting-and-gathering",
   "title": "Creature Loot Crafting & Gathering",
   "description": "Collating Jon Gazda's Creature Loot supplements for use in Foundry with theripper93's premium modules.",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "authors": [
     {
       "name": "Action Jay",
@@ -90,8 +90,8 @@
   },
   "manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering",
-  "manifest": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.1/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.1/module.zip",
+  "manifest": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.2/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.2/module.zip",
   "readme": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/blob/master/README.md",
   "changelog": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/issues",
