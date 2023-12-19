@@ -28,7 +28,7 @@ And later:
 
 *tables need to be imported to your world for Gatherer journal entries to work. Everything else references from within the compendiums
 
-The material referenced here comes from "Creature Loot PDF" by Unknown available free on GM Binder at [Creature Loot PDF](https://www.gmbinder.com/share/-L9zV7_eIrs3bqQ_cNd5) or here on the project [Creature Loot for DnD 5e (Local)](/wiki/Creature Loot PDF _GM Binder_compressed.pdf)
+The material referenced here comes from "Creature Loot PDF" by Unknown available free on GM Binder at [Creature Loot PDF](https://www.gmbinder.com/share/-L9zV7_eIrs3bqQ_cNd5) or here on the project [Creature Loot for DnD 5e (Local)](wiki/Creature_Loot_GM_Binder_compressed.pdf)
 
 Monster Manual Progress:
 ⬤⬤⬤◔○○○○○○○○○ 26%
