@@ -113,7 +113,7 @@ async function importAll() {
     await bookObj.saveData();
   }
   ui.notifications.notify("Creature Loot Crafting & Gathering - Recipe Books Imported");
-  await game.packs.get(CONSTANTS.PACK_UUID_ITEMS).importAll({ keepId: true });
+  // await game.packs.get(CONSTANTS.PACK_UUID_ITEMS).importAll({ keepId: true });
   await game.packs.get(CONSTANTS.PACK_UUID_ROLLTABLES).importAll({ keepId: true });
   await game.packs.get(CONSTANTS.PACK_UUID_JOURNALS).importAll({ keepId: true });
   new ui.RecipeApp().render(true);
