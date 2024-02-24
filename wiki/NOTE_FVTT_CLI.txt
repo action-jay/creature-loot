@@ -1,0 +1,7 @@
+creature-loot-crafting-and-gathering
+
+fvtt package workon creature-loot-crafting-and-gathering
+
+fvtt package pack creature-loot-crafting-and-gathering-items
+fvtt package pack creature-loot-crafting-and-gathering-journals
+fvtt package pack creature-loot-crafting-and-gathering-tables

@@ -1,0 +1,266 @@
+{
+  "name": "Tailor",
+  "description": "Crafted clothing and armor from Creature Loot",
+  "ownership": {
+    "UaeZM6yl2QxuItnu": "2"
+  },
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Cloak of the Manta Ray",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.Zw93B7r7yhGKzzjC",
+              "quantity": 1,
+              "name": "Aboleth Hide"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.world.ddb-pcandg-items.5S9RMQXAviqX1Rq5",
+              "quantity": 1,
+              "name": "Cloak of the Manta Ray"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/back/cloak-collared-blue.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Carpet of Flying",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Must be mastercrafted (transmutation) by a spellcaster",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.W4lSJdBig8rnPKfO",
+              "quantity": 1,
+              "name": "Animate Carpet Patch"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.mXiSv5mMFJs7kUck",
+              "quantity": 1,
+              "name": "Carpet of Flying"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/back/cloak-hooded-pink.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Armor of Lightning Resistance, Studded Leather",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.C0nNYCjI79DLKC24",
+              "quantity": 1,
+              "name": "Behir Hide"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.hY85eAkSV6reT8fj",
+              "quantity": "2",
+              "name": "Armor of Lightning Resistance, Studded Leather"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-brown.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Cape of the Mountebank",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.KjWzpMtSU3N1xpvE",
+              "quantity": "4",
+              "name": "Cambion Wing"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.zN0kKrWkkQ0RQeFp",
+              "quantity": 1,
+              "name": "Cape of the Mountebank"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Chuul Scale Mail",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Smith's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.BID1xwdXUadeSweo",
+              "quantity": 1,
+              "name": "Chuul Carapace"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.nhr9Mwp13XLibHKp",
+              "quantity": 1,
+              "name": "Chuul Scale Mail"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-scale-grey.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Cloak of Displacement",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Must be mastercrafted (illusion) by a spellcaster",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.9H9rrzY2QiqELoVT",
+              "quantity": "4",
+              "name": "Cloaker Wing"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.uBIt0MkpSLczyKy7",
+              "quantity": 1,
+              "name": "Cloak of Displacement"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/back/cloak-hooded-red.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Armor of Radiant Resistance, Hide",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.4r7JDItsKFOEWiyL",
+              "quantity": 1,
+              "name": "Couatl Hide"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.s4KxHwWzsgFaPjbN",
+              "quantity": 1,
+              "name": "Armor of Radiant Resistance, Hide"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    }
+  ],
+  "img": "icons/tools/fasteners/button.webp",
+  "documentName": "RecipeBook"
+}
