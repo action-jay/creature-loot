@@ -1,3 +1,7 @@
+### 0.3.4
+
+- Add Pack Folder to module.json
+
 ### 0.3.3
 
 - Some javascript

@@ -54,6 +54,8 @@ Any issues, bugs, or feature requests are always welcome to be reported directly
 
 ## Api
 
+TODO
+
 # Build
 
 ## Install all packages
@@ -70,8 +72,6 @@ npm install
 npm run dev
 ```
 
-## npm build scripts
-
 ### build
 
 `build` will build and set up a symlink between `dist` and your `dataPath`.
@@ -80,12 +80,12 @@ npm run dev
 npm run build
 ```
 
-### build-watch
+### build:watch
 
-`build-watch` will build and watch for changes, rebuilding automatically.
+`build:watch` will build and watch for changes, rebuilding automatically.
 
 ```bash
-npm run build-watch
+npm run build:watch
 ```
 
 ### prettier-format
@@ -94,6 +94,22 @@ npm run build-watch
 
 ```bash
 npm run-script prettier-format
+```
+
+### lint
+
+`lint` launch the eslint process based on the configuration [here](./.eslintrc.json)
+
+```bash
+npm run-script lint
+```
+
+### lint:fix
+
+`lint:fix` launch the eslint process with the fix argument
+
+```bash
+npm run-script lint:fix
 ```
 
 ## [Changelog](./CHANGELOG.md)

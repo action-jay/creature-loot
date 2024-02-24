@@ -2,7 +2,7 @@
   "id": "creature-loot-crafting-and-gathering",
   "title": "Creature Loot Crafting & Gathering",
   "description": "Collating Jon Gazda's Creature Loot supplements for use in Foundry with theripper93's premium modules.",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "authors": [
     {
       "name": "Action Jay",
@@ -100,6 +100,18 @@
       "flags": {}
     }
   ],
+  "packFolders": [
+    {
+      "name": "Creature Loot Crafting & Gathering",
+      "sorting": "m",
+      "color": "#375534",
+      "packs": [
+        "creature-loot-crafting-and-gathering-items",
+        "creature-loot-crafting-and-gathering-journals",
+        "creature-loot-crafting-and-gathering-tables"        
+      ]
+    }
+  ],
   "systems": [],
   "scripts": [],
   "esmodules": ["module.js"],
@@ -111,8 +123,8 @@
   },
   "manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering",
-  "manifest": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.3/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.3/module.zip",
+  "manifest": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.4/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.4/module.zip",
   "readme": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/blob/master/README.md",
   "changelog": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/issues",
@@ -135,6 +147,20 @@
       }
     ],
     "requires": [],
-    "conflicts": []
+    "conflicts": [],
+    "recommends": [
+      {
+        "id": "compendium-themer",
+        "type": "module"
+      },
+      {
+        "id": "gatherer",
+        "type": "module"
+      },
+      {
+        "id": "mastercrafted",
+        "type": "module"
+      }
+    ]
   }
 }

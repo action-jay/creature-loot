@@ -63,8 +63,7 @@ Hooks.once("init", async () => {
 Hooks.once("setup", function () {
   // Do anything after initialization but before ready
 
-  const data = game.modules.get(CONSTANTS.MODULE_ID);
-  data.api = API;
+  const data = (game.modules.get(CONSTANTS.MODULE_ID).api = API);
 });
 
 /* ------------------------------------ */
@@ -82,9 +81,9 @@ Hooks.once("ready", async () => {
     yes: () => {
       if (!game.modules.get(CONSTANTS.GATHERER_MODULE_ID)?.active && game.user?.isGM) {
         ui.notifications.warn(
-          `You need to install and activate the module premium '${CONSTANTS.GATHERER_MODULE_ID}' for this`
+          `${CONSTANTS.MODULE_ID} | You need to install and activate the module premium '${CONSTANTS.GATHERER_MODULE_ID}' for this`
         );
-        ui.notifications.warn(`You can still use the compendiums anyway as normal`);
+        ui.notifications.warn(`${CONSTANTS.MODULE_ID} | You can still use the compendiums anyway as normal`);
       } else {
         importAll();
       }
@@ -112,7 +111,7 @@ async function importAll() {
     const bookObj = new ui.RecipeApp.RecipeBook(bookData);
     await bookObj.saveData();
   }
-  ui.notifications.notify("Creature Loot Crafting & Gathering - Recipe Books Imported");
+  ui.notifications.notify(`${CONSTANTS.MODULE_ID} | Recipe Books Imported`);
   // await game.packs.get(CONSTANTS.PACK_UUID_ITEMS).importAll({ keepId: true });
   await game.packs.get(CONSTANTS.PACK_UUID_ROLLTABLES).importAll({ keepId: true });
   await game.packs.get(CONSTANTS.PACK_UUID_JOURNALS).importAll({ keepId: true });
