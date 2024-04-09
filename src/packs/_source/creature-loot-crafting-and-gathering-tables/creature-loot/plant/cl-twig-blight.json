@@ -1,0 +1,61 @@
+{
+  "name": "CL-Twig Blight",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Gulthias Twig",
+      "img": "icons/commodities/wood/kindling-stick-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "whCWaTzAB2Zb8zFF",
+      "_id": "5zvaDhts6253MotN",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!bboWwb4Gx7kOMzuX.5zvaDhts6253MotN"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_zmmnkd5azk",
+      "path": "Creature Loot#/CF_SEP/Plant",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828941,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "bboWwb4Gx7kOMzuX",
+  "folder": "wxmZGGyXrxVKazV0",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!bboWwb4Gx7kOMzuX"
+}

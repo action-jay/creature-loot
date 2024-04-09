@@ -1,0 +1,226 @@
+{
+  "name": "Cloak of the Manta Ray",
+  "type": "equipment",
+  "system": {
+    "description": {
+      "value": "<p>While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.</p>",
+      "chat": "",
+      "unidentified": "Wondrous item"
+    },
+    "source": "Basic Rules, Player's Handbook pg 159",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10,
+      "type": "trinket",
+      "dex": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true,
+    "capacity": {
+      "type": "weight",
+      "value": null,
+      "weightless": false
+    },
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Wondrous item",
+        "avatarUrl": "https://www.dndbeyond.com/avatars/19/217/636382363566602455.jpeg",
+        "largeAvatarUrl": "https://www.dndbeyond.com/avatars/7/170/636284723816150463.jpeg",
+        "filterType": "Wondrous item",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": 6,
+        "tags": [
+          "Buff",
+          "Movement",
+          "Outerwear"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": 159,
+            "sourceType": 1
+          }
+        ],
+        "pictureUrl": "https://www.dndbeyond.com/avatars/7/170/636284723816150463.jpeg"
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 4609,
+      "originalName": "Cloak of the Manta Ray",
+      "version": "3.1.17",
+      "effectsApplied": true
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": true,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "dae": {
+      "activeEquipped": true,
+      "alwaysActive": false
+    },
+    "cf": {
+      "id": "temp_a7reen07obt",
+      "path": "Creature Loot#/CF_SEP/Crafted Items#/CF_SEP/Trinkets",
+      "color": "#000000"
+    }
+  },
+  "effects": [
+    {
+      "label": "Cloak of the Manta Ray - Constant Effects",
+      "icon": "icons/equipment/back/cloak-collared-blue.webp",
+      "changes": [
+        {
+          "key": "system.attributes.movement.swim",
+          "value": "60",
+          "mode": 4,
+          "priority": 5
+        }
+      ],
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "tint": null,
+      "transfer": true,
+      "disabled": false,
+      "flags": {
+        "dae": {
+          "transfer": true,
+          "stackable": "none"
+        },
+        "ddbimporter": {
+          "disabled": false,
+          "itemId": 0,
+          "itemEntityTypeId": 0
+        },
+        "midi-qol": {
+          "forceCEOff": true
+        }
+      },
+      "_id": "Xfmp4hQFBguqjTmz",
+      "origin": null,
+      "_key": "!items.effects!LKjSsS4S5njKbEIQ.Xfmp4hQFBguqjTmz"
+    }
+  ],
+  "img": "icons/equipment/back/cloak-collared-blue.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010238681,
+    "modifiedTime": 1692222821500,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "LKjSsS4S5njKbEIQ",
+  "folder": "WSuYUZ2SBERqbEcN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!LKjSsS4S5njKbEIQ"
+}

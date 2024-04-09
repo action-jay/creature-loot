@@ -1,0 +1,105 @@
+{
+  "name": "CL-Basilisk",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Basilisk Eye",
+      "img": "icons/commodities/biological/eye-lizard-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "rMzR0RwryvkPQL7k",
+      "_id": "R6n0jI8t2NlF6izC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DHlHjPZlJzNG7Y7y.R6n0jI8t2NlF6izC"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Basilisk Fang",
+      "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "BDHWdEhZDTknGBuT",
+      "_id": "YUp8yQj9qVmZ7l1S",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DHlHjPZlJzNG7Y7y.YUp8yQj9qVmZ7l1S"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Basilisk Stomach",
+      "img": "icons/commodities/biological/organ-stomach.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "1EDGxp85Y96Z0T7i",
+      "_id": "ppN5E0zwwqZBkDdt",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DHlHjPZlJzNG7Y7y.ppN5E0zwwqZBkDdt"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_h201b87tbzv",
+      "path": "Creature Loot#/CF_SEP/Monstrosity",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829137,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "DHlHjPZlJzNG7Y7y",
+  "folder": "cRKGagRjVYh0KbVZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!DHlHjPZlJzNG7Y7y"
+}

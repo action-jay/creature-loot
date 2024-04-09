@@ -1,0 +1,149 @@
+{
+  "name": "CL-Beholder",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Large Beholder Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "fchSDphe1BlzqebT",
+      "_id": "rHkxKbJnMXrzY6vU",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!pWv7GiVRhgidfPrC.rHkxKbJnMXrzY6vU"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Small Beholder Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "7G1PQuaERKAyBzY1",
+      "_id": "I0x0Fv9MgmjbUcor",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4"
+          }
+        }
+      },
+      "_key": "!tables.results!pWv7GiVRhgidfPrC.I0x0Fv9MgmjbUcor"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Beholder Slime",
+      "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "AUmPpBy0NSWXgTpC",
+      "_id": "BMboU7J5zC62L7zY",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!pWv7GiVRhgidfPrC.BMboU7J5zC62L7zY"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Beholder Eyestalkk",
+      "img": "icons/commodities/biological/eye-tentacle-green-yellow.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "d4PcrEmWdmI9zsj0",
+      "_id": "26N5ISkJKt6Mr6qD",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4"
+          }
+        }
+      },
+      "_key": "!tables.results!pWv7GiVRhgidfPrC.26N5ISkJKt6Mr6qD"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Set of Armor",
+      "img": "icons/equipment/chest/breastplate-layered-leather-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "bNBRzpdAyTY86CHG",
+      "_id": "DgGXK7rNEZb1TUig",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3"
+          }
+        }
+      },
+      "_key": "!tables.results!pWv7GiVRhgidfPrC.DgGXK7rNEZb1TUig"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_uup1gioo1kj",
+      "path": "Creature Loot#/CF_SEP/Aberration",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829016,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "pWv7GiVRhgidfPrC",
+  "folder": "IN8WLu9CTsWeuo5W",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!pWv7GiVRhgidfPrC"
+}

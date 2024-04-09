@@ -1,0 +1,43 @@
+{
+  "name": "Demilich Teeth",
+  "type": "loot",
+  "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. Can be carefully crafted (alchemist's supplies) in one of the following potions: Potion of Necrotic Resistance, Potion of Poison Resistance, Potion of Psychic Resistance, Potion of Magic Resistance, Potion of Evasion (for 1 hour, if subjected to a Dexterity saving throw to take half damage, take half damage on a failed save and no damage on a success), or Potion of Truesight (grants truesight out to 120 feet for 1 hour). When the Demilich reforms, all un-crafted teeth return to the Demilich. If the Phylactery is destroyed, these items crumble into useless dust.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ux429zxji9h",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667147568312,
+    "modifiedTime": 1692222821057,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "6INfiNIz52lgY5TN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "fnA8Qr8vC5ZCfNlM",
+  "_key": "!items!fnA8Qr8vC5ZCfNlM"
+}

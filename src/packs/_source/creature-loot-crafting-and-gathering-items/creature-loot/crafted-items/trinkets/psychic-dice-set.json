@@ -1,0 +1,105 @@
+{
+  "name": "Psychic Dice Set",
+  "type": "tool",
+  "system": {
+    "description": {
+      "value": "<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set.</p><p><span style=\"font-family:Signika, sans-serif\">This set of dice that is  sensitive to psychic energy.</span></p>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0.1,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "toolType": "game",
+    "baseItem": "dice",
+    "ability": "int",
+    "chatFlavor": "",
+    "proficient": 0,
+    "bonus": "",
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Tool",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Social"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 121,
+      "originalName": "Dice Set",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "cf": {
+      "id": "temp_a7reen07obt",
+      "path": "Creature Loot#/CF_SEP/Crafted Items#/CF_SEP/Trinkets",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/sundries/gaming/dice-runed-brown.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242293,
+    "modifiedTime": 1692222821500,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nvYlEjijPVAptBrY",
+  "folder": "WSuYUZ2SBERqbEcN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!nvYlEjijPVAptBrY"
+}

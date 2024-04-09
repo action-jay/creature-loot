@@ -1,0 +1,43 @@
+{
+  "name": "Tattered Javelin",
+  "type": "loot",
+  "img": "icons/weapons/polearms/javelin-flared.webp",
+  "system": {
+    "description": {
+      "value": "<p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 2,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ykgx1rqj3fh",
+      "path": "Creature Loot#/CF_SEP/Loot#/CF_SEP/Weapons",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666360663593,
+    "modifiedTime": 1692222821326,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "FZcVfBB18uGKirSP",
+  "folder": "fWdLoP0QnBwQuulo",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!FZcVfBB18uGKirSP"
+}

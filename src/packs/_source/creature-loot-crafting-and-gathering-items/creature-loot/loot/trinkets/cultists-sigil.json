@@ -1,0 +1,43 @@
+{
+  "name": "Cultist's Sigil",
+  "type": "loot",
+  "img": "icons/equipment/neck/necklace-simple-carved-spiral-blue.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>The signature sigil of a demonic cult. By using the sigil to cast a ritual spell over the course of a number of hours equal to the demon's CR, the particular demon who was holding the sigil can be summoned. The demon will be hostile upon arrival and must be magically contained in order to be bargained with.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 1,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3vlt1onv82u",
+      "path": "Creature Loot#/CF_SEP/Loot",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167704647,
+    "modifiedTime": 1692222821412,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "k8l9WMMXS1jOADpj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "ywh1I2hebA9BatIU",
+  "_key": "!items!ywh1I2hebA9BatIU"
+}

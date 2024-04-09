@@ -1,0 +1,223 @@
+{
+  "name": "Carpet of Flying",
+  "type": "equipment",
+  "system": {
+    "description": {
+      "value": "<p>You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.</p>\n<p>Four sizes of <em>carpet of flying</em> exist. The DM chooses the size of a given carpet or determines it randomly.</p>\n<table style=\"width:50%\">\n<thead>\n<tr>\n<th>Size</th>\n<th>Capacity</th>\n<th>Flying Speed</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">3 ft. x 5 ft.</td>\n<td style=\"text-align:center\">200 lb.</td>\n<td style=\"text-align:center\">80 feet</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">4 ft. x 6 ft.</td>\n<td style=\"text-align:center\">400 lb.</td>\n<td style=\"text-align:center\">60 feet</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">5 ft. x 7 ft.</td>\n<td style=\"text-align:center\">600 lb.</td>\n<td style=\"text-align:center\">40 feet</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">6 ft. x 9 ft.</td>\n<td style=\"text-align:center\">800 lb.</td>\n<td style=\"text-align:center\">30 feet</td>\n</tr>\n</tbody>\n</table>\n<p><br /> A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.</p>",
+      "chat": "",
+      "unidentified": "Wondrous item"
+    },
+    "source": "Basic Rules, Player's Handbook pg 157",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10,
+      "type": "trinket",
+      "dex": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true,
+    "capacity": {
+      "type": "weight",
+      "value": null,
+      "weightless": false
+    },
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Wondrous item",
+        "filterType": "Wondrous item",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Movement",
+          "Utility",
+          "Exploration"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": 157,
+            "sourceType": 1
+          }
+        ]
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 5373,
+      "originalName": "Carpet of Flying",
+      "version": "3.1.17",
+      "effectsApplied": true
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": true,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "dae": {
+      "alwaysActive": false,
+      "activeEquipped": true
+    },
+    "cf": {
+      "id": "temp_a7reen07obt",
+      "path": "Creature Loot#/CF_SEP/Crafted Items#/CF_SEP/Trinkets",
+      "color": "#000000"
+    }
+  },
+  "effects": [
+    {
+      "label": "Carpet of Flying - Constant Effects",
+      "icon": "icons/equipment/back/cloak-hooded-pink.webp",
+      "changes": [
+        {
+          "key": "system.attributes.movement.fly",
+          "value": "@attributes.movement.walk",
+          "mode": 4,
+          "priority": 5
+        }
+      ],
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "tint": null,
+      "transfer": true,
+      "disabled": false,
+      "flags": {
+        "dae": {
+          "transfer": true,
+          "stackable": "none"
+        },
+        "ddbimporter": {
+          "disabled": false,
+          "itemId": 0,
+          "itemEntityTypeId": 0
+        },
+        "midi-qol": {
+          "forceCEOff": true
+        }
+      },
+      "_id": "KAL6qgrhkOeKF7Mw",
+      "origin": null,
+      "_key": "!items.effects!mXiSv5mMFJs7kUck.KAL6qgrhkOeKF7Mw"
+    }
+  ],
+  "img": "icons/equipment/back/cloak-hooded-pink.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010239348,
+    "modifiedTime": 1692222821500,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "mXiSv5mMFJs7kUck",
+  "folder": "WSuYUZ2SBERqbEcN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!mXiSv5mMFJs7kUck"
+}

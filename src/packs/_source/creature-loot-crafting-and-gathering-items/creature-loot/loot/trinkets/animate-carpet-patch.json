@@ -1,0 +1,43 @@
+{
+  "name": "Animate Carpet Patch",
+  "type": "loot",
+  "img": "icons/commodities/cloth/cloth-bolt-tan.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-m2wJvOCK0BE7Epp9\" class=\"secret\"><p>No immediate use, can be mastercrafted (transmutation) by a spellcaster into a Carpet of Flying (maximum dimensions 4 x 6 feet).</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 1,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3vlt1onv82u",
+      "path": "Creature Loot#/CF_SEP/Loot#/CF_SEP/Trinkets",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667155362416,
+    "modifiedTime": 1692222821412,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "W4lSJdBig8rnPKfO",
+  "folder": "k8l9WMMXS1jOADpj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!W4lSJdBig8rnPKfO"
+}

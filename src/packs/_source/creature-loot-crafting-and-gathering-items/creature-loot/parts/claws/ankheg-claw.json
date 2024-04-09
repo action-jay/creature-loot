@@ -1,0 +1,83 @@
+{
+  "name": "Ankheg Claw",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-cRsPlPzwzriIO5H4\" class=\"secret\"><p>Acts as a shovel. Can be carefully crafted (smith's tools) into a Greatsword that deals an additional 3 (1d6) acid damage on a hit.</p></section>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 5,
+    "price": null,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "cost": 2,
+    "baseItem": "",
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Adventuring Gear",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Utility"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 82,
+      "originalName": "Shovel",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false
+    },
+    "cf": {
+      "id": "temp_y1rvgw7jjpc",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Claws",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/creatures/claws/claw-straight-orange.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242029,
+    "modifiedTime": 1692222821211,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "v6ne8mCrsuSZtvuT",
+  "folder": "Bfz8sfnF6rUPkZKA",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!v6ne8mCrsuSZtvuT"
+}

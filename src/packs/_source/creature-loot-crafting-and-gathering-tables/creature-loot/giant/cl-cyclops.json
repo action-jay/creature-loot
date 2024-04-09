@@ -1,0 +1,149 @@
+{
+  "name": "CL-Cyclops",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Greatclub",
+      "img": "icons/weapons/clubs/club-heavy-barbed-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Xo5WpkqJJ9pCyxlN",
+      "_id": "maJfuu2cRWaD8fU3",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!InkJq35kpQFz1opm.maJfuu2cRWaD8fU3"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Items in a Giant's Bag",
+      "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "USSiwmJSv8SF6bcD",
+      "_id": "23cv7IpiIrYRerV1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!InkJq35kpQFz1opm.23cv7IpiIrYRerV1"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cyclops Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Opz5IelEJsKPCvMI",
+      "_id": "VRfmCdNrDFg86FSf",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!InkJq35kpQFz1opm.VRfmCdNrDFg86FSf"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Giant's Toes",
+      "img": "icons/commodities/biological/foot-black-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "dr8zyIkA7uKhqtwd",
+      "_id": "aOo9jjyASkb8V4o0",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!InkJq35kpQFz1opm.aOo9jjyASkb8V4o0"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cyclops Heart",
+      "img": "icons/commodities/biological/organ-heart-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "HzX64gzm28wdCeDD",
+      "_id": "OW6he7aOf1B2Wwsx",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!InkJq35kpQFz1opm.OW6he7aOf1B2Wwsx"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_td989w698ld",
+      "path": "Creature Loot#/CF_SEP/Giant",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828977,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "InkJq35kpQFz1opm",
+  "folder": "Z6eQhG8Dm813751w",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!InkJq35kpQFz1opm"
+}

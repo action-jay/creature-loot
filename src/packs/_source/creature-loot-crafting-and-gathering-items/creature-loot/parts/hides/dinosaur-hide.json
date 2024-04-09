@@ -1,0 +1,85 @@
+{
+  "name": "Dinosaur Hide",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Acts as a blanket. Can be carefully crafted (leatherworker's tools) into the equivalent of studded leather armor or a chain shirt.</p></section>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 10,
+    "price": 2,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "cost": 2,
+    "baseItem": "",
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Adventuring Gear",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Social",
+          "Utility",
+          "Exploration"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 89,
+      "originalName": "Tent, Two-Person",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false
+    },
+    "cf": {
+      "id": "temp_hbs3bukdrc5",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/commodities/leather/scales-blue-white.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242046,
+    "modifiedTime": 1692222820949,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "JWvJnD4OYsBbtLxS",
+  "folder": "BV9E8W7RF4S5pFDL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!JWvJnD4OYsBbtLxS"
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Strip of Silver Dragon Hide",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Acts as a blanket. Each can be mastercrafted (leatherworker's tools) into the equivalent of one of the following: Studded Leather Armor +1, Scale Mail +1, or Splint armor +1. Additionally, the armor requires attunement, and grants the attuned creature a flying speed of 30 feet.</p></section>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 5,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "cost": 2,
+    "baseItem": "",
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Adventuring Gear",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Social",
+          "Utility",
+          "Exploration"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 89,
+      "originalName": "Tent, Two-Person",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false
+    },
+    "cf": {
+      "id": "temp_hbs3bukdrc5",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Hides",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/commodities/leather/fur-pink.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242046,
+    "modifiedTime": 1692222820949,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "JfCGXf9tnqRUudyX",
+  "folder": "BV9E8W7RF4S5pFDL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!JfCGXf9tnqRUudyX"
+}

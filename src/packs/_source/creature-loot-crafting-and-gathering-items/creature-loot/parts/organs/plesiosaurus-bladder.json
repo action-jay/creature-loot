@@ -1,0 +1,43 @@
+{
+  "name": "Plesiosaurus Bladder",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-stomach.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Acts as a balloon. Can be crafted (leatherworker's tools) into a waterskin.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_52kb3z31d5o",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667920991666,
+    "modifiedTime": 1692222820897,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "cMH2zIaXpLXqCMTT",
+  "folder": "4fFuzNwT9gpMSpUN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!cMH2zIaXpLXqCMTT"
+}

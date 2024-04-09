@@ -1,0 +1,43 @@
+{
+  "name": "Aboleth Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pink.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-irRAqnT2JaRfig1q\" class=\"secret\"><p>Acts as a blanket. Can be mastercrafted (leatherworker's tools) into a Cloak of the Manta Ray.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 5,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_hbs3bukdrc5",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Hides",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667147737708,
+    "modifiedTime": 1692222820949,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Zw93B7r7yhGKzzjC",
+  "folder": "BV9E8W7RF4S5pFDL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Zw93B7r7yhGKzzjC"
+}

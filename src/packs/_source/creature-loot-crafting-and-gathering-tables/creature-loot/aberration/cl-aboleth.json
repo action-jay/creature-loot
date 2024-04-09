@@ -1,0 +1,171 @@
+{
+  "name": "CL-Aboleth",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Aboleth Tentacle",
+      "img": "icons/commodities/biological/tentacle-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Hu0cO3JtY57I7SHA",
+      "_id": "nslhObKswawHeM52",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3"
+          }
+        }
+      },
+      "_key": "!tables.results!jLCKMUzQzwVzIhtm.nslhObKswawHeM52"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Aboleth Mucous",
+      "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "QtEkA5XgWXikgIGA",
+      "_id": "a8M4mOJmOcgbfjPY",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!jLCKMUzQzwVzIhtm.a8M4mOJmOcgbfjPY"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Aboleth Tail",
+      "img": "icons/commodities/biological/tail-rodent-striped-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "jMhT1HWJKbzwF4E6",
+      "_id": "ZH6evHzMruH84JIU",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!jLCKMUzQzwVzIhtm.ZH6evHzMruH84JIU"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Aboleth Teeth",
+      "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "8gSJlGpiOlRsOlnA",
+      "_id": "CR9Dhd0Tov3ZvOz8",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d10"
+          }
+        }
+      },
+      "_key": "!tables.results!jLCKMUzQzwVzIhtm.CR9Dhd0Tov3ZvOz8"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Aboleth Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Zw93B7r7yhGKzzjC",
+      "_id": "G0lcSQcFfSdmZhtg",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!jLCKMUzQzwVzIhtm.G0lcSQcFfSdmZhtg"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Aboleth's Bladder",
+      "img": "icons/commodities/biological/organ-stomach.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "FkmYPaisStM4G07e",
+      "_id": "wsOAQ1T8DzcXkDMn",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!jLCKMUzQzwVzIhtm.wsOAQ1T8DzcXkDMn"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_uup1gioo1kj",
+      "path": "Creature Loot#/CF_SEP/Aberration",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829016,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "jLCKMUzQzwVzIhtm",
+  "folder": "IN8WLu9CTsWeuo5W",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!jLCKMUzQzwVzIhtm"
+}

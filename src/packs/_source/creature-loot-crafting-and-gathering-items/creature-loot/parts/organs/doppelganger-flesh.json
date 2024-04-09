@@ -1,0 +1,43 @@
+{
+  "name": "Doppelganger Flesh",
+  "type": "loot",
+  "img": "icons/commodities/biological/pustules-pink.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>If applied to a missing hand or foot, it becomes a working replica of the missing appendage, though it never grafts to the rest of the body, so attaching it in some way is required. 2 lumps can form an arm, 3 lumps can form a leg. It cannot replicate more complex organs such as eyes or tongues.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 2,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_52kb3z31d5o",
+      "path": "Creature Loot",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667147737708,
+    "modifiedTime": 1692222820897,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "KsIfByca3vKynKHg",
+  "folder": "4fFuzNwT9gpMSpUN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!KsIfByca3vKynKHg"
+}

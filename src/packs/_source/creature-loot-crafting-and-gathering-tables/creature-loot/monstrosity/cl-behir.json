@@ -1,0 +1,149 @@
+{
+  "name": "CL-Behir",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Behir Claws",
+      "img": "icons/creatures/claws/claw-straight-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "AuzWNRAK3Cb6q1Gb",
+      "_id": "bA0nSsDhcu09YUH7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4d4"
+          }
+        }
+      },
+      "_key": "!tables.results!JoHjW3GuBX591jPx.bA0nSsDhcu09YUH7"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Behir Fang",
+      "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "fjHpHR3Zejmm5oKH",
+      "_id": "UibMVsDeJa0BtKi9",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!JoHjW3GuBX591jPx.UibMVsDeJa0BtKi9"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Behir Hide",
+      "img": "icons/commodities/leather/scales-blue-white.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "C0nNYCjI79DLKC24",
+      "_id": "mf11vOGF6t9FZzBk",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!JoHjW3GuBX591jPx.mf11vOGF6t9FZzBk"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Behir Tail",
+      "img": "icons/commodities/biological/tail-rodent-striped-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "psRCJillrBK8H0ys",
+      "_id": "GinSYxNIbGogDwOa",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!JoHjW3GuBX591jPx.GinSYxNIbGogDwOa"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Half Digested Corpse",
+      "img": "icons/magic/unholy/strike-beam-blood-large-red-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "ETOTXc4J0pICTBj4",
+      "_id": "KHUBYMg3XPSAkVWj",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3"
+          }
+        }
+      },
+      "_key": "!tables.results!JoHjW3GuBX591jPx.KHUBYMg3XPSAkVWj"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_h201b87tbzv",
+      "path": "Creature Loot#/CF_SEP/Monstrosity",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829137,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "JoHjW3GuBX591jPx",
+  "folder": "cRKGagRjVYh0KbVZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!JoHjW3GuBX591jPx"
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Ancient White Dragon Heart",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-AceVzkPFJqZiUGsK\" class=\"secret\"><p>If a humanoid creature's heart is removed or damaged in some way, the dragon's heart can be placed in the wound. This saves the creature's life, and confers the following benefits: The creature's Strength, Constitution, and Charisma increase by 2, to a maximum of 22. The creature gains one use of the Legendary Resistance trait (once per day, if the creature fails a saving throw, it may choose to succeed instead). The creature gains immunity to cold damage, a flying speed equal to their walking speed, and darkvision out to 120 feet. Additionally, the creature's alignment becomes Chaotic Evil if it wasn't already, and they become an NPC under the DM's control.</p></section>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 1,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "cost": 2,
+    "baseItem": "",
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Adventuring Gear",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Social",
+          "Utility",
+          "Exploration"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 89,
+      "originalName": "Tent, Two-Person",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false
+    },
+    "cf": {
+      "id": "temp_52kb3z31d5o",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Organs",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242046,
+    "modifiedTime": 1692222820897,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "aHBe4vHtyB2QaZWM",
+  "folder": "4fFuzNwT9gpMSpUN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!aHBe4vHtyB2QaZWM"
+}

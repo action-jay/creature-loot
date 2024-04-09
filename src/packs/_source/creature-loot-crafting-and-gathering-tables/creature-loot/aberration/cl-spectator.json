@@ -1,0 +1,105 @@
+{
+  "name": "CL-Spectator",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Large Spectator Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "mMp6M0y5FAHGAhrV",
+      "_id": "v5b8T2tL9HqvqHDJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!wTfXXg3yPZCVmoIe.v5b8T2tL9HqvqHDJ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Spectator Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "xf4LFjs3ydR2cTwX",
+      "_id": "rp8vIsZwabIgqr41",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!wTfXXg3yPZCVmoIe.rp8vIsZwabIgqr41"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Spectator Tongue",
+      "img": "icons/commodities/biological/tongue-violet.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "KbjJjygh3suXo1IB",
+      "_id": "CtHG3OdKb0Y4uxuR",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!wTfXXg3yPZCVmoIe.CtHG3OdKb0Y4uxuR"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_uup1gioo1kj",
+      "path": "Creature Loot#/CF_SEP/Aberration",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829016,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "wTfXXg3yPZCVmoIe",
+  "folder": "IN8WLu9CTsWeuo5W",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!wTfXXg3yPZCVmoIe"
+}

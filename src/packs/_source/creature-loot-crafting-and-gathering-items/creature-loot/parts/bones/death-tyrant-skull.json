@@ -1,0 +1,41 @@
+{
+  "name": "Death Tyrant Skull",
+  "type": "loot",
+  "img": "icons/commodities/bones/skull-fish.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-BaljnAFU8Jg5y6RO\" class=\"secret\"><p>No immediate use. Can be carefully crafted (alchemist's tools) into a Potion that acts as a Raise Dead spell, except that the target must currently be undead for the spell to take effect. This potion returns the creature to life as per the spell, despite the fact that the creature is undead.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 5,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_myqqlyel2fo"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167704647,
+    "modifiedTime": 1692222820815,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "eCXhipG71vUfjHsH",
+  "folder": "y9PPfxk78WKLKi2B",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!eCXhipG71vUfjHsH"
+}

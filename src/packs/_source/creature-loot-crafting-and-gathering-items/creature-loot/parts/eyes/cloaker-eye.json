@@ -1,0 +1,41 @@
+{
+  "name": "Cloaker Eye",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. Can be crafted (alchemist's supplies) into a Potion of Darkvision (Darkvision to 60 ft. for 1 hour)</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_1023b9fc23tq"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667926762330,
+    "modifiedTime": 1692222820734,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "miMgyLXN93oa5Y66",
+  "folder": "EXc7QPa7vrbmFnED",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!miMgyLXN93oa5Y66"
+}

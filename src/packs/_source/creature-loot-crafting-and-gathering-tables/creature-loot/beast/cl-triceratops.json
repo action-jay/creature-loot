@@ -1,0 +1,105 @@
+{
+  "name": "CL-Triceratops",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Dinosaur Hide",
+      "img": "icons/commodities/leather/scales-blue-white.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "JWvJnD4OYsBbtLxS",
+      "_id": "6xDX97vNCpiGdEYN",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!0oSYcCZosA5DyOvt.6xDX97vNCpiGdEYN"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Triceratops Horn",
+      "img": "icons/commodities/bones/horn-worn-simple-white.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "fmHiH62eQSjm09rd",
+      "_id": "4k2VawOoDovxRuS0",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3"
+          }
+        }
+      },
+      "_key": "!tables.results!0oSYcCZosA5DyOvt.4k2VawOoDovxRuS0"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "WiB2vXzmPJWM11M3",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4d6"
+          }
+        }
+      },
+      "_key": "!tables.results!0oSYcCZosA5DyOvt.WiB2vXzmPJWM11M3"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_usjpwrue46o",
+      "path": "Creature Loot#/CF_SEP/Beast",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829002,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "0oSYcCZosA5DyOvt",
+  "folder": "L4mniXz7UOxvmpQG",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!0oSYcCZosA5DyOvt"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Aboleth Tail",
+  "type": "loot",
+  "img": "icons/commodities/biological/tail-rodent-striped-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-SuSR95YIlqZ26dau\" class=\"secret\"><p>No immediate use. Can be carefully crafted (leatherworker's tools) into a magical Whip +2.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 3,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_mva0behxmoa",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Limbs",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667146930863,
+    "modifiedTime": 1692222821135,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "jMhT1HWJKbzwF4E6",
+  "folder": "flQ2bRDm64ZuCPUd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!jMhT1HWJKbzwF4E6"
+}

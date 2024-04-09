@@ -1,0 +1,43 @@
+{
+  "name": "Tattered Pike",
+  "type": "loot",
+  "img": "icons/weapons/polearms/pike-flared-red.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 18,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ykgx1rqj3fh",
+      "path": "Monster Loot - Vol 1#/CF_SEP/Loot",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666398429254,
+    "modifiedTime": 1692222821326,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "sN0sjW7xKYV2kBmd",
+  "folder": "fWdLoP0QnBwQuulo",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!sN0sjW7xKYV2kBmd"
+}

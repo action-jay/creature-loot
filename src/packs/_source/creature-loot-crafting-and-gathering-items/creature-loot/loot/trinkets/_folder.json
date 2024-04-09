@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Trinkets",
+  "sorting": "a",
+  "type": "Item",
+  "folder": "jbmEHW0Es5iaE5dW",
+  "_id": "k8l9WMMXS1jOADpj",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!k8l9WMMXS1jOADpj"
+}

@@ -1,0 +1,545 @@
+{
+  "name": "Items in a Giant's Bag",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "~placeholder for now~",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "aIj0c31vc08ys0gb",
+      "text": "Handaxe blade (used as a hand chopper)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.aIj0c31vc08ys0gb"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "j0PJA34Wh5Bz5K5Z",
+      "text": "Dented metal helm (used as a bowl)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.j0PJA34Wh5Bz5K5Z"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "An9lsmgMlcTxaJMG",
+      "text": "Moldy and stinky wheel of cheese",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.An9lsmgMlcTxaJMG"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Ux3H2RKc05urSFv7",
+      "text": "Giant sized shabby cloak",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.Ux3H2RKc05urSFv7"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "z7hhsov52imQT0aj",
+      "text": "Giant sixed bone comb",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.z7hhsov52imQT0aj"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "j2lNMaQgiXU9txVt",
+      "text": "Iron cooking pot",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.j2lNMaQgiXU9txVt"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "w1uToO1p1YOZuDls",
+      "text": "Giant sized drinking horn",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.w1uToO1p1YOZuDls"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "UP16RQvMx9dqycrU",
+      "text": "Giant sized skinning knife",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.UP16RQvMx9dqycrU"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "i12nsAdNJ0SXJgnT",
+      "text": "Haunch of meat",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.i12nsAdNJ0SXJgnT"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "vdRzLVYRKvaqy15q",
+      "text": "Mangy fur pelt",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.vdRzLVYRKvaqy15q"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "W04WD9NRe6iUInn4",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.W04WD9NRe6iUInn4"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "sjwJoXCMod5WJF1r",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.sjwJoXCMod5WJF1r"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "KlBI4B6dyUQYFWZB",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.KlBI4B6dyUQYFWZB"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "qnOhxChcrJY166nu",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.qnOhxChcrJY166nu"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        29,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "BXtK7qXeMzKOpvuf",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.BXtK7qXeMzKOpvuf"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        31,
+        32
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "0UTSqpj4gM4cpeKs",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.0UTSqpj4gM4cpeKs"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        33,
+        34
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "YatTCEGcjQx2QIHC",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.YatTCEGcjQx2QIHC"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        35,
+        36
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "oUZpKpklAMeaclhQ",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.oUZpKpklAMeaclhQ"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        37,
+        38
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ycIpbcApaami3sFb",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.ycIpbcApaami3sFb"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        39,
+        40
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "qdn6y7MrQLqXW6rS",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.qdn6y7MrQLqXW6rS"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        41,
+        42
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "fwm8x0ArVY79iolw",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.fwm8x0ArVY79iolw"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        43,
+        44
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "FtZNWWA9CcdGjAva",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.FtZNWWA9CcdGjAva"
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        45,
+        46
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "qZkn9yaLajTKFzDc",
+      "text": "",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!xsrgCqEVTPzJm6W0.qZkn9yaLajTKFzDc"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_9cd4tb4cg5b",
+      "path": "Creature Loot",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667927604925,
+    "modifiedTime": 1692222828862,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xsrgCqEVTPzJm6W0",
+  "folder": "65wla0yIvgK9KKeB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!xsrgCqEVTPzJm6W0"
+}

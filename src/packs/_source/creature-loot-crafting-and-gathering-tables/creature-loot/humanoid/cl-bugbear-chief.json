@@ -1,0 +1,127 @@
+{
+  "name": "CL-Bugbear Chief",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Chain Shirt",
+      "img": "icons/commodities/metal/mail-chain-steel.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "c7m5tlBLVoinhtVg",
+      "_id": "yEkZYTVSPQhCnHjB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!WgbzMhS1U7F4ojFV.yEkZYTVSPQhCnHjB"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Strong Bugbear Heart",
+      "img": "icons/commodities/biological/organ-heart-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "gh9adryMzllnF9lY",
+      "_id": "ekzUknJwLPiz0SNJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!WgbzMhS1U7F4ojFV.ekzUknJwLPiz0SNJ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bugbear Ears",
+      "img": "icons/commodities/biological/shell-gold.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "WyWVyPC52l1nYJxs",
+      "_id": "43fLYvbl42Z3i60K",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d2"
+          }
+        }
+      },
+      "_key": "!tables.results!WgbzMhS1U7F4ojFV.43fLYvbl42Z3i60K"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bugbear Chief's Morningstar",
+      "img": "icons/weapons/maces/mace-round-spiked-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "IJQgFNYuO5a16bG4",
+      "_id": "KUVU4QBvoRViTQgJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!WgbzMhS1U7F4ojFV.KUVU4QBvoRViTQgJ"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_a4nmpir42m7",
+      "path": "Creature Loot#/CF_SEP/Humanoid",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828989,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "WgbzMhS1U7F4ojFV",
+  "folder": "ioTUnZXDRIF8tweF",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!WgbzMhS1U7F4ojFV"
+}

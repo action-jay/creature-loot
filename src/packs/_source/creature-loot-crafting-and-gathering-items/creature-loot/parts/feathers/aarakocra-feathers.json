@@ -1,0 +1,43 @@
+{
+  "name": "Aarakocra Feathers",
+  "type": "loot",
+  "img": "icons/commodities/materials/feather-blue-green.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. Can be crafted (alchemist's supplies) into incense to burn in a Censer of Controlling Air Elementals, allowing one additional use of the item per day. Consumed upon use.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_776ji087xom",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Feathers",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666360048589,
+    "modifiedTime": 1692222821250,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Q2fZifGnRPMGPgjs",
+  "folder": "mPL85ysKE8ZiixiK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Q2fZifGnRPMGPgjs"
+}

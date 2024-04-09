@@ -1,0 +1,43 @@
+{
+  "name": "Erinyes Feathers",
+  "type": "loot",
+  "img": "icons/commodities/materials/feather-blue-green.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. 20 of them can be mastercrafted (Alchemist's Supplies) into a Potion of Truesight (grants truesight out to 120 feet for 1 hour).</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_776ji087xom",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666360048589,
+    "modifiedTime": 1692222821250,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "YFoDgRSpDZrbfTkw",
+  "folder": "mPL85ysKE8ZiixiK",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!YFoDgRSpDZrbfTkw"
+}

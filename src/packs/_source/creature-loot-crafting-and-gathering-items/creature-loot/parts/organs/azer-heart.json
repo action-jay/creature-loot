@@ -1,0 +1,43 @@
+{
+  "name": "Azer Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-SM4sPBoK4D2Jkrp6\" class=\"secret\"><p>If touched or held, deals 5 fire damage per round to the holder. If placed in a fire, it returns to the Elemental Plane of Fire. The heart burns out in 1d4 hours. While burning, can be carefully crafted (conjuration) by a spellcaster into an Elemental Gem (Red Corundum).</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_52kb3z31d5o",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Organs",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667155785006,
+    "modifiedTime": 1692222820897,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "0hSD1HGa7R1Yljsu",
+  "folder": "4fFuzNwT9gpMSpUN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0hSD1HGa7R1Yljsu"
+}

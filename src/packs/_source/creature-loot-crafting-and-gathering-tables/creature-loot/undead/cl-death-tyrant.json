@@ -1,0 +1,149 @@
+{
+  "name": "CL-Death Tyrant",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Large Death Tyrant Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "tCNzbtwhli7UtDyT",
+      "_id": "LIYTb9GJ0TASIdHs",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!LFIpOA8d2J6zwD3R.LIYTb9GJ0TASIdHs"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Small Death Tyrant Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "i1A8nAWgKIDxQ6c8",
+      "_id": "6XdwptfNP9RRfXSh",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "6"
+          }
+        }
+      },
+      "_key": "!tables.results!LFIpOA8d2J6zwD3R.6XdwptfNP9RRfXSh"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ectoplasm",
+      "img": "icons/magic/unholy/projectile-fireball-agile-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "kS0PRhOXPgLGY6KV",
+      "_id": "asuTX1eFCLoJvmh2",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!LFIpOA8d2J6zwD3R.asuTX1eFCLoJvmh2"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Set of Armor",
+      "img": "icons/equipment/chest/breastplate-layered-leather-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "bNBRzpdAyTY86CHG",
+      "_id": "nu3mRmeNpR5Xe1nk",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4"
+          }
+        }
+      },
+      "_key": "!tables.results!LFIpOA8d2J6zwD3R.nu3mRmeNpR5Xe1nk"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Death Tyrant Skull",
+      "img": "icons/commodities/bones/skull-fish.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "eCXhipG71vUfjHsH",
+      "_id": "1QdA4IbrPEV6kHx0",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!LFIpOA8d2J6zwD3R.1QdA4IbrPEV6kHx0"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_olna87fr0w8",
+      "path": "Creature Loot#/CF_SEP/Undead",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829120,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "LFIpOA8d2J6zwD3R",
+  "folder": "3CWBKFnSmrmQ6QbW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!LFIpOA8d2J6zwD3R"
+}

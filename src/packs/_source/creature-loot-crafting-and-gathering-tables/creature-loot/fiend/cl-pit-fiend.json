@@ -1,0 +1,281 @@
+{
+  "name": "CL-Pit Fiend",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Pit Fiend Head",
+      "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "jV1LB8VMkUW1n1vE",
+      "_id": "T9XlIVzFTIcfb40o",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.T9XlIVzFTIcfb40o"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Pit Fiend Horn",
+      "img": "icons/commodities/bones/horn-twisted-brown-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "nyymII3YXFTinZpT",
+      "_id": "1SqQ0rK4kevDa7RH",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.1SqQ0rK4kevDa7RH"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Hellforged Mace",
+      "img": "icons/weapons/maces/mace-round-ornate-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "NaIMykqHx5B5ykkr",
+      "_id": "ZaFFPcjp4ekQd3z1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.ZaFFPcjp4ekQd3z1"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Hellforged Bracers",
+      "img": "icons/equipment/wrist/bracer-segmented-leather.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "RB3Uxz9cI8lF8U6i",
+      "_id": "HrzAjkWx1t3OYr7p",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.HrzAjkWx1t3OYr7p"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Pit Fiend Wing",
+      "img": "icons/commodities/biological/wing-lizard-pink-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "dkGILt2boEFahkKC",
+      "_id": "jpZWgwSicjBxHpoc",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.jpZWgwSicjBxHpoc"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Pit Fiend Tail",
+      "img": "icons/commodities/biological/tail-rodent-striped-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "pTKiNpEJnl9ki2OW",
+      "_id": "B4PTWT8SICSybax5",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.B4PTWT8SICSybax5"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Pit Fiend Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "HP8xflyV0CSzuMdB",
+      "_id": "59BTCn0pT3PbWjDz",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.59BTCn0pT3PbWjDz"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Devil Teeth",
+      "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "mge6Ju8UsvKgBBAW",
+      "_id": "Ec4AnHoOaRCtOQnV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.Ec4AnHoOaRCtOQnV"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Devil claw",
+      "img": "icons/creatures/claws/claw-straight-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "jqn7wyxQf9lfLTHQ",
+      "_id": "5AmuuDCGNB5oloz0",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d4"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.5AmuuDCGNB5oloz0"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Devil Eye",
+      "img": "icons/commodities/biological/eye-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "J8bAXf5gs4EpoG4x",
+      "_id": "tsqvNERdl7pjAqUJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d2"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.tsqvNERdl7pjAqUJ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Hellish Ichor",
+      "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "KGArEIpHfbJzgYP7",
+      "_id": "E3rjSH9FnAMhPWOB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4d4"
+          }
+        }
+      },
+      "_key": "!tables.results!mEzBtkmCFGWQ7Grk.E3rjSH9FnAMhPWOB"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_alrr1pqrlph",
+      "path": "Creature Loot#/CF_SEP/Fiend",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828908,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "mEzBtkmCFGWQ7Grk",
+  "folder": "BXWJd1giuLZYjezy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!mEzBtkmCFGWQ7Grk"
+}

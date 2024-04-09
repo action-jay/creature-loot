@@ -1,0 +1,61 @@
+{
+  "name": "CL-Vine Blight",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Gulthias Seed",
+      "img": "icons/consumables/nuts/hazelnut-acorn-tan-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "sjyni6YEPPyCvha4",
+      "_id": "PiNPuIKckdKRpErR",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!iwr7KCcxIb7MLSQd.PiNPuIKckdKRpErR"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_zmmnkd5azk",
+      "path": "Creature Loot#/CF_SEP/Plant",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828941,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "iwr7KCcxIb7MLSQd",
+  "folder": "wxmZGGyXrxVKazV0",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!iwr7KCcxIb7MLSQd"
+}

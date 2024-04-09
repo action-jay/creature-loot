@@ -1,0 +1,83 @@
+{
+  "name": "CL-Pteranodon",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Pteranodon Wing",
+      "img": "icons/commodities/biological/wing-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "ZfjHNPnZYsQjYlyS",
+      "_id": "c7ZVEk7Wxyzq9xGQ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d2"
+          }
+        }
+      },
+      "_key": "!tables.results!2M5br1H76P7vJ4ED.c7ZVEk7Wxyzq9xGQ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "CD2n38N8ljnbWGOl",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_key": "!tables.results!2M5br1H76P7vJ4ED.CD2n38N8ljnbWGOl"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_usjpwrue46o",
+      "path": "Creature Loot#/CF_SEP/Beast",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829002,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "2M5br1H76P7vJ4ED",
+  "folder": "L4mniXz7UOxvmpQG",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!2M5br1H76P7vJ4ED"
+}

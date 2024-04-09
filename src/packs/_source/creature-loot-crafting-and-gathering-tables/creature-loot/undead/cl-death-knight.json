@@ -1,0 +1,347 @@
+{
+  "name": "CL-Death Knight",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Shield",
+      "img": "icons/equipment/shield/oval-wooden-boss-steel.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "LLLmRfSL0np6bgiJ",
+      "_id": "NFGYxcLiPU6bTwAM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.NFGYxcLiPU6bTwAM"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Death Knight Longsword",
+      "img": "icons/weapons/swords/greatsword-crossguard-steel.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "9NsxCW7uOZmkGzqD",
+      "_id": "HuFjcrdE5vSxCFcM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.HuFjcrdE5vSxCFcM"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Unfulfilled Heart",
+      "img": "icons/commodities/biological/organ-heart-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "5jhbbGMyZc9kgxUV",
+      "_id": "vlCZJcHQIYllxkr7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.vlCZJcHQIYllxkr7"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Charmed Ribs",
+      "img": "icons/commodities/bones/bones-rib-tan.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "J6I4FAz4RmsE5Y7n",
+      "_id": "FaAAicK6wZxlLF4Z",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.FaAAicK6wZxlLF4Z"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Death Knight Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "cOzFvCMAvbgNl4Sf",
+      "_id": "5ZG2h8RQKcKFYCPG",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.5ZG2h8RQKcKFYCPG"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Death Knight Hand",
+      "img": "icons/commodities/biological/hand-clawed-tan.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "uULEbeu92FrB7PF3",
+      "_id": "ncXdnnOw0PQaUN63",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.ncXdnnOw0PQaUN63"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Undead Banner",
+      "img": "icons/sundries/flags/banner-standard-tattered-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "XlGW3yu3MJHuNXoS",
+      "_id": "KR3mKlsXRWku2fvz",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.KR3mKlsXRWku2fvz"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Belt of Undying",
+      "img": "icons/equipment/waist/belt-buckle-skull.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "I78C9PxdksBW9DBM",
+      "_id": "7CIUnFTW3VNm1DkI",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.7CIUnFTW3VNm1DkI"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Plumed Death Knight Helm",
+      "img": "icons/equipment/head/helm-spangen-horned.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "uCVrrtTLk3Wcm5Vl",
+      "_id": "PJazdMzCGBtcpadS",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.PJazdMzCGBtcpadS"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Death Knight Bones",
+      "img": "icons/commodities/bones/bone-simple-white-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "s3ot6yFOkLsSicvZ",
+      "_id": "G59bw45fztFapoAQ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d8"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.G59bw45fztFapoAQ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Midnight Cloak",
+      "img": "icons/equipment/back/cloak-collared-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "2v3Y7jPPk9Mf0pRn",
+      "_id": "aw1L4FGDkm1CSOnY",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.aw1L4FGDkm1CSOnY"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Black Plate",
+      "img": "icons/equipment/chest/breastplate-layered-steel-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "mixzhoLrp3Y1pB6L",
+      "_id": "uQMEG1UsquulqRC6",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.uQMEG1UsquulqRC6"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Unholy Symbol",
+      "img": "icons/equipment/neck/necklace-simple-rune-fehu-yellow.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "iGgTkQIfEJhgSUWL",
+      "_id": "MAo1eWTY0t5aerbb",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.MAo1eWTY0t5aerbb"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Death Knight Skull",
+      "img": "icons/commodities/bones/skull-white-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "TGSlAajAyEtXveQs",
+      "_id": "SdNEuxvhfoePrFbV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!DytnQObZIXPPK106.SdNEuxvhfoePrFbV"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_olna87fr0w8",
+      "path": "Creature Loot#/CF_SEP/Undead",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829120,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "DytnQObZIXPPK106",
+  "folder": "3CWBKFnSmrmQ6QbW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!DytnQObZIXPPK106"
+}

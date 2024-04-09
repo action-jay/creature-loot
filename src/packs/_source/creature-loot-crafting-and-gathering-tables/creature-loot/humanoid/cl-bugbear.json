@@ -1,0 +1,127 @@
+{
+  "name": "CL-Bugbear",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Morningstar",
+      "img": "icons/weapons/maces/mace-round-spiked-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "P8fw4L8v1GOFvlev",
+      "_id": "44nKgDLLoAGcZxsz",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!w9oxIlIPSxGKxES8.44nKgDLLoAGcZxsz"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Hide Armor",
+      "img": "icons/equipment/chest/breastplate-scale-leather.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "GZ2iDU5l2Cf4nrEU",
+      "_id": "VVDDLT4n7h74GYLj",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!w9oxIlIPSxGKxES8.VVDDLT4n7h74GYLj"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bugbear Ears",
+      "img": "icons/commodities/biological/shell-gold.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "WyWVyPC52l1nYJxs",
+      "_id": "ZhsBmaLeGsA5nPaZ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d2"
+          }
+        }
+      },
+      "_key": "!tables.results!w9oxIlIPSxGKxES8.ZhsBmaLeGsA5nPaZ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bugbear Tusk",
+      "img": "icons/commodities/bones/horn-worn-beige.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "DVg3DIvpBPARTkBF",
+      "_id": "sSzh97KJbR9elyot",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d2"
+          }
+        }
+      },
+      "_key": "!tables.results!w9oxIlIPSxGKxES8.sSzh97KJbR9elyot"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_a4nmpir42m7",
+      "path": "Creature Loot#/CF_SEP/Humanoid",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828989,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "w9oxIlIPSxGKxES8",
+  "folder": "ioTUnZXDRIF8tweF",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!w9oxIlIPSxGKxES8"
+}

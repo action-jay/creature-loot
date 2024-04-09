@@ -1,0 +1,105 @@
+{
+  "name": "CL-Centaur",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Pike",
+      "img": "icons/weapons/polearms/pike-flared-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "sN0sjW7xKYV2kBmd",
+      "_id": "2QdAScMfJpOvhU2a",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!A2d2QSbhjVfUNCn1.2QdAScMfJpOvhU2a"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Arrows",
+      "img": "icons/weapons/ammunition/arrow-broadhead.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "IkDvt57OGk2XFAFy",
+      "_id": "Qaz3jecmfAp0xq1e",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4d4"
+          }
+        }
+      },
+      "_key": "!tables.results!A2d2QSbhjVfUNCn1.Qaz3jecmfAp0xq1e"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Centaur Hooves",
+      "img": "icons/tools/smithing/horseshoe-steel-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "AUSwYCH5OsGChEJp",
+      "_id": "AUFrPyEiFFok8dVn",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!A2d2QSbhjVfUNCn1.AUFrPyEiFFok8dVn"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_h201b87tbzv",
+      "path": "Creature Loot#/CF_SEP/Monstrosity",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829137,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "A2d2QSbhjVfUNCn1",
+  "folder": "cRKGagRjVYh0KbVZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!A2d2QSbhjVfUNCn1"
+}
