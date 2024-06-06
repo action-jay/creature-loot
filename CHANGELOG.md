@@ -1,3 +1,7 @@
+### 0.3.6
+
+- Add compatibility with vtt12
+
 ### 0.3.5
 
 - Unpack folder

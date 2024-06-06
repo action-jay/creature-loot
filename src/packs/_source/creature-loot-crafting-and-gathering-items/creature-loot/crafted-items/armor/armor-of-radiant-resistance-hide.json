@@ -9,7 +9,10 @@
     },
     "source": "Basic Rules, Player's Handbook",
     "quantity": 1,
-    "weight": 12,
+    "weight": {
+      "value": 12,
+      "units": "lb"
+    },
     "price": 0,
     "attunement": 1,
     "equipped": false,

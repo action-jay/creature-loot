@@ -9,7 +9,10 @@
     },
     "source": "Creature Loot",
     "quantity": 1,
-    "weight": 3,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
     "price": 15,
     "attunement": 1,
     "equipped": false,
