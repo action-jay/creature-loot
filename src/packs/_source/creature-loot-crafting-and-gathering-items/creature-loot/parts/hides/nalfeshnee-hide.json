@@ -1,0 +1,46 @@
+{
+  "name": "Nalfeshnee Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pink.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Acts as a blanket. Can be mastercrafted (leatherworker's tools) into hide armor that requires attunement, and grants advantage on saving throws against spells and other magical effects.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_hbs3bukdrc5",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667147737708,
+    "modifiedTime": 1692222820949,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "BV9E8W7RF4S5pFDL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "dt6nfKaKkstTcItx",
+  "_key": "!items!dt6nfKaKkstTcItx"
+}

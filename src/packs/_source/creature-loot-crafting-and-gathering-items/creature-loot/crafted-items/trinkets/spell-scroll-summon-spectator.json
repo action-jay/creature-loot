@@ -1,0 +1,182 @@
+{
+  "name": "Spell Scroll - Summon Spectator",
+  "type": "consumable",
+  "system": {
+    "description": {
+      "value": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.</p>\n<h4>Spell Scroll</h4>\n<table>\n<thead>\n<tr>\n<th>Spell Level</th>\n<th>Rarity</th>\n<th>Save DC</th>\n<th>Attack Bonus</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cantrip</td>\n<td>Common</td>\n<td>13</td>\n<td>+5</td>\n</tr>\n<tr>\n<td> 1st</td>\n<td>Common</td>\n<td>13</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>2nd</td>\n<td>Uncommon</td>\n<td>13</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>3rd</td>\n<td>Uncommon</td>\n<td>15</td>\n<td>+7</td>\n</tr>\n<tr>\n<td>4th</td>\n<td>Rare</td>\n<td>15</td>\n<td>+7</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>Rare</td>\n<td>17</td>\n<td>+9</td>\n</tr>\n<tr>\n<td>6th</td>\n<td>Very rare</td>\n<td>17</td>\n<td>+9</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>Very rare</td>\n<td>18</td>\n<td>+10</td>\n</tr>\n<tr>\n<td>8th</td>\n<td>Very rare</td>\n<td>18</td>\n<td>+10</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>Legendary</td>\n<td>19</td>\n<td>+11</td>\n</tr>\n</tbody>\n</table>\n<p>A wizard spell on a <em>spell scroll</em> can be copied just as spells in spellbooks can be copied. When a spell is copied from a <em>spell scroll</em>, the copier must succeed on an Intelligence (@Compendium[dnd5e.rules.0AGfrwZRzSG0vNKb]{Arcana}) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the <em>spell scroll</em> is destroyed.</p>\n<blockquote>\n<p><strong>VARIANT: SCROLL MISHAPS</strong></p>\n<p>A creature who tries and fails to cast a spell from a <em>spell scroll</em> must make a DC 10 Intelligence saving throw. If the saving throw fails, roll on the Scroll Mishap table.</p>\n<h4 id=\"ScrollMishap\" class=\"quick-menu-exclude\">Scroll Mishap</h4>\n<table>\n<thead>\n<tr>\n<th>d6</th>\n<th>Result</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td style=\"text-align:left\">A surge of magical energy deals the caster 1d6 force damage per level of the spell.</td>\n</tr>\n<tr>\n<td>2</td>\n<td style=\"text-align:left\">The spell affects the caster or an ally (determined randomly) instead of the intended target, or it affects a random target nearby if the caster was the intended target.</td>\n</tr>\n<tr>\n<td>3</td>\n<td style=\"text-align:left\">The spell affects a random location within the spell's range.</td>\n</tr>\n<tr>\n<td>4</td>\n<td style=\"text-align:left\">The spell's effect is contrary to its normal one, but neither harmful nor beneficial. For instance, a fireball might produce an area of harmless cold.</td>\n</tr>\n<tr>\n<td>5</td>\n<td style=\"text-align:left\">The caster suffers a minor but bizarre effect related to the spell. Such effects last only as long as the original spell's duration, or 1d10 minutes for spells that take effect instantaneously. For example, a fireball might cause smoke to billow from the caster's ears for 1d10 minutes.</td>\n</tr>\n<tr>\n<td>6</td>\n<td style=\"text-align:left\">The spell activates after 1d12 hours. If the caster was the intended target, the spell takes effect normally. If the caster was not the intended target, the spell goes off in the general direction of the intended target, up to the spell's maximum range, if the target has moved away.</td>\n</tr>\n</tbody>\n</table><div id=\"table-link\">@Compendium[world.ddb-pcandg-tables.Spell Scroll: Scroll Mishap]{Open RollTable Spell Scroll: Scroll Mishap}</div>\n</blockquote>",
+      "chat": "",
+      "unidentified": "Scroll"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "other",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "scroll",
+    "baseItem": "",
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Scroll",
+        "filterType": "Scroll",
+        "isConsumable": true,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Utility",
+          "Consumable"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": 200,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 5418,
+      "originalName": "Spell Scroll",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": false,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    },
+    "cf": {
+      "id": "temp_a7reen07obt"
+    }
+  },
+  "effects": [],
+  "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010239531,
+    "modifiedTime": 1692222821500,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "WSuYUZ2SBERqbEcN",
+  "sort": 0,
+  "_id": "eSOSGaYEvjlyHwOT",
+  "_key": "!items!eSOSGaYEvjlyHwOT"
+}

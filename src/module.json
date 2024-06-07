@@ -1,0 +1,159 @@
+{
+  "id": "creature-loot-crafting-and-gathering",
+  "title": "Creature Loot Crafting & Gathering",
+  "description": "Collating Jon Gazda's Creature Loot supplements for use in Foundry with theripper93's premium modules.",
+  "version": "0.3.6",
+  "authors": [
+    {
+      "name": "Action Jay",
+      "url": "https://github.com/action-jay",
+      "discord": "action.jay#4322"
+    },
+    {
+      "name": "p4535992",
+      "url": "https://github.com/p4535992",
+      "discord": "",
+      "twitter": "",
+      "patreon": "",
+      "github": "p4535992",
+      "ko-fi": "",
+      "reddit": "",
+      "email": ""
+    }
+  ],
+  "type": "module",
+  "socket": true,
+  "includes": [
+    "./assets/**",
+    "./lang/**",
+    "./languages/**",
+    "./scripts/**",
+    "./styles/**",
+    "./templates/**",
+    "./module.json",
+    "./README.md",
+    "./icons/**",
+    "packs/**"
+  ],
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+    },
+    {
+      "type": "cover",
+      "location": ""
+    },
+    {
+      "type": "screenshot",
+      "location": ""
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "creature-loot-crafting-and-gathering-items",
+      "label": "Creature Loot Items",
+      "path": "packs/creature-loot-crafting-and-gathering-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "creature-loot-crafting-and-gathering",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "creature-loot-crafting-and-gathering-journals",
+      "label": "Creature Loot Journals",
+      "path": "packs/creature-loot-crafting-and-gathering-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "creature-loot-crafting-and-gathering",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "creature-loot-crafting-and-gathering-tables",
+      "label": "Creature Loot Tables",
+      "path": "packs/creature-loot-crafting-and-gathering-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "creature-loot-crafting-and-gathering",
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Creature Loot Crafting & Gathering",
+      "sorting": "m",
+      "color": "#375534",
+      "packs": [
+        "creature-loot-crafting-and-gathering-items",
+        "creature-loot-crafting-and-gathering-journals",
+        "creature-loot-crafting-and-gathering-tables"
+      ]
+    }
+  ],
+  "systems": [],
+  "scripts": [],
+  "esmodules": ["module.js"],
+  "styles": [],
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11,
+    "maximum": 12
+  },
+  "url": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering",
+  "manifest": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.6/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/releases/download/0.3.6/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/blob/master/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/blob/master/CHANGELOG.md",
+  "bugs": "https://github.com/p4535992/foundryvtt-creature-loot-crafting-and-gathering/issues",
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+        "compatibility": {
+          "minimum": "3.2.0",
+          "verified": "3.2.0"
+        }
+      }
+    ],
+    "requires": [],
+    "conflicts": [],
+    "optional": [
+      {
+        "id": "compendium-themer",
+        "type": "module"
+      },
+      {
+        "id": "gatherer",
+        "type": "module"
+      },
+      {
+        "id": "mastercrafted",
+        "type": "module"
+      }
+    ]
+  }
+}

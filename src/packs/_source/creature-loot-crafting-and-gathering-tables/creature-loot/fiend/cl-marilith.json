@@ -1,0 +1,259 @@
+{
+  "name": "CL-Marilith",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": true,
+      "text": "Demonic Amulet",
+      "img": "icons/equipment/neck/amulet-carved-stone-spiral-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "PZw6AZbpmkAx4J7X",
+      "_id": "bxe7F4gUh1JPeiA7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.bxe7F4gUh1JPeiA7"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Foul Ichor",
+      "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "7Wql9B2whk3nA4zO",
+      "_id": "cixlz2l7hfqjxP12",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.cixlz2l7hfqjxP12"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cultist's Sigil",
+      "img": "icons/equipment/neck/necklace-simple-carved-spiral-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "ywh1I2hebA9BatIU",
+      "_id": "WCoevL4Rbk13VjlU",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.WCoevL4Rbk13VjlU"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demon Heart",
+      "img": "icons/commodities/biological/organ-heart-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "kckOSWqygmi8ZQZ5",
+      "_id": "tWXlHIK6YxYphZZT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.tWXlHIK6YxYphZZT"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demonic Longsword",
+      "img": "icons/weapons/swords/greatsword-crossguard-steel.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "q8AUqjgXOqQYXfPa",
+      "_id": "wXIMPI5L8X7k5Gux",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4+2"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.wXIMPI5L8X7k5Gux"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Marilith Bodice Armor",
+      "img": "icons/equipment/chest/breastplate-scale-leather.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "08QVOrcfEaoi2Znu",
+      "_id": "W5xol8qCWXMMLpkn",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.W5xol8qCWXMMLpkn"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demon Snake Tail",
+      "img": "icons/commodities/biological/tail-rodent-striped-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "njSrUp0s82Fqu2ai",
+      "_id": "nZDqCi3ZXt4tqcMB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.nZDqCi3ZXt4tqcMB"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Marilith Head",
+      "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "SKApDs1oaEYwYIuz",
+      "_id": "b9y9UtZEmV3EVF4R",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.b9y9UtZEmV3EVF4R"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Gilded Bracers",
+      "img": "icons/equipment/wrist/bracer-yellow-fancy.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "sS5Sqv28FAS3Mla8",
+      "_id": "0SrDpmIE6CcyD7LA",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.0SrDpmIE6CcyD7LA"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Unholy Fire",
+      "img": "icons/magic/fire/barrier-wall-flame-ring-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "pyJJC2vqCaQN54WV",
+      "_id": "PzeWQoFiZTWvYhl2",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!TUYmKLIis90Me7ja.PzeWQoFiZTWvYhl2"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_alrr1pqrlph",
+      "path": "Creature Loot#/CF_SEP/Fiend",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828908,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "TUYmKLIis90Me7ja",
+  "folder": "BXWJd1giuLZYjezy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!TUYmKLIis90Me7ja"
+}

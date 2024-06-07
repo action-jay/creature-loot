@@ -1,0 +1,46 @@
+{
+  "name": "Bone Devil Wing",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. Can be carefully crafted (leatherworker's tools) into a shield that grants resistance to cold damage while in use.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_mva0behxmoa",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167704647,
+    "modifiedTime": 1692222821135,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Y74kcO3wk0zBX8iu",
+  "folder": "flQ2bRDm64ZuCPUd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Y74kcO3wk0zBX8iu"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Devil Teeth",
+  "type": "loot",
+  "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>20 teeth act as a bag of caltrops. Can be carefully crafted (jeweler's tools) into a set of dice that cannot be used to cheat.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_ux429zxji9h",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667147568312,
+    "modifiedTime": 1692222821057,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "mge6Ju8UsvKgBBAW",
+  "folder": "6INfiNIz52lgY5TN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!mge6Ju8UsvKgBBAW"
+}

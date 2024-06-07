@@ -1,0 +1,151 @@
+{
+  "name": "Yochlol Eye",
+  "type": "equipment",
+  "img": "icons/commodities/biological/eye-lizard-orange.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Requires attunement. A creature attuned to the eye can cast Gaseous Form once per day. In addition to the bonuses granted by the spell, a creature that starts its turn in the same space as the attuned creature while they are in gaseous form must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the creature is incapacitated.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "day",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": null,
+      "type": "trinket",
+      "dex": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true
+  },
+  "effects": [],
+  "flags": {
+    "magicitems": {
+      "enabled": true,
+      "equipped": true,
+      "attuned": true,
+      "charges": "1",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": true,
+      "recharge": "0",
+      "rechargeType": "t3",
+      "rechargeUnit": "r1",
+      "sorting": "l",
+      "spells": {
+        "0": {
+          "id": "UMk301aeuuXMAgPm",
+          "name": "Gaseous Form",
+          "pack": "world.ddb-pcandg-spells",
+          "img": "icons/magic/air/fog-gas-smoke-dense-green.webp",
+          "baseLevel": "3",
+          "level": "3",
+          "consumption": "1",
+          "upcast": "3",
+          "upcastCost": "1",
+          "flatDc": false
+        }
+      }
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "cf": {
+      "id": "temp_1023b9fc23tq",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167034975,
+    "modifiedTime": 1692222820734,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "EXc7QPa7vrbmFnED",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "euSSp0SyEphk7O2g",
+  "_key": "!items!euSSp0SyEphk7O2g"
+}

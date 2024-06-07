@@ -1,0 +1,46 @@
+{
+  "name": "Head of a Solar",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-XyG4akECXpetriZI\" class=\"secret\"><p>The head continually whispers prayers of blood and vengeance. The creature who killed the solar can always hear these prayers, no matter what distance they are from the head or what measures are taken to stop the sound. After 1d6 days, a Planetar arrives at the killer's location to collect the head. If they do not have the head, the Planetar will become hostile. If killed, another will come in 1d6 days. If the killer has the head and gives it to the Planetar, the Planetar eats the head and gives up its body to resurrect the Solar. The Solar returns with full hit points and all its weapons and abilities. The Solar will then attempt to kill the creature who killed it. Looking into the eyes of the head causes an epileptic fit of faith in any creature who does not share the alignment of the Solar's creator. The fit lasts 1d4 hours and cannot be stopped except by a Wish spell or divine intervention. A creature may make a DC 25 Wisdom saving throw to avert its gaze before looking directly into the eyes. The head can be traded for a major boon from a Lord of the Nine Hells. It can be used as a Holy Symbol and will double the effect of any hit points healed or damage dealt by a cleric spell cast by a cleric that shares an alignment with the Solar's creator. If the head is buried under a castle, the walls of that castle gain immunity to any damage dealt by any creature with a different alignment than the Solar's creator or patron God.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_mva0behxmoa",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Limbs",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667149541424,
+    "modifiedTime": 1692222821135,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "hGiDajgfXN9ztgj0",
+  "folder": "flQ2bRDm64ZuCPUd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!hGiDajgfXN9ztgj0"
+}

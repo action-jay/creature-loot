@@ -1,0 +1,149 @@
+{
+  "name": "CL-Tyrannosaurus Rex",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Dinosaur Hide",
+      "img": "icons/commodities/leather/scales-blue-white.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "JWvJnD4OYsBbtLxS",
+      "_id": "6xDX97vNCpiGdEYN",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3"
+          }
+        }
+      },
+      "_key": "!tables.results!n6uCIoJ05lbRNGVd.6xDX97vNCpiGdEYN"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Dinosaur Claw",
+      "img": "icons/creatures/claws/claw-straight-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "EdIiCtaSHjEeMhtC",
+      "_id": "TOqiiTqQK1KrIwHz",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!n6uCIoJ05lbRNGVd.TOqiiTqQK1KrIwHz"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tyrannosaurus Teeth",
+      "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "3KNGHCEAWIJAdEcw",
+      "_id": "GJyWFGEYXGVXhWFz",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d10"
+          }
+        }
+      },
+      "_key": "!tables.results!n6uCIoJ05lbRNGVd.GJyWFGEYXGVXhWFz"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tyrannosaurus Skull",
+      "img": "icons/commodities/bones/skull-lizard-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "t2jZaY2ap0gt8KcO",
+      "_id": "MmMpBKbV050z07W7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!n6uCIoJ05lbRNGVd.MmMpBKbV050z07W7"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "j8YmQuOV1xwztAyB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4d6"
+          }
+        }
+      },
+      "_key": "!tables.results!n6uCIoJ05lbRNGVd.j8YmQuOV1xwztAyB"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_usjpwrue46o",
+      "path": "Creature Loot#/CF_SEP/Beast",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829002,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "n6uCIoJ05lbRNGVd",
+  "folder": "L4mniXz7UOxvmpQG",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!n6uCIoJ05lbRNGVd"
+}

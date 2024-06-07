@@ -1,0 +1,105 @@
+{
+  "name": "CL-Bronze Dragon Wyrmling",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bronze Dragon Claw",
+      "img": "icons/commodities/claws/claw-lizard-white-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Yk8LhAmi9rgfh0q7",
+      "_id": "XkqyOh8D5l2NkVmP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!Nv4htb8zkExMoQQz.XkqyOh8D5l2NkVmP"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bronze Dragon Scale",
+      "img": "icons/commodities/leather/scales-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "YN2Gn5rOsXVOxkb0",
+      "_id": "9wtL6qpII7IfxS29",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10"
+          }
+        }
+      },
+      "_key": "!tables.results!Nv4htb8zkExMoQQz.9wtL6qpII7IfxS29"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "6cdJCEOl9GMGsBwv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_key": "!tables.results!Nv4htb8zkExMoQQz.6cdJCEOl9GMGsBwv"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_t82j5mhvjj",
+      "path": "Creature Loot#/CF_SEP/Dragon",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829073,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Nv4htb8zkExMoQQz",
+  "folder": "FH74NLfBzjHIWF9o",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!Nv4htb8zkExMoQQz"
+}

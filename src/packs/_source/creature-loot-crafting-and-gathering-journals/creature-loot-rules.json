@@ -1,0 +1,56 @@
+{
+  "name": "Creature Loot Rules",
+  "flags": {
+    "monks-enhanced-journal": {
+      "type": "text"
+    }
+  },
+  "pages": [
+    {
+      "type": "text",
+      "name": "Creature Loot Rules",
+      "_id": "pUraAyDPhsMbcjjW",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Whenever I get the chance to play D&amp;D, I think a lot about how my character changes between sessions, and over the course of the campaign. This probably comes from my beginnings as a story gamer - it was expected that you would have some sort of character development over the course of our 6-8 month campaigns.</p><p>But there's more than just updating character traits. I like the idea that the appearance of a character changes drastically over the course of their adventures. For magic users, it's fairly obvious. Wizards get zanier, warlocks get corrupted, druids get more plant- or animal-esque, and clerics become more eminently divine. But I think martial characters should change as well, aside from just getting more scars and injuries.</p><p>I love the idea of a character who picks the useful bits from the bodies of his fallen foes. Maybe they have a shield crafted from a Bulette shell and a sword that is an Ankheg leg after their fight with the Cult of Elemental Earth. Maybe a cleric gives up their holy symbol when they get the chance to use angel feathers as their magic focus instead.</p><p>As for creating the items themselves, I have a few goals while writing the items:</p><ol><li>Number of items found on a creature should approximately equal CR. 1d4 small items can count as a single items, and tattered equipment (see below) doesn't count.</li><li>Make tool proficiencies more useful. Some items can't be used until they are crafted into a workable item by someone trained with the proper equipment.</li><li>Make basic balance considerations - lower CR creatures should give items about equivalent to adventuring gear (PHB pg. 150), while higher CR creatures can give items that are equivalent to or craftable into magic items.</li></ol><section><h1>Basic Rules</h1><p>If a creature dies naturally or its body was found hours or days after death, it is up to the DM what items remain. Some items may have been already stolen, not remain on the creature after death, or have rotted beyond use.</p><p>If the players were fighting the creature and killed it in combat, they must make the appropriate check in order to claim the loot.</p><ul><li>Beast/Dragon/Monstrosity/Plant: Nature check</li><li>Giant/Humanoid: Survival check</li><li>Celestial/Fey/Fiend/Undead: Religion check</li><li>Aberration/Construct/Elemental/Ooze: Arcana check</li></ul><p>This represents the type of knowledge required to successfully identify the valuable loot on the body.</p><h1>Loot Claim Check</h1><table><thead><tr><th>CR</th><th>DC (all items)</th><th>DC (half items)</th></tr></thead><tbody><tr><td>&lt;5</td><td>10</td><td>5</td></tr><tr><td>6-10</td><td>15</td><td>10</td></tr><tr><td>11-15</td><td>20</td><td>15</td></tr><tr><td>&gt;16</td><td>25</td><td>20</td></tr></tbody></table><p>This represents the PCs ability to gather the items without harming them or hurting themselves. It might be difficult to harvest a demon heart when their blood is like acid and you just stabbed the fell beast a dozen times.</p><p>Beasts, Dragons, and Plants also provide a certain amount of rations:</p><section><section><h1>Ration Amounts</h1><table><thead><tr><th>Size</th><th>Days of Rations (1 person)</th></tr></thead><tbody><tr><td>Tiny</td><td>1</td></tr><tr><td>Small</td><td>1d4</td></tr><tr><td>Medium</td><td>1d6</td></tr><tr><td>Large</td><td>2d6</td></tr><tr><td>Huge</td><td>4d6</td></tr><tr><td>Gargantuan</td><td>10d6</td></tr></tbody></table><p>Some items are not usable until they have been crafted into a usable form. The following terms are used throughout the list:</p><hr /><p>Crafted. A PC or NPC must spend a number of hours equal to the creature's CR using the listed tools to create the new object. The crafter must be proficient in the listed tools. NPCs may charge gold for their services.</p><hr /><p>Carefully Crafted. A PC or NPC must spend a number of hours equal to two times the creature's CR using the listed tools to create the new object. The crafter must be proficient in the listed tools or be a wizard studying the listed school of magic. NPCs may charge gold for their services.</p><hr /><p>Mastercraft. Must be created by a PC or NPC who has dedicated themselves to the use of a particular tool or school of magic. For Wizard PCs, this means at least level 11. This is unlikely to be a PC, meaning they may have to carry the loot into a city to get it crafted. The crafter must spend a number of hours equal to 6-10 times the creature's CR using the listed tools to create the new object. NPCs may charge gold for their services.</p><hr /><p>A CR 0 creature's crafting can be completed in 1 minute, or multiple minutes for careful/master crafting.</p><p>Certain items require Alchemist's Supplies to craft. If the item has a beneficial effect OR if the item is from a plant creature, it can also be crafted with proficiency in a Herbalism Kit. If the item has a malignant effect, it can also be crafted with proficiency in a Poisoner's Kit.</p><p>Some modifiers that will be applied to certain pieces of loot:</p><hr /><p>Tattered. This item has been damaged as a result of its owner’s death. You will need to spend gold to repair it, equal to half the cost of a brand-new version of the item. (e.g. a tattered shield would cost 5GP to repair, since a new shield costs 10GP)</p><hr /><p>Vial. Any item described as a vial must be collected using a flask, vial, bottle, waterskin, or other liquid container. If a container is used to collect multiple different types of liquids, refer to the \"Mixing Potions\" table (DMG pg. 140)</p><hr /><p>Treasure Hoard. Roll on the listed Treasure Hoard table (DMG pg. 137-139)</p><hr /><p>In Lair. These items only appear if the creature is in its lair when it is fought, and the PCs have the time to search the lair after the fight. Depending on the type of lair, the DM may call for additional checks to find this treasure.</p></section></section></section>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "appendix": false
+        }
+      },
+      "_key": "!journal.pages!CxuwWF3UwuGiuS0X.pUraAyDPhsMbcjjW"
+    }
+  ],
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "10.288",
+    "createdTime": 1667144768323,
+    "modifiedTime": 1667924194017,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "CxuwWF3UwuGiuS0X",
+  "_key": "!journal!CxuwWF3UwuGiuS0X"
+}

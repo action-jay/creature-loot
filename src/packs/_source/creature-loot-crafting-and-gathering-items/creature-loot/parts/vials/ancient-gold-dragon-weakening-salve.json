@@ -1,0 +1,186 @@
+{
+  "name": "Ancient Gold Dragon Weakening Salve",
+  "type": "consumable",
+  "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-Nb6rOx9S74Iwfp1F\" class=\"secret\"><p>When applied to the skin of a creature, the creature must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Can be mastercrafted (alchemist's supplies) into a Potion of Polymorph (allows the drinker to change shape as though they had cast the Polymorph spell).</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": "",
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "str",
+      "dc": 24,
+      "scaling": "flat"
+    },
+    "consumableType": "poison"
+  },
+  "effects": [
+    {
+      "label": "Ancient Gold Dragon Weakening Salve",
+      "icon": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+      "origin": "Item.FWEOhYtQIN5Lu75w",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": 60,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "FLVjfZ59YKGJgkLR",
+      "changes": [],
+      "tint": null,
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "_key": "!items.effects!FWEOhYtQIN5Lu75w.FLVjfZ59YKGJgkLR"
+    }
+  ],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false,
+      "ignoreTotalCover": false
+    },
+    "cf": {
+      "id": "temp_tmjar4vmk3",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Vials",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1668619345662,
+    "modifiedTime": 1692222820998,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "FWEOhYtQIN5Lu75w",
+  "folder": "D30eFZ7DDg8PXn1i",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!FWEOhYtQIN5Lu75w"
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Devil Eye",
+  "type": "consumable",
+  "img": "icons/commodities/biological/eye-purple.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>If consumed as an action, grants Darkvision out to 60 feet for 10 minutes. This darkvision is not impeded by magical darkness. Can be mastercrafted (Jeweler's Tools) into an amulet or circlet that provides this benefit once per day as an action.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "food"
+  },
+  "effects": [
+    {
+      "label": "Devil Eye",
+      "icon": "icons/commodities/biological/eye-purple.webp",
+      "origin": "Item.utqC1Hlxc64dYPfA",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": 600,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "Y2VoIaKYeIz0e3rc",
+      "changes": [
+        {
+          "key": "system.attributes.senses.darkvision",
+          "mode": 2,
+          "value": "60",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "_key": "!items.effects!J8bAXf5gs4EpoG4x.Y2VoIaKYeIz0e3rc"
+    }
+  ],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": true,
+          "dayWorth": false,
+          "type": "food"
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_1023b9fc23tq",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666399412538,
+    "modifiedTime": 1692222820734,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "J8bAXf5gs4EpoG4x",
+  "folder": "EXc7QPa7vrbmFnED",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!J8bAXf5gs4EpoG4x"
+}

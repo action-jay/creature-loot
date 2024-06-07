@@ -1,0 +1,61 @@
+{
+  "name": "CL-Crawling Claw",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Desecrated Hand",
+      "img": "icons/commodities/biological/hand-clawed-tan.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "XdXPOfqTrIQyPWlu",
+      "_id": "OhYQYNXPxISI4elJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!OSbUWyolqeqqT5hI.OhYQYNXPxISI4elJ"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_olna87fr0w8",
+      "path": "Creature Loot#/CF_SEP/Undead",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829120,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "OSbUWyolqeqqT5hI",
+  "folder": "3CWBKFnSmrmQ6QbW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!OSbUWyolqeqqT5hI"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Cloaker Wing",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-pink-purple.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Acts as a blanket. 4 wings can be mastercrafted (Illusion) by a spellcaster into a Cloak of Displacement.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_mva0behxmoa"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167704647,
+    "modifiedTime": 1692222821135,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "9H9rrzY2QiqELoVT",
+  "folder": "flQ2bRDm64ZuCPUd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!9H9rrzY2QiqELoVT"
+}

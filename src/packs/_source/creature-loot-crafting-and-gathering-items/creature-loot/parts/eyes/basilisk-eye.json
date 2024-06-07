@@ -1,0 +1,191 @@
+{
+  "name": "Basilisk Eye",
+  "type": "consumable",
+  "img": "icons/commodities/biological/eye-lizard-green.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-u9PSUwF6B2ikRnbU\" class=\"secret\"><p>When held, a creature can use the eye to cast Flash to Stone (save DC 12). This consumes the eye.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 1,
+      "width": null,
+      "units": "",
+      "type": "creature"
+    },
+    "range": {
+      "value": 60,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 12,
+      "scaling": "flat"
+    },
+    "consumableType": "trinket"
+  },
+  "effects": [
+    {
+      "label": "Flesh to Stone",
+      "icon": "icons/magic/control/energy-stream-link-large-blue.webp",
+      "origin": "Item.rMzR0RwryvkPQL7k",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "fAjiLWSfGKSLGkfI",
+      "changes": [
+        {
+          "key": "StatusEffect",
+          "mode": 0,
+          "value": "Convenient Effect: Restrained",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "_key": "!items.effects!rMzR0RwryvkPQL7k.fAjiLWSfGKSLGkfI"
+    }
+  ],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false,
+      "ignoreTotalCover": false
+    },
+    "cf": {
+      "id": "temp_1023b9fc23tq"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667165589138,
+    "modifiedTime": 1692222820734,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rMzR0RwryvkPQL7k",
+  "folder": "EXc7QPa7vrbmFnED",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rMzR0RwryvkPQL7k"
+}

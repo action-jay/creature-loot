@@ -1,0 +1,46 @@
+{
+  "name": "Dracolich Bone",
+  "type": "loot",
+  "img": "icons/commodities/bones/bone-simple-white-brown.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. 100 of these can be mastercrafted (transmutation) by a spellcaster to create a Potion of Lichdom. When drunk, the user is instantly killed and their soul is destroyed, unless it has been removed via a specially prepared Imprisonment spell with a Phylactery as the material component. If it has, roll 1d20. On a 20, the user is revived as a Lich. Their alignment becomes evil, if it wasn't already, and they may become an NPC under the DM's control.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_myqqlyel2fo",
+      "path": "Creature Loot",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167704647,
+    "modifiedTime": 1692222820815,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "V49VHKposbMCcnEk",
+  "folder": "y9PPfxk78WKLKi2B",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!V49VHKposbMCcnEk"
+}

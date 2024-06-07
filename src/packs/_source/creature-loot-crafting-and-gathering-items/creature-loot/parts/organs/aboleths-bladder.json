@@ -1,0 +1,109 @@
+{
+  "name": "Aboleth's Bladder",
+  "type": "backpack",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-nWymBrg2CiMUFS4b\" class=\"secret\"><p>Acts as a waterskin. Can be mastercrafted (leatherworker's tools) into a Decanter of Endless Water, with the additional choice of delivering toxic water on \"Stream\". The Toxic Water acts as basic poison if ingested.</p></section>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 0.2,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "capacity": {
+      "type": "weight",
+      "value": null,
+      "weightless": false
+    },
+    "currency": {
+      "cp": 0,
+      "sp": 0,
+      "ep": 0,
+      "gp": 0,
+      "pp": 0
+    },
+    "cost": 0.2,
+    "baseItem": "",
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Adventuring Gear",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Container"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 92,
+      "originalName": "Waterskin",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_52kb3z31d5o",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Organs",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/commodities/biological/organ-stomach.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242056,
+    "modifiedTime": 1692222820897,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "FkmYPaisStM4G07e",
+  "folder": "4fFuzNwT9gpMSpUN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!FkmYPaisStM4G07e"
+}

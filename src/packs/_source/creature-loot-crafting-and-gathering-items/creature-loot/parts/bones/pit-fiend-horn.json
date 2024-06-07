@@ -1,0 +1,140 @@
+{
+  "name": "Pit Fiend Horn",
+  "type": "equipment",
+  "img": "icons/commodities/bones/horn-twisted-brown-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Requires attunement. Grants the holder advantage on saving throws against spells and other magical effects. Curse: While attuned to a horn, a creature appears grotesque to non-devils. Non-devil creatures that look upon the attuned creature must make a DC 21 Wisdom saving throw each round or be frightened by the creature. On a success, the non-devil creature is immune to the condition (though they still see the attuned creature as grotesque) for the next 24 hours.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "day",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": null,
+      "type": "trinket",
+      "dex": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true
+  },
+  "effects": [],
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l",
+      "destroyCheck": "d1",
+      "destroyType": "dt1",
+      "spells": {}
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "cf": {
+      "id": "temp_myqqlyel2fo",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667925051403,
+    "modifiedTime": 1692222820815,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nyymII3YXFTinZpT",
+  "folder": "y9PPfxk78WKLKi2B",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!nyymII3YXFTinZpT"
+}

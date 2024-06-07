@@ -1,0 +1,237 @@
+{
+  "name": "CL-Erinyes",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Hellspit Longsword",
+      "img": "icons/weapons/swords/sword-guard-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "24we6ks2cNiEzFso",
+      "_id": "Tcg7PkjV496g6HfS",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.Tcg7PkjV496g6HfS"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Hellspit Longbow",
+      "img": "icons/weapons/bows/longbow-recurve-leather-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "ZKtgIY3mji3EDFCi",
+      "_id": "Zx8QfAcKvOPOgNWu",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.Zx8QfAcKvOPOgNWu"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Silvered Arrows",
+      "img": "icons/weapons/ammunition/arrow-broadhead.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "pTAdOtf5EsYNFLZ6",
+      "_id": "SRaOc7UhTXU3U2qA",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d10"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.SRaOc7UhTXU3U2qA"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Erinyes Plate",
+      "img": "icons/equipment/chest/breastplate-layered-steel-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "ZWL2HCOPj1zJuYP8",
+      "_id": "66Bh4VjhzvwzzUgp",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.66Bh4VjhzvwzzUgp"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Erinyes Feathers",
+      "img": "icons/commodities/materials/feather-blue-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "YFoDgRSpDZrbfTkw",
+      "_id": "GViZp0uPsk8lOApi",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d10"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.GViZp0uPsk8lOApi"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Erinyes Tongue",
+      "img": "icons/commodities/biological/tongue-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "fws0i2DYgyjGRNv4",
+      "_id": "ecOBQLyoY274U22p",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.ecOBQLyoY274U22p"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Devil claw",
+      "img": "icons/creatures/claws/claw-straight-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "jqn7wyxQf9lfLTHQ",
+      "_id": "JT6zNisOnSdtnfOu",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.JT6zNisOnSdtnfOu"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Devil Eye",
+      "img": "icons/commodities/biological/eye-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "J8bAXf5gs4EpoG4x",
+      "_id": "HcKkJ9zMrbSI5YyC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d2"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.HcKkJ9zMrbSI5YyC"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Hellish Ichor",
+      "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "KGArEIpHfbJzgYP7",
+      "_id": "0rwywqS6IhYGU8MH",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!VMSJIaxSehQPPvi2.0rwywqS6IhYGU8MH"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_alrr1pqrlph",
+      "path": "Creature Loot#/CF_SEP/Fiend",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828908,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "VMSJIaxSehQPPvi2",
+  "folder": "BXWJd1giuLZYjezy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!VMSJIaxSehQPPvi2"
+}

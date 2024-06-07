@@ -1,0 +1,171 @@
+{
+  "name": "CL-Cambion",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Spear",
+      "img": "icons/weapons/polearms/spear-flared-worn-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "td3L8XLAzEm5MlOw",
+      "_id": "n1Q8KOVH49PdZiqK",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!NJCgmQbNfRFWIfqH.n1Q8KOVH49PdZiqK"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Scale Mail",
+      "img": "icons/equipment/chest/breastplate-scale-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "kV93sBldDxIcgbhx",
+      "_id": "7nQchv6LSlqHNKFN",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!NJCgmQbNfRFWIfqH.7nQchv6LSlqHNKFN"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cambion Horn",
+      "img": "icons/commodities/bones/horn-worn-simple-white.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "AdkrZMJ48hDJrH9O",
+      "_id": "He7ww0uNQ2ei0B8v",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!NJCgmQbNfRFWIfqH.He7ww0uNQ2ei0B8v"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cambion Wing",
+      "img": "icons/commodities/biological/wing-lizard-pink-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "KjWzpMtSU3N1xpvE",
+      "_id": "zPpirUR6S38dmql7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d2"
+          }
+        }
+      },
+      "_key": "!tables.results!NJCgmQbNfRFWIfqH.zPpirUR6S38dmql7"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demon Heart",
+      "img": "icons/commodities/biological/organ-heart-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "kckOSWqygmi8ZQZ5",
+      "_id": "dBDjGDFxyws1r3Xl",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!NJCgmQbNfRFWIfqH.dBDjGDFxyws1r3Xl"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cambion Tongue",
+      "img": "icons/commodities/biological/tongue-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "vvN3SKBmtKmzOxc9",
+      "_id": "sT4PZPySIQHyfHVB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!NJCgmQbNfRFWIfqH.sT4PZPySIQHyfHVB"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_alrr1pqrlph",
+      "path": "Creature Loot#/CF_SEP/Fiend",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828908,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NJCgmQbNfRFWIfqH",
+  "folder": "BXWJd1giuLZYjezy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!NJCgmQbNfRFWIfqH"
+}

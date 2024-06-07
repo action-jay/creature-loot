@@ -1,0 +1,61 @@
+{
+  "name": "CL-Cockatrice",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cockatrice Venom",
+      "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "A19lUPrhRqh8z82C",
+      "_id": "Sr67bVIBpJDd3yE1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!h2vjcSKE7MLJCe1B.Sr67bVIBpJDd3yE1"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_h201b87tbzv",
+      "path": "Creature Loot#/CF_SEP/Monstrosity",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829137,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "h2vjcSKE7MLJCe1B",
+  "folder": "cRKGagRjVYh0KbVZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!h2vjcSKE7MLJCe1B"
+}

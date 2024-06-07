@@ -1,0 +1,215 @@
+{
+  "name": "CL-Young Green Dragon",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Green Dragon Wing",
+      "img": "icons/commodities/biological/wing-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "oobwHfreK0m4GaK9",
+      "_id": "Yd9YK6rwHeJ3a8zU",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!w2t1YKK7aePBDGTo.Yd9YK6rwHeJ3a8zU"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Green Dragon Tail",
+      "img": "icons/commodities/biological/tail-rodent-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "50fiY9rXFY3kJYr7",
+      "_id": "x7pi1v9gu1sjFXAN",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!w2t1YKK7aePBDGTo.x7pi1v9gu1sjFXAN"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Green Dragon Claw",
+      "img": "icons/commodities/claws/claw-lizard-white-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "rrz1v9H6fhqoOPZh",
+      "_id": "alrDKRWDnKxoXpSQ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!w2t1YKK7aePBDGTo.alrDKRWDnKxoXpSQ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Green Dragon Fang",
+      "img": "icons/commodities/claws/talon-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "wiVFw6b2urUf6Vyi",
+      "_id": "PJJhnNDL5LpsHpnO",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10"
+          }
+        }
+      },
+      "_key": "!tables.results!w2t1YKK7aePBDGTo.PJJhnNDL5LpsHpnO"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Strip of Green Dragon Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "nDt9Zu4DnugTPRwN",
+      "_id": "RMSczNEVgKn9ecXn",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!w2t1YKK7aePBDGTo.RMSczNEVgKn9ecXn"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Green Dragon Scale",
+      "img": "icons/commodities/leather/scales-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "qpZ5PMPehZrDQOsb",
+      "_id": "C6tUGbwgjSjgIkV3",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10"
+          }
+        }
+      },
+      "_key": "!tables.results!w2t1YKK7aePBDGTo.C6tUGbwgjSjgIkV3"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Green Dragon Spine",
+      "img": "icons/commodities/bones/tooth-spiked-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "pTDNmCS2Bl3GGaVy",
+      "_id": "J6yYvTyZ75BEKKS4",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!w2t1YKK7aePBDGTo.J6yYvTyZ75BEKKS4"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "8rA5mcLJmpPMtBRd",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d6"
+          }
+        }
+      },
+      "_key": "!tables.results!w2t1YKK7aePBDGTo.8rA5mcLJmpPMtBRd"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_t82j5mhvjj",
+      "path": "Creature Loot#/CF_SEP/Dragon",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829073,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "w2t1YKK7aePBDGTo",
+  "folder": "FH74NLfBzjHIWF9o",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!w2t1YKK7aePBDGTo"
+}

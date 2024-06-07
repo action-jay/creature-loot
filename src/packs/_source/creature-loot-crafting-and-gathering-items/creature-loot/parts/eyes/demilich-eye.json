@@ -1,0 +1,169 @@
+{
+  "name": "Demilich Eye",
+  "type": "weapon",
+  "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Requires attunement. A creature attuned to the Eye can can, once per day, drain the life from a creature. The target must succeed on a DC 19 Constitution saving throw or take 21 (6d6) necrotic damage, and the attuned creature regains hit points equal to the damage dealt. When the Demilich reforms, this item forcibly ends its attunement and returns to the Demilich. If the Phylactery is destroyed, these items crumble into useless dust.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 1,
+      "width": null,
+      "units": "",
+      "type": "creature"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "day",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "6d6[necrotic]",
+          "necrotic"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 19,
+      "scaling": "flat"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "natural",
+    "baseItem": "",
+    "properties": {
+      "ada": false,
+      "amm": false,
+      "fin": false,
+      "fir": false,
+      "foc": false,
+      "hvy": false,
+      "lgt": false,
+      "lod": false,
+      "mgc": false,
+      "rch": false,
+      "rel": false,
+      "ret": false,
+      "sil": false,
+      "spc": false,
+      "thr": false,
+      "two": false,
+      "ver": false
+    },
+    "proficient": true
+  },
+  "effects": [],
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false,
+      "ignoreTotalCover": false
+    },
+    "cf": {
+      "id": "temp_1023b9fc23tq",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1668213985910,
+    "modifiedTime": 1692222820734,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "EXc7QPa7vrbmFnED",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "R4a62KhbgmWg0RF1",
+  "_key": "!items!R4a62KhbgmWg0RF1"
+}

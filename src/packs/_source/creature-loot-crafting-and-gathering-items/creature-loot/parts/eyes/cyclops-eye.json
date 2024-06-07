@@ -1,0 +1,44 @@
+{
+  "name": "Cyclops Eye",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. Can be carefully crafted (abjuration) by a spellcaster into an amulet that requires attunement. While attuned to the amulet, a creature can cast Protection from Evil and Good once per day.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_1023b9fc23tq"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667926762330,
+    "modifiedTime": 1692222820734,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Opz5IelEJsKPCvMI",
+  "folder": "EXc7QPa7vrbmFnED",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Opz5IelEJsKPCvMI"
+}

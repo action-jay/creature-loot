@@ -1,0 +1,303 @@
+{
+  "name": "CL-Ancient Red Dragon",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Red Dragon Skull",
+      "img": "icons/commodities/bones/skull-lizard-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "dKejPQSrJGWtucg5",
+      "_id": "BttMMuocsJv0GSW8",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.BttMMuocsJv0GSW8"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Red Dragon Wing",
+      "img": "icons/commodities/biological/wing-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "eGdGBvOmJETznx6I",
+      "_id": "HVjdmNXmu6OUDBnM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.HVjdmNXmu6OUDBnM"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Red Dragon Tail",
+      "img": "icons/commodities/biological/tail-rodent-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "qNf3ikyPzsDylDi1",
+      "_id": "SonJI0gvFHYvwswz",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.SonJI0gvFHYvwswz"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Red Dragon Claw",
+      "img": "icons/commodities/claws/claw-lizard-white-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "fQUIa9JjXjLBLf7P",
+      "_id": "VBjCS6gmeKjtvI8k",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d4"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.VBjCS6gmeKjtvI8k"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Red Dragon Fang",
+      "img": "icons/commodities/claws/talon-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "mOsZnszh3yuN3lgG",
+      "_id": "Kt8IqqFjBVujRJS2",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d10"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.Kt8IqqFjBVujRJS2"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Strip of Red Dragon Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "3h9jlM0dtElENbuh",
+      "_id": "ieDk4NMKjFCEV8cn",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "5"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.ieDk4NMKjFCEV8cn"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Red Dragon Heart",
+      "img": "icons/commodities/biological/organ-heart-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "mkLYSKaUGe0q8ed5",
+      "_id": "QDh3PH0bbHKB7lS3",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.QDh3PH0bbHKB7lS3"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Red Dragon Fire Sac",
+      "img": "icons/commodities/biological/organ-liver-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "wN2jc6WVYFJXVZuB",
+      "_id": "IrZ3NPgGXG8PGI8w",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.IrZ3NPgGXG8PGI8w"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Red Dragon Scale",
+      "img": "icons/commodities/leather/scales-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "crgW7MibddaFH603",
+      "_id": "TEfWu4y9Jxly6yEC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4d10"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.TEfWu4y9Jxly6yEC"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Red Dragon Horn",
+      "img": "icons/commodities/bones/horn-curved-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "nBJtAOPq6EOI3P2y",
+      "_id": "YngDOzOnFlnBQURf",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.YngDOzOnFlnBQURf"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Red Dragon Eye",
+      "img": "icons/commodities/biological/eye-lizard-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "cceIMDpys6CspvKE",
+      "_id": "Xhu0QWhlaoNN915S",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.Xhu0QWhlaoNN915S"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "waXpE2kI47Aoezvq",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "10d6"
+          }
+        }
+      },
+      "_key": "!tables.results!UViVKxTaj6h3yzVZ.waXpE2kI47Aoezvq"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_t82j5mhvjj",
+      "path": "Creature Loot#/CF_SEP/Dragon",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829073,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "UViVKxTaj6h3yzVZ",
+  "folder": "FH74NLfBzjHIWF9o",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!UViVKxTaj6h3yzVZ"
+}

@@ -1,0 +1,83 @@
+{
+  "name": "CL-Flying Sword",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Longsword",
+      "img": "icons/weapons/swords/greatsword-crossguard-steel.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "avQLlg9uDnZ8BNDk",
+      "_id": "wbNH9ESinbGwUswl",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!4B3HznQOeIirPtRg.wbNH9ESinbGwUswl"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Animating Sigil",
+      "img": "icons/commodities/stone/engraved-symbol-water-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "vga9PJgFu46jytJQ",
+      "_id": "EhILbRKzHEXL2bHy",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!4B3HznQOeIirPtRg.EhILbRKzHEXL2bHy"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_uekl38b24o",
+      "path": "Creature Loot#/CF_SEP/Construct",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828874,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "4B3HznQOeIirPtRg",
+  "folder": "b1PAe5ynGuHWQmYD",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!4B3HznQOeIirPtRg"
+}

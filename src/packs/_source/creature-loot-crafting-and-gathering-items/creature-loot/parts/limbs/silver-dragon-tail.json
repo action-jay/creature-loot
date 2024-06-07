@@ -1,0 +1,215 @@
+{
+  "name": "Silver Dragon Tail",
+  "type": "weapon",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Acts as a magical whip +1. Can be mastercrafted (alchemist's supplies) into a Poison of Cold Vulnerability (when ingested, imposes vulnerability to cold damage for 1 hour. If the creature has resistance to cold damage, it loses that resistance. Creatures immune to cold damage are not affected).</p></section>",
+      "chat": "",
+      "unidentified": "Whip"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 10,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "0",
+      "per": "",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "attackBonus": "1",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d4[slashing] + @mod + 1",
+          "slashing"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "martialM",
+    "baseItem": "whip",
+    "properties": {
+      "amm": false,
+      "fir": false,
+      "fin": true,
+      "hvy": false,
+      "lgt": false,
+      "lod": false,
+      "rch": true,
+      "rel": false,
+      "spc": false,
+      "thr": false,
+      "two": false,
+      "ver": false,
+      "ret": false,
+      "foc": false,
+      "ada": false,
+      "mgc": true,
+      "sil": false
+    },
+    "proficient": false,
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Whip",
+        "damage": {
+          "parts": []
+        },
+        "classFeatures": [],
+        "restrictions": [],
+        "filterType": "Weapon",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ]
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 5262,
+      "originalName": "Whip, +1",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": true,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "fumbleThreshold": null,
+      "effectActivation": false
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false,
+      "ignoreTotalCover": false
+    },
+    "cf": {
+      "id": "temp_mva0behxmoa",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Limbs",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/commodities/biological/tail-rodent-orange.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010240783,
+    "modifiedTime": 1692222821135,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "dRvbp3dli8GOz3Ig",
+  "folder": "flQ2bRDm64ZuCPUd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!dRvbp3dli8GOz3Ig"
+}

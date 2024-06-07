@@ -1,0 +1,325 @@
+{
+  "name": "CL-Ancient Silver Dragon",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Silver Dragon Skull",
+      "img": "icons/commodities/bones/skull-lizard-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "NUmLn1VBBWMAJ7Rv",
+      "_id": "2d0dReokcuUpyjgV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.2d0dReokcuUpyjgV"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Silver Dragon Wing",
+      "img": "icons/commodities/biological/wing-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "cfMmGs5nj2n3GVCx",
+      "_id": "zwQBjSBLMm5Y2lyV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.zwQBjSBLMm5Y2lyV"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Silver Dragon Tail",
+      "img": "icons/commodities/biological/tail-rodent-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "dRvbp3dli8GOz3Ig",
+      "_id": "Pgq0HVzgHnSIuNqk",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.Pgq0HVzgHnSIuNqk"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Silver Dragon Claw",
+      "img": "icons/commodities/claws/claw-lizard-white-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "fMEgxfBCUiSJL0Mp",
+      "_id": "FmuWgSML3Lgcpz8L",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d4"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.FmuWgSML3Lgcpz8L"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Silver Dragon Fang",
+      "img": "icons/commodities/claws/talon-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "5eyx6BnoMOus3mkZ",
+      "_id": "Ku8fcMUoVUH5DckL",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d10"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.Ku8fcMUoVUH5DckL"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Strip of Silver Dragon Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "JfCGXf9tnqRUudyX",
+      "_id": "OeamWpvx3gHBsNtK",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "5"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.OeamWpvx3gHBsNtK"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Silver Dragon Heart",
+      "img": "icons/commodities/biological/organ-heart-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "kc74Cw2FQdxAEIGI",
+      "_id": "Nsjv5Jz8jznLtsCy",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.Nsjv5Jz8jznLtsCy"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Silver Dragon Ice Gland",
+      "img": "icons/commodities/biological/organ-liver-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "cqzAm7kjymChh9XH",
+      "_id": "CkRV2ZN5pH2EJ3dU",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.CkRV2ZN5pH2EJ3dU"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Silver Dragon Paralyzing Salve",
+      "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "dO3ifBbuqXD8t2df",
+      "_id": "vPTrbt8XaLcX4VZq",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.vPTrbt8XaLcX4VZq"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Silver Dragon Scale",
+      "img": "icons/commodities/leather/scales-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "iTiueexc0dewTsxx",
+      "_id": "aB1WuvGkgKneChMJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d10"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.aB1WuvGkgKneChMJ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Silver Dragon Eye",
+      "img": "icons/commodities/biological/eye-lizard-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "588SN8qhPMllRV22",
+      "_id": "3M2wBHuZ85WzhYdD",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.3M2wBHuZ85WzhYdD"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Silver Dragon Fin",
+      "img": "icons/commodities/biological/fin-red-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "g3SgRlRJBTXYe7Io",
+      "_id": "1vHrltGhvfgLhkoe",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.1vHrltGhvfgLhkoe"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "j4RU0D7QMOaLyaHl",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "10d6"
+          }
+        }
+      },
+      "_key": "!tables.results!JL4iGtITSH907qK4.j4RU0D7QMOaLyaHl"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_t82j5mhvjj",
+      "path": "Creature Loot#/CF_SEP/Dragon",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829073,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "JL4iGtITSH907qK4",
+  "folder": "FH74NLfBzjHIWF9o",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!JL4iGtITSH907qK4"
+}

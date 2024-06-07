@@ -1,0 +1,46 @@
+{
+  "name": "Spectator Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pink.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. Can be mastercrafted (leatherworker's tools) into a shield of spell reflection. The shield requires attunement. If the bearer of the shield, while attuned, makes a successful saving throw against a spell, or a spell attack misses it, the bearer can choose another creature (including the spellcaster) it can see within 30 feet of it. The spell targets the chosen creature instead of the bearer of the shield. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the attack roll is rerolled against the chosen creature.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_hbs3bukdrc5",
+      "path": "Creature Loot#/CF_SEP/Parts#/CF_SEP/Hides",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667147737708,
+    "modifiedTime": 1692222820949,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "xf4LFjs3ydR2cTwX",
+  "folder": "BV9E8W7RF4S5pFDL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xf4LFjs3ydR2cTwX"
+}

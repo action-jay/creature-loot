@@ -1,0 +1,83 @@
+{
+  "name": "CL-Carrion Crawler",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Crawler Tentacle",
+      "img": "icons/commodities/biological/tentacle-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "p2rfxfHP0Aybe0fx",
+      "_id": "iIhAd5MhwiWhn1Bw",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!OyLHUZvqbVHy93B9.iIhAd5MhwiWhn1Bw"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Digested Corpse",
+      "img": "icons/magic/unholy/strike-beam-blood-large-red-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "AL48nfHaWC0pJuFZ",
+      "_id": "3m4SZ3ly2SCLX5Cq",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!OyLHUZvqbVHy93B9.3m4SZ3ly2SCLX5Cq"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_h201b87tbzv",
+      "path": "Creature Loot#/CF_SEP/Monstrosity",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829137,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "OyLHUZvqbVHy93B9",
+  "folder": "cRKGagRjVYh0KbVZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!OyLHUZvqbVHy93B9"
+}

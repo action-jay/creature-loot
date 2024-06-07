@@ -1,0 +1,83 @@
+{
+  "name": "CL-Azer",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Warhammer",
+      "img": "icons/weapons/hammers/hammer-double-stone.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "luDQQWE8JAUAoxL8",
+      "_id": "HDIMrKpxsNdXqETp",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!rGctMbZvAt9s4vfN.HDIMrKpxsNdXqETp"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Azer Heart",
+      "img": "icons/commodities/biological/organ-heart-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "0hSD1HGa7R1Yljsu",
+      "_id": "Vins4vODyGKBsX2i",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!rGctMbZvAt9s4vfN.Vins4vODyGKBsX2i"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_vmgg6kxm5z",
+      "path": "Creature Loot#/CF_SEP/Elemental",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828970,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "rGctMbZvAt9s4vfN",
+  "folder": "SLOOs9P1ta9BDGHD",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!rGctMbZvAt9s4vfN"
+}

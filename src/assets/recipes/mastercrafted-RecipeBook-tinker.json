@@ -1,0 +1,266 @@
+{
+  "name": "Tinker",
+  "description": "Crafted Trinkets from Creature Loot",
+  "ownership": {
+    "UaeZM6yl2QxuItnu": "2"
+  },
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Psychic Dice Set",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Jeweler's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.8gSJlGpiOlRsOlnA",
+              "quantity": 1,
+              "name": "Aboleth Teeth"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.nvYlEjijPVAptBrY",
+              "quantity": 1,
+              "name": "Psychic Dice Set"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/gaming/dice-runed-brown.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Toxic Decanter of Endless Water",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.FkmYPaisStM4G07e",
+              "quantity": 1,
+              "name": "Aboleth's Bladder"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.G3sOFh6GIlkqxNRu",
+              "quantity": 1,
+              "name": "Toxic Decanter of Endless Water"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flask-corked-blue.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Elemental Gem (Red Corundum)",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Must be carefully crafted (conjuration) by a spellcaster",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.0hSD1HGa7R1Yljsu",
+              "quantity": 1,
+              "name": "Azer Heart"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.KMOnmXaJvA8Gf13G",
+              "quantity": 1,
+              "name": "Elemental Gem (Red Corundum)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-oval-red.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Summon Spectator",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Must be mastercrafted (conjuration) by a spellcaster",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.d4PcrEmWdmI9zsj0",
+              "quantity": "4",
+              "name": "Beholder Eyestalk"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.eSOSGaYEvjlyHwOT",
+              "quantity": 1,
+              "name": "Spell Scroll - Summon Spectator"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Waterskin",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.eD8LT3ZrarnZMZUR",
+              "quantity": 1,
+              "name": "Bullywug Bladder"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.hdTPO8YyQS8QGzH3",
+              "quantity": 1,
+              "name": "Waterskin"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/survival/wetskin-leather-purple.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Cloaker Skull Horn",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "Leatherworker's Tools",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.oJsUnVtIYUEpUrlU",
+              "quantity": 1,
+              "name": "Cloaker Head"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.4KMUvEln2RpYvs1w",
+              "quantity": 1,
+              "name": "Cloaker Skull Horn"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/bones/horn-engraved-stripes-white.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    },
+    {
+      "name": "Cyclops Eye Amulet",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Must vbe crafted (abjuration) by a spellcaster",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.Opz5IelEJsKPCvMI",
+              "quantity": 1,
+              "name": "Cyclops Eye"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items.yT9pkplAIBxS82zc",
+              "quantity": 1,
+              "name": "Cyclops Eye Amulet"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/neck/necklace-eye-orange.webp",
+      "ownership": {
+        "UaeZM6yl2QxuItnu": "0"
+      }
+    }
+  ],
+  "img": "icons/tools/smithing/hammer-sledge-steel-grey.webp",
+  "documentName": "RecipeBook"
+}

@@ -1,0 +1,185 @@
+{
+  "name": "Potent Acid",
+  "type": "consumable",
+  "system": {
+    "description": {
+      "value": "<p><span style=\"font-family:Signika, sans-serif\">As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 3d6 acid damage.</span></p>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": 25,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 1,
+      "width": null,
+      "units": "any",
+      "type": "creature"
+    },
+    "range": {
+      "value": 20,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "dex",
+    "actionType": "rwak",
+    "attackBonus": "0",
+    "chatFlavor": "improvised weapon",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "3d6[acid]",
+          "acid"
+        ]
+      ],
+      "versatile": "",
+      "value": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "cost": 25,
+    "baseItem": "",
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Adventuring Gear",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Damage",
+          "Utility",
+          "Combat"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 18,
+      "originalName": "Acid (vial)",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "fumbleThreshold": null,
+      "effectActivation": false
+    },
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    },
+    "cf": {
+      "id": "temp_z6o4ef3lixl",
+      "path": "Creature Loot#/CF_SEP/Crafted Items#/CF_SEP/Poisons",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010241868,
+    "modifiedTime": 1692222821531,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "uMDRFzaEaiuhEksW",
+  "folder": "WEWwUfpndswvDjZ8",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uMDRFzaEaiuhEksW"
+}

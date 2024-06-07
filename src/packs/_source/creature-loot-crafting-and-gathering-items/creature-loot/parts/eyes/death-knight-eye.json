@@ -1,0 +1,153 @@
+{
+  "name": "Death Knight Eye",
+  "type": "equipment",
+  "img": "icons/commodities/biological/eye-lizard-orange.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Can be crushed as a bonus action to cast Searing Smite. Can be crafted (alchemist's tools) into a Potion of Necrotic Resistance or Potion of Poison Resistance.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": null,
+      "type": "trinket",
+      "dex": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true
+  },
+  "effects": [],
+  "flags": {
+    "magicitems": {
+      "enabled": true,
+      "equipped": true,
+      "attuned": true,
+      "charges": "1",
+      "chargeType": "c1",
+      "destroy": true,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l",
+      "spells": {
+        "0": {
+          "id": "CkDp8qCd1VhmcmZg",
+          "name": "Searing Smite",
+          "pack": "world.ddb-pcandg-spells",
+          "img": "icons/magic/fire/dagger-rune-enchant-flame-orange.webp",
+          "baseLevel": "1",
+          "level": "1",
+          "consumption": "1",
+          "upcast": "1",
+          "upcastCost": "1",
+          "flatDc": false
+        }
+      },
+      "destroyCheck": "d1",
+      "destroyType": "dt1"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "cf": {
+      "id": "temp_1023b9fc23tq",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167034975,
+    "modifiedTime": 1692222820734,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "EXc7QPa7vrbmFnED",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "cOzFvCMAvbgNl4Sf",
+  "_key": "!items!cOzFvCMAvbgNl4Sf"
+}

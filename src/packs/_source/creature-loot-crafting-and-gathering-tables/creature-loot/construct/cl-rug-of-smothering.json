@@ -1,0 +1,105 @@
+{
+  "name": "CL-Rug of Smothering",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Carpet",
+      "img": "icons/commodities/cloth/cloth-patterned-yellow-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "gPFjw7ACMYaCC6wB",
+      "_id": "R7ZvpOwRBTykL6KR",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!Pmc86zQ9GcNQMrXQ.R7ZvpOwRBTykL6KR"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Animating Sigil",
+      "img": "icons/commodities/stone/engraved-symbol-water-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "vga9PJgFu46jytJQ",
+      "_id": "Tb50n1PfJtC3TVkM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!Pmc86zQ9GcNQMrXQ.Tb50n1PfJtC3TVkM"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Animate Carpet Patch",
+      "img": "icons/commodities/cloth/cloth-bolt-tan.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "W4lSJdBig8rnPKfO",
+      "_id": "oDWo6IHL5U4XDD73",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!Pmc86zQ9GcNQMrXQ.oDWo6IHL5U4XDD73"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_uekl38b24o",
+      "path": "Creature Loot#/CF_SEP/Construct",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828874,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Pmc86zQ9GcNQMrXQ",
+  "folder": "b1PAe5ynGuHWQmYD",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!Pmc86zQ9GcNQMrXQ"
+}

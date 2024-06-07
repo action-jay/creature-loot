@@ -1,0 +1,46 @@
+{
+  "name": "Hellish Ichor",
+  "type": "loot",
+  "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>No immediate use. Forms into a Lemure after 1d10 days, unless the devil was killed by a good-aligned creature with Bless cast upon it, or if the ichor is splashed with holy water.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_tmjar4vmk3",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667926762330,
+    "modifiedTime": 1692222820998,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "KGArEIpHfbJzgYP7",
+  "folder": "D30eFZ7DDg8PXn1i",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!KGArEIpHfbJzgYP7"
+}

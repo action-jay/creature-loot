@@ -1,0 +1,215 @@
+{
+  "name": "CL-Yochlol",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": true,
+      "text": "Demonic Amulet",
+      "img": "icons/equipment/neck/amulet-carved-stone-spiral-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "PZw6AZbpmkAx4J7X",
+      "_id": "bxe7F4gUh1JPeiA7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!vA91ai0iQYEZjkyA.bxe7F4gUh1JPeiA7"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Foul Ichor",
+      "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "7Wql9B2whk3nA4zO",
+      "_id": "cixlz2l7hfqjxP12",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!vA91ai0iQYEZjkyA.cixlz2l7hfqjxP12"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cultist's Sigil",
+      "img": "icons/equipment/neck/necklace-simple-carved-spiral-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "ywh1I2hebA9BatIU",
+      "_id": "WCoevL4Rbk13VjlU",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!vA91ai0iQYEZjkyA.WCoevL4Rbk13VjlU"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demon Heart",
+      "img": "icons/commodities/biological/organ-heart-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "kckOSWqygmi8ZQZ5",
+      "_id": "tWXlHIK6YxYphZZT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!vA91ai0iQYEZjkyA.tWXlHIK6YxYphZZT"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Yochlol Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "euSSp0SyEphk7O2g",
+      "_id": "kaDGpP4ckC92c1bD",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!vA91ai0iQYEZjkyA.kaDGpP4ckC92c1bD"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demon Spider Leg",
+      "img": "icons/commodities/biological/legs-insect-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "CjmHMDB50IcAf8oe",
+      "_id": "AgbirIlYL4sp7liK",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!vA91ai0iQYEZjkyA.AgbirIlYL4sp7liK"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ball of Demonweb",
+      "img": "icons/commodities/biological/organ-heart-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "QXjaOot0oW23Gykj",
+      "_id": "vMCp9e6rpCvUpFqV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!vA91ai0iQYEZjkyA.vMCp9e6rpCvUpFqV"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Unholy Fire",
+      "img": "icons/magic/fire/barrier-wall-flame-ring-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "pyJJC2vqCaQN54WV",
+      "_id": "DEqXNIToNN2aXEiJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!vA91ai0iQYEZjkyA.DEqXNIToNN2aXEiJ"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_alrr1pqrlph",
+      "path": "Creature Loot#/CF_SEP/Fiend",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828908,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "vA91ai0iQYEZjkyA",
+  "folder": "BXWJd1giuLZYjezy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!vA91ai0iQYEZjkyA"
+}

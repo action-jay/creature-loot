@@ -1,0 +1,215 @@
+{
+  "name": "Proboscis",
+  "type": "weapon",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Acts as a magical dagger that deals an additional 7 (2d6) necrotic damage on a hit. On a hit, the target's hit point maximum is lowered by the amount of necrotic damage dealt.</p></section>",
+      "chat": "",
+      "unidentified": "Dagger"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": 2,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 20,
+      "long": 60,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "0",
+      "per": "",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d4[piercing] + @mod",
+          "piercing"
+        ],
+        [
+          "2d6[necrotic]",
+          "necrotic"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "simpleM",
+    "baseItem": "dagger",
+    "properties": {
+      "amm": false,
+      "fir": false,
+      "fin": true,
+      "hvy": false,
+      "lgt": true,
+      "lod": false,
+      "rch": false,
+      "rel": false,
+      "spc": false,
+      "thr": true,
+      "two": false,
+      "ver": false,
+      "ret": false,
+      "foc": false,
+      "ada": false,
+      "mgc": false,
+      "sil": false
+    },
+    "proficient": false,
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Dagger",
+        "damage": {
+          "parts": []
+        },
+        "classFeatures": [],
+        "restrictions": [],
+        "filterType": "Weapon",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": true,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ]
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 1782728300,
+      "definitionId": 3,
+      "originalName": "Dagger",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "fumbleThreshold": null,
+      "effectActivation": false
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false,
+      "ignoreTotalCover": false
+    },
+    "cf": {
+      "id": "temp_ux429zxji9h",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/commodities/bones/horn-jagged-gold.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242665,
+    "modifiedTime": 1692222821057,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "6INfiNIz52lgY5TN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "l61uNjE7lAKCMFn0",
+  "_key": "!items!l61uNjE7lAKCMFn0"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Basilisk Stomach",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-stomach.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-N9eXo3j1v2Si9KOq\" class=\"secret\"><p>No immediate use. Can be mastercrafted (alchemist's supplies) into a Stone Salve, which ends the petrified condition on a creature it is applied to.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_52kb3z31d5o"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667165273005,
+    "modifiedTime": 1692222820897,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "1EDGxp85Y96Z0T7i",
+  "folder": "4fFuzNwT9gpMSpUN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1EDGxp85Y96Z0T7i"
+}

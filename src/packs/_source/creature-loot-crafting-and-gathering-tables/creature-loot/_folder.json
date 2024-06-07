@@ -1,0 +1,19 @@
+{
+  "color": "#000000",
+  "name": "Creature Loot",
+  "sorting": "a",
+  "type": "RollTable",
+  "folder": null,
+  "_id": "65wla0yIvgK9KKeB",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1692222828854,
+    "modifiedTime": 1692222828854,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_key": "!folders!65wla0yIvgK9KKeB"
+}

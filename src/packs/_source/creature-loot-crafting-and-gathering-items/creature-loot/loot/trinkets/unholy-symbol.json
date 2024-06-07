@@ -1,0 +1,46 @@
+{
+  "name": "Unholy Symbol",
+  "type": "loot",
+  "img": "icons/equipment/neck/necklace-simple-rune-fehu-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Acts as a holy symbol for Death domain clerics. Chars the skin of any creature that is not of an evil alignment. Can act as 150GP worth of Black Onyx stone for the material components of a Create Undead spell.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3vlt1onv82u",
+      "path": "Creature Loot#/CF_SEP/Loot",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167704647,
+    "modifiedTime": 1692222821412,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "k8l9WMMXS1jOADpj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "iGgTkQIfEJhgSUWL",
+  "_key": "!items!iGgTkQIfEJhgSUWL"
+}

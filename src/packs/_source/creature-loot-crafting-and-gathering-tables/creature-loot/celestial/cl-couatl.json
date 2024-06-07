@@ -1,0 +1,127 @@
+{
+  "name": "CL-Couatl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Couatl Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "4r7JDItsKFOEWiyL",
+      "_id": "2fZ4kBFuYebwCapi",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!hmCNmwNXuQmfktbx.2fZ4kBFuYebwCapi"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Couatl Venom",
+      "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "vSKw031kT5WUdrVr",
+      "_id": "JSOGOeQnIW5DyKxH",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!hmCNmwNXuQmfktbx.JSOGOeQnIW5DyKxH"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Couatl Heart",
+      "img": "icons/commodities/biological/organ-heart-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "prTF43VykuvXV3f4",
+      "_id": "rF9UMwnZ9ZJZufF1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!hmCNmwNXuQmfktbx.rF9UMwnZ9ZJZufF1"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Holy Feathers",
+      "img": "icons/commodities/materials/feather-yellow.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "pN0MbM4hWW9ETN7H",
+      "_id": "NdiD93CUzXcKpR0o",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!hmCNmwNXuQmfktbx.NdiD93CUzXcKpR0o"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_xmwthulatu",
+      "path": "Creature Loot#/CF_SEP/Celestial",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828959,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "hmCNmwNXuQmfktbx",
+  "folder": "Nb69rVv6fVlswAC9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!hmCNmwNXuQmfktbx"
+}

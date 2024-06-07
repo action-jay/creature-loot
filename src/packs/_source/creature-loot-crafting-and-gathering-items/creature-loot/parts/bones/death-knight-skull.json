@@ -1,0 +1,173 @@
+{
+  "name": "Death Knight Skull",
+  "type": "weapon",
+  "img": "icons/commodities/bones/skull-white-purple.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-MMK99Mvi7VvxQBOt\" class=\"secret\"><p>Reqires attunement. An attuned creature can cast a Hellfire Orb once per day. Hurl a magical ball of fire that explodes at a visible point within 120 feet. Each creature in a 20 ft. radius sphere centered on that point must make a DC 18 Dexterity saving throw. The sphere spreads around corners. A creature takes 35 (10d6) fire damage and 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 20,
+      "width": null,
+      "units": "ft",
+      "type": "radius"
+    },
+    "range": {
+      "value": 120,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "day",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "10d6[fire]",
+          "fire"
+        ],
+        [
+          "10d6[necrotic]",
+          "necrotic"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "dex",
+      "dc": 18,
+      "scaling": "flat"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "natural",
+    "baseItem": "",
+    "properties": {
+      "ada": false,
+      "amm": false,
+      "fin": false,
+      "fir": false,
+      "foc": false,
+      "hvy": false,
+      "lgt": false,
+      "lod": false,
+      "mgc": false,
+      "rch": false,
+      "rel": false,
+      "ret": false,
+      "sil": false,
+      "spc": false,
+      "thr": false,
+      "two": false,
+      "ver": false
+    },
+    "proficient": true
+  },
+  "effects": [],
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": true,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false,
+      "ignoreTotalCover": false
+    },
+    "cf": {
+      "id": "temp_myqqlyel2fo",
+      "path": "Creature Loot#/CF_SEP/Parts",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1668213985910,
+    "modifiedTime": 1692222820815,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "y9PPfxk78WKLKi2B",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "TGSlAajAyEtXveQs",
+  "_key": "!items!TGSlAajAyEtXveQs"
+}

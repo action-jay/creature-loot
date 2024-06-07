@@ -1,0 +1,281 @@
+{
+  "name": "CL-Ancient White Dragon",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient White Dragon Skull",
+      "img": "icons/commodities/bones/skull-lizard-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "1gpJFwiQSubAcPxB",
+      "_id": "uiPcKrNTWVWSArNX",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.uiPcKrNTWVWSArNX"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "White Dragon Wing",
+      "img": "icons/commodities/biological/wing-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "zFdwBxugwXH4GK0j",
+      "_id": "tX51q4R1JSfmFLkz",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.tX51q4R1JSfmFLkz"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "White Dragon Tail",
+      "img": "icons/commodities/biological/tail-rodent-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "DI8Z3GKDAf7Pwm6t",
+      "_id": "bvkOq2v4sy6CI9lj",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.bvkOq2v4sy6CI9lj"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "White Dragon Claw",
+      "img": "icons/commodities/claws/claw-lizard-white-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "5qPi0X7IVe0sS2FS",
+      "_id": "mMkW1jpGi2d6KTIK",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d4"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.mMkW1jpGi2d6KTIK"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "White Dragon Fang",
+      "img": "icons/commodities/claws/talon-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "du53nkTSxkCrG3oO",
+      "_id": "0Z2ZpqZVfYUqGZLI",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d10"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.0Z2ZpqZVfYUqGZLI"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Strip of White Dragon Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "G0op5ujF8xTs2CpC",
+      "_id": "DMU3NVkQGkwemRPJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "5"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.DMU3NVkQGkwemRPJ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient White Dragon Heart",
+      "img": "icons/commodities/biological/organ-heart-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "aHBe4vHtyB2QaZWM",
+      "_id": "6iqoWnpQNTTdQ3CV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.6iqoWnpQNTTdQ3CV"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient White Dragon Ice Gland",
+      "img": "icons/commodities/biological/organ-liver-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "EubvJRce4mwcuttL",
+      "_id": "Pm10ymUmwZp9F4NR",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.Pm10ymUmwZp9F4NR"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "White Dragon Scale",
+      "img": "icons/commodities/leather/scales-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "LKpShp3NJQiossxA",
+      "_id": "X1OaCMGZ41XlfZXP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d10"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.X1OaCMGZ41XlfZXP"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient White Dragon Frond",
+      "img": "icons/commodities/biological/stinger-insect-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Z6ILTcZWce6j8rgm",
+      "_id": "BNwhn22PFtssTPRJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.BNwhn22PFtssTPRJ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "EW2V5hpHYALH0CSq",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "10d6"
+          }
+        }
+      },
+      "_key": "!tables.results!Mj68SSGgrZZqxvtu.EW2V5hpHYALH0CSq"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_t82j5mhvjj",
+      "path": "Creature Loot#/CF_SEP/Dragon",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829073,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "Mj68SSGgrZZqxvtu",
+  "folder": "FH74NLfBzjHIWF9o",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!Mj68SSGgrZZqxvtu"
+}

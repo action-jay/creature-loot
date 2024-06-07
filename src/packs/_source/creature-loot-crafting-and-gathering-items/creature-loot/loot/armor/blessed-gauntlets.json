@@ -1,0 +1,262 @@
+{
+  "name": "Blessed Gauntlets",
+  "type": "equipment",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-q27D0prdk1D7nGpi\" class=\"secret\"><p>Requires attunement. When worn together, the wielder gains a +1 bonus to AC, and they may cast Spare the Dying three times per day.</p></section>",
+      "chat": "",
+      "unidentified": "Wondrous item"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10,
+      "type": "trinket",
+      "dex": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true,
+    "capacity": {
+      "type": "weight",
+      "value": null,
+      "weightless": false
+    },
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Wondrous item",
+        "avatarUrl": "https://www.dndbeyond.com/avatars/19/215/636382363291130832.jpeg",
+        "largeAvatarUrl": "https://www.dndbeyond.com/avatars/7/168/636284723508326581.jpeg",
+        "filterType": "Wondrous item",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": 10,
+        "tags": [
+          "Warding",
+          "Outerwear"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": 159,
+            "sourceType": 1
+          }
+        ],
+        "pictureUrl": "https://www.dndbeyond.com/avatars/7/168/636284723508326581.jpeg"
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 4607,
+      "originalName": "Cloak of Protection",
+      "version": "3.1.17",
+      "effectsApplied": true
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "3",
+      "chargeType": "c1",
+      "rechargeable": true,
+      "recharge": "0",
+      "rechargeType": "t3",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {
+        "0": {
+          "id": "oQA6eR4E554d5YMX",
+          "name": "Spare the Dying",
+          "pack": "world.ddb-pcandg-spells",
+          "img": "icons/magic/life/heart-cross-blue.webp",
+          "baseLevel": "0",
+          "level": "0",
+          "consumption": "1",
+          "upcast": "0",
+          "upcastCost": "1",
+          "flatDc": false
+        }
+      },
+      "feats": {},
+      "tables": {},
+      "equipped": true,
+      "attuned": true,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "dae": {
+      "activeEquipped": true,
+      "alwaysActive": false
+    },
+    "cf": {
+      "id": "temp_owq86qr54zm",
+      "path": "Creature Loot#/CF_SEP/Loot#/CF_SEP/Armor",
+      "color": "#000000"
+    }
+  },
+  "effects": [
+    {
+      "label": "AC: Blessed Gauntlets",
+      "icon": "icons/equipment/hand/gauntlet-plate-gold.webp",
+      "changes": [
+        {
+          "key": "system.attributes.ac.value",
+          "value": "+1",
+          "mode": 2,
+          "priority": 18
+        }
+      ],
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "tint": null,
+      "transfer": true,
+      "disabled": false,
+      "flags": {
+        "dae": {
+          "transfer": true,
+          "stackable": "none",
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "ddbimporter": {
+          "disabled": false,
+          "itemId": 0,
+          "itemEntityTypeId": 0
+        },
+        "midi-qol": {
+          "forceCEOff": true
+        },
+        "core": {
+          "statusId": ""
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "_id": "pfysuByTDgTpgvyY",
+      "origin": null,
+      "_key": "!items.effects!SRjN0Ca5UzXInqyC.pfysuByTDgTpgvyY"
+    }
+  ],
+  "img": "icons/equipment/hand/gauntlet-plate-gold.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010238672,
+    "modifiedTime": 1692222821374,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "SRjN0Ca5UzXInqyC",
+  "folder": "tLmviW64AyL8bP7K",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SRjN0Ca5UzXInqyC"
+}

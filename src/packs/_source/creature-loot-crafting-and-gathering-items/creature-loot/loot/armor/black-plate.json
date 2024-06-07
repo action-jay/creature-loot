@@ -1,0 +1,165 @@
+{
+  "name": "Black Plate",
+  "type": "equipment",
+  "system": {
+    "description": {
+      "value": "<p>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</p><section id=\"secret-eDob0eSF42xSQbth\" class=\"secret\"><p>Requires attunement. If a creature attuned to the armor would drop to 0 HP, they instead drop to 1 HP and take 1 death saving throw failure. Once they reach 3 death saving throw failures, they die. If a creature dies while wearing the armor, they are immediately resurrected as a Revenant, who continues to wear the armor and is hostile to the living. Saving throw failures caused by the armor can only be removed by a long rest while not attuned to the armor.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 65,
+      "units": "lb"
+    },
+    "price": 1500,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 18,
+      "type": "heavy",
+      "dex": 0
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "plate",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": 15,
+    "stealth": true,
+    "proficient": true,
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "",
+        "filterType": "Armor",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Warding"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ]
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 701257905,
+      "definitionId": 18,
+      "originalName": "Plate",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_owq86qr54zm",
+      "path": "Creature Loot#/CF_SEP/Loot",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/equipment/chest/breastplate-layered-steel-black.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242850,
+    "modifiedTime": 1692222821374,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "tLmviW64AyL8bP7K",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "mixzhoLrp3Y1pB6L",
+  "_key": "!items!mixzhoLrp3Y1pB6L"
+}

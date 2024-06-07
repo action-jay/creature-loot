@@ -1,0 +1,193 @@
+{
+  "name": "CL-Planetar",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Holy Greatsword",
+      "img": "icons/weapons/swords/greatsword-guard-gold-worn.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "ApjFdkbrpwaOVUxY",
+      "_id": "2v3QgDL0slLGRrVa",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!yExhBO4IHIUU85L9.2v3QgDL0slLGRrVa"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Consencrating Sash",
+      "img": "icons/equipment/waist/sash-cloth-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "cFwWU0IeArXX59ki",
+      "_id": "1m9zoN5Y21tvSMMZ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!yExhBO4IHIUU85L9.1m9zoN5Y21tvSMMZ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Divine Tongue",
+      "img": "icons/commodities/biological/tongue-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "rSXRYjzhsMo2Z9DQ",
+      "_id": "htPkN6xysbaGEb0t",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!yExhBO4IHIUU85L9.htPkN6xysbaGEb0t"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Angelic Blood",
+      "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "gbSffL3erVokYZXw",
+      "_id": "ds6NTzdvPXAokplN",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!yExhBO4IHIUU85L9.ds6NTzdvPXAokplN"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Holy Feathers",
+      "img": "icons/commodities/materials/feather-yellow.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "pN0MbM4hWW9ETN7H",
+      "_id": "FfwWLy6L1CsfArWm",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "8"
+          }
+        }
+      },
+      "_key": "!tables.results!yExhBO4IHIUU85L9.FfwWLy6L1CsfArWm"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Blessed Gauntlets",
+      "img": "icons/equipment/hand/gauntlet-plate-gold.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "SRjN0Ca5UzXInqyC",
+      "_id": "MDWtY4n7bcuLAr19",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!yExhBO4IHIUU85L9.MDWtY4n7bcuLAr19"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Sacred Robe",
+      "img": "icons/equipment/chest/robe-layered-white.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "NOSATcENnPwXtpjL",
+      "_id": "s8PvNbIhJZPrqDZW",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!yExhBO4IHIUU85L9.s8PvNbIhJZPrqDZW"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_xmwthulatu",
+      "path": "Creature Loot#/CF_SEP/Celestial",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828959,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yExhBO4IHIUU85L9",
+  "folder": "Nb69rVv6fVlswAC9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!yExhBO4IHIUU85L9"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Desiccated Trophy",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-5VQ47qs0CjoWeJu9\" class=\"secret\"><p>The DM selects a martial weapon. Treat it as a magical weapon that deals an additional 4 (1d8) necrotic damage on a hit.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3vlt1onv82u",
+      "path": "Creature Loot#/CF_SEP/Loot",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667928793788,
+    "modifiedTime": 1692222821412,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "k8l9WMMXS1jOADpj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "W4oYv06HrHrofikm",
+  "_key": "!items!W4oYv06HrHrofikm"
+}

@@ -1,0 +1,217 @@
+{
+  "name": "Hellforged Bracers",
+  "type": "equipment",
+  "img": "icons/equipment/wrist/bracer-segmented-leather.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>Requires attunement. An attuned creature can use both bracers to cast Find Familiar once per day. The summoned familiar is always an Imp with the variant Familiar trait (MM pg. 69), and is loyal to the summoner as long as they are attuned to the bracers.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 1,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "day",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": null,
+      "type": "trinket",
+      "dex": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true
+  },
+  "effects": [
+    {
+      "label": "Gilded Bracers",
+      "icon": "icons/equipment/wrist/bracer-yellow-fancy.webp",
+      "origin": "Item.OLYL11pBuu592NoV",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "FGX3oYX6JsFruvl7",
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "bludgeoning",
+          "priority": 20
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "piercing",
+          "priority": 20
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "slashing",
+          "priority": 20
+        }
+      ],
+      "tint": null,
+      "transfer": true,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "_key": "!items.effects!RB3Uxz9cI8lF8U6i.FGX3oYX6JsFruvl7"
+    }
+  ],
+  "flags": {
+    "magicitems": {
+      "enabled": true,
+      "equipped": false,
+      "attuned": false,
+      "charges": "1",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": true,
+      "recharge": "0",
+      "rechargeType": "t3",
+      "rechargeUnit": "r1",
+      "sorting": "l",
+      "spells": {
+        "0": {
+          "id": "W5UGbm1BgbJPKXtC",
+          "name": "Find Familiar",
+          "pack": "world.ddb-pcandg-spells",
+          "img": "icons/magic/nature/wolf-paw-glow-purple-teal.webp",
+          "baseLevel": "1",
+          "level": "1",
+          "consumption": "1",
+          "upcast": "1",
+          "upcastCost": "1",
+          "flatDc": false
+        }
+      }
+    },
+    "cf": {
+      "id": "temp_owq86qr54zm",
+      "path": "Creature Loot#/CF_SEP/Loot",
+      "color": "#000000"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667927278806,
+    "modifiedTime": 1692222821374,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "RB3Uxz9cI8lF8U6i",
+  "folder": "tLmviW64AyL8bP7K",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RB3Uxz9cI8lF8U6i"
+}

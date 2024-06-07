@@ -1,0 +1,46 @@
+{
+  "name": "Trophy of Torture",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>The DM selects an item from another Demon. This item is also found with the Chasme.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_3vlt1onv82u",
+      "path": "Creature Loot#/CF_SEP/Loot",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667928793788,
+    "modifiedTime": 1692222821412,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "k8l9WMMXS1jOADpj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "jMXBgL7Wq9W5NSE6",
+  "_key": "!items!jMXBgL7Wq9W5NSE6"
+}

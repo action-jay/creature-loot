@@ -1,0 +1,171 @@
+{
+  "name": "CL-Cloaker",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cloaker Wing",
+      "img": "icons/commodities/biological/wing-lizard-pink-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "9H9rrzY2QiqELoVT",
+      "_id": "beveiuiSOVPgj0V5",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!CyhEShIr6D2mWTY8.beveiuiSOVPgj0V5"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cloaker Tail",
+      "img": "icons/commodities/biological/tail-puff-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "iaKCeIPn9nkA9im7",
+      "_id": "fw1Xl9aDooFmZR3n",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!CyhEShIr6D2mWTY8.fw1Xl9aDooFmZR3n"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cloaker Head",
+      "img": "icons/commodities/bones/skull-tusked-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "oJsUnVtIYUEpUrlU",
+      "_id": "c7ghqF7y5Gyg5Dqd",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!CyhEShIr6D2mWTY8.c7ghqF7y5Gyg5Dqd"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cloaker Claw",
+      "img": "icons/creatures/claws/claw-straight-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "AhV3sS0pJyaWXxzd",
+      "_id": "BzBEVPTpD9oLR3Vl",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!CyhEShIr6D2mWTY8.BzBEVPTpD9oLR3Vl"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cloaker Blood",
+      "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "8cUi9gLcX9eYfeQE",
+      "_id": "lTNPVtvR9WZ9bG0p",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!CyhEShIr6D2mWTY8.lTNPVtvR9WZ9bG0p"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cloaker Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "miMgyLXN93oa5Y66",
+      "_id": "MjmmQGOAMsKO6nhT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!CyhEShIr6D2mWTY8.MjmmQGOAMsKO6nhT"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_uup1gioo1kj",
+      "path": "Creature Loot#/CF_SEP/Aberration",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829016,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "CyhEShIr6D2mWTY8",
+  "folder": "IN8WLu9CTsWeuo5W",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!CyhEShIr6D2mWTY8"
+}

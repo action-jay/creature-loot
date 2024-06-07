@@ -1,0 +1,180 @@
+{
+  "name": "Cape of the Mountebank",
+  "type": "equipment",
+  "system": {
+    "description": {
+      "value": "<p>This cape smells faintly of brimstone. While wearing it, you can use it to cast the <strong>dimension door</strong> spell as an action. This property of the cape can't be used again until the next dawn.</p>\n<p>When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.</p>",
+      "chat": "",
+      "unidentified": "Wondrous item"
+    },
+    "source": "Basic Rules, Player's Handbook pg 157",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10,
+      "type": "trinket",
+      "dex": null
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true,
+    "capacity": {
+      "type": "weight",
+      "value": null,
+      "weightless": false
+    },
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Wondrous item",
+        "avatarUrl": "https://www.dndbeyond.com/avatars/19/212/636382363006704382.jpeg",
+        "largeAvatarUrl": "https://www.dndbeyond.com/avatars/7/156/636284720530156403.jpeg",
+        "filterType": "Wondrous item",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Teleportation",
+          "Exploration",
+          "Outerwear"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": 157,
+            "sourceType": 1
+          }
+        ],
+        "pictureUrl": "https://www.dndbeyond.com/avatars/7/156/636284720530156403.jpeg"
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 4599,
+      "originalName": "Cape of the Mountebank",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": true,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "cf": {
+      "id": "temp_a7reen07obt"
+    }
+  },
+  "effects": [],
+  "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010238647,
+    "modifiedTime": 1692222821500,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": "WSuYUZ2SBERqbEcN",
+  "sort": 0,
+  "_id": "zN0kKrWkkQ0RQeFp",
+  "_key": "!items!zN0kKrWkkQ0RQeFp"
+}

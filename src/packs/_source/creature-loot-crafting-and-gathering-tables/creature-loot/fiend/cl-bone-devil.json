@@ -1,0 +1,171 @@
+{
+  "name": "CL-Bone Devil",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bone Devil Poison",
+      "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "SvIc7gWfzpwxH6yZ",
+      "_id": "ewUoK3HS8bzmFDTi",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!L7yPVde8RQppWTs0.ewUoK3HS8bzmFDTi"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bone Devil Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "UpGv8gOEu4jhuIqB",
+      "_id": "0ihP7xPCl7kj64LP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!L7yPVde8RQppWTs0.0ihP7xPCl7kj64LP"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bone Devil Wing",
+      "img": "icons/commodities/biological/wing-lizard-pink-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Y74kcO3wk0zBX8iu",
+      "_id": "PylegtUx2UbRgYLi",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!L7yPVde8RQppWTs0.PylegtUx2UbRgYLi"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bone Devil Skull",
+      "img": "icons/commodities/bones/skull-feline-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "J7VOPCeP0Y0LQilC",
+      "_id": "jfLvdV0MlSBMI6wO",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!L7yPVde8RQppWTs0.jfLvdV0MlSBMI6wO"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Devil claw",
+      "img": "icons/creatures/claws/claw-straight-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "jqn7wyxQf9lfLTHQ",
+      "_id": "Ndpi0W7JPzAmUsA3",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d4"
+          }
+        }
+      },
+      "_key": "!tables.results!L7yPVde8RQppWTs0.Ndpi0W7JPzAmUsA3"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Devil Eye",
+      "img": "icons/commodities/biological/eye-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "J8bAXf5gs4EpoG4x",
+      "_id": "PRi8XpbQ8nDfdQ3j",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d2"
+          }
+        }
+      },
+      "_key": "!tables.results!L7yPVde8RQppWTs0.PRi8XpbQ8nDfdQ3j"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_alrr1pqrlph",
+      "path": "Creature Loot#/CF_SEP/Fiend",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828908,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "L7yPVde8RQppWTs0",
+  "folder": "BXWJd1giuLZYjezy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!L7yPVde8RQppWTs0"
+}

@@ -1,0 +1,303 @@
+{
+  "name": "CL-Ancient Bronze Dragon",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Bronze Dragon Skull",
+      "img": "icons/commodities/bones/skull-lizard-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "J3H6Y4rsAImKe6lT",
+      "_id": "AjHZnFDPgAmMUZXT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.AjHZnFDPgAmMUZXT"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bronze Dragon Wing",
+      "img": "icons/commodities/biological/wing-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "JPmtuawNweR03d0T",
+      "_id": "noab3nZqV8NL2RhI",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.noab3nZqV8NL2RhI"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bronze Dragon Tail",
+      "img": "icons/commodities/biological/tail-rodent-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "5D73Z5qgEhehjlTQ",
+      "_id": "zW5OkEXbFyGLdh9a",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.zW5OkEXbFyGLdh9a"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bronze Dragon Claw",
+      "img": "icons/commodities/claws/claw-lizard-white-black.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Yk8LhAmi9rgfh0q7",
+      "_id": "Lx1UzJOOq2iSTvO8",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d4"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.Lx1UzJOOq2iSTvO8"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bronze Dragon Fang",
+      "img": "icons/commodities/claws/talon-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "m5aGc7Tyw6vrO2OI",
+      "_id": "MKy71LJNo8J91Z4K",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d10"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.MKy71LJNo8J91Z4K"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Strip of Bronze Dragon Hide",
+      "img": "icons/commodities/leather/fur-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "lMR51CPSyKRIZPvI",
+      "_id": "zMIzSCgCcqOCetC8",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "5"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.zMIzSCgCcqOCetC8"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Bronze Dragon Heart",
+      "img": "icons/commodities/biological/organ-heart-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "mzEEcDkIFdimCunB",
+      "_id": "cYcVmLiQWMBMhnRO",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.cYcVmLiQWMBMhnRO"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Bronze Dragon Lightning Organ",
+      "img": "icons/commodities/biological/organ-liver-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "wQgmZJFg46csf0LV",
+      "_id": "efBrKqIRoCadQ5Uy",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.efBrKqIRoCadQ5Uy"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Bronze Dragon Repulsion Salve",
+      "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "3UiNAzLqwx7AMXK4",
+      "_id": "XC69E5GK1pfnnlCP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.XC69E5GK1pfnnlCP"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Bronze Dragon Scale",
+      "img": "icons/commodities/leather/scales-blue.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "YN2Gn5rOsXVOxkb0",
+      "_id": "lePMjF7gUHibDqYm",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d10"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.lePMjF7gUHibDqYm"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ancient Bronze Dragon Horn",
+      "img": "icons/commodities/bones/horn-curved-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Ivl5af4aA6jeG062",
+      "_id": "0MKnA9rZ47Pyslub",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.0MKnA9rZ47Pyslub"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Meat",
+      "img": "icons/consumables/meat/shank-bone-pink.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "20xWTr7Ha1i29DyU",
+      "_id": "n5UzSTkl2bfCi12S",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "10d6"
+          }
+        }
+      },
+      "_key": "!tables.results!q09OMuNvT3ahUpy9.n5UzSTkl2bfCi12S"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_t82j5mhvjj",
+      "path": "Creature Loot#/CF_SEP/Dragon",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829073,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "q09OMuNvT3ahUpy9",
+  "folder": "FH74NLfBzjHIWF9o",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!q09OMuNvT3ahUpy9"
+}

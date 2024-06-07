@@ -1,0 +1,44 @@
+{
+  "name": "Common Items",
+  "type": "loot",
+  "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-WBHNh7tSuYXOE4RJ\" class=\"secret\"><p>Adventuring gear or Trade Goods once owned by a Halfling</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": 1,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4c8j7cuf0ea"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667920348604,
+    "modifiedTime": 1692222821288,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "6vpBBFuPLVpuzG0V",
+  "folder": "vN8cwWhGkgaJW3b9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6vpBBFuPLVpuzG0V"
+}

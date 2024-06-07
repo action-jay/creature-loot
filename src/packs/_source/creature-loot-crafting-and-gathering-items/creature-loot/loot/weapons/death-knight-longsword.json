@@ -1,0 +1,215 @@
+{
+  "name": "Death Knight Longsword",
+  "type": "weapon",
+  "system": {
+    "description": {
+      "value": "<p>Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.</p><section id=\"secret-nbZKIR2aWx3Hp3lU\" class=\"secret\"><p>Acts as a magical longsword that deals an additional 18 (4d8) necrotic damage on a hit. If wielded by a creature with a different alignment than the Death Knight, on a critical failure the weapon fuses to their body, triggering a horrific transformation that cannot be stopped except with a Wish spell. The creature sheds their mortality and becomes a Revenant, who gains all its stats and abilities and has full hit points. The revenant seeks to destroy all those who lead to the fall of the Death Knight. The transformation takes 1d10 minutes, and kills the original creature.</p></section>",
+      "chat": "",
+      "unidentified": "Longsword"
+    },
+    "source": "Basic Rules, Player's Handbook",
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": 15,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 5,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "0",
+      "per": "",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d8[slashing] + @mod",
+          "slashing"
+        ],
+        [
+          "4d8[necrotic]",
+          "necrotic"
+        ]
+      ],
+      "versatile": "1d10[slashing] + @mod"
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "martialM",
+    "baseItem": "longsword",
+    "properties": {
+      "amm": false,
+      "fir": false,
+      "fin": false,
+      "hvy": false,
+      "lgt": false,
+      "lod": false,
+      "rch": false,
+      "rel": false,
+      "spc": false,
+      "thr": false,
+      "two": false,
+      "ver": true,
+      "ret": false,
+      "foc": false,
+      "ada": false,
+      "mgc": false,
+      "sil": false
+    },
+    "proficient": false,
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Longsword",
+        "damage": {
+          "parts": []
+        },
+        "classFeatures": [],
+        "restrictions": [],
+        "filterType": "Weapon",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ]
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 1782728300,
+      "definitionId": 4,
+      "originalName": "Longsword",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "fumbleThreshold": null,
+      "effectActivation": false
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false,
+      "ignoreTotalCover": false
+    },
+    "cf": {
+      "id": "temp_ykgx1rqj3fh",
+      "path": "Creature Loot#/CF_SEP/Loot",
+      "color": "#000000"
+    }
+  },
+  "effects": [],
+  "img": "icons/weapons/swords/greatsword-crossguard-steel.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242668,
+    "modifiedTime": 1692222821326,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "fWdLoP0QnBwQuulo",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "9NsxCW7uOZmkGzqD",
+  "_key": "!items!9NsxCW7uOZmkGzqD"
+}

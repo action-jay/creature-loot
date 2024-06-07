@@ -1,0 +1,83 @@
+{
+  "name": "CL-Ankheg",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ankheg Claw",
+      "img": "icons/creatures/claws/claw-straight-orange.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "v6ne8mCrsuSZtvuT",
+      "_id": "B9R4u2QvZLdLioEu",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!dDKYYr2e5rECmPtW.B9R4u2QvZLdLioEu"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ankheg Acid",
+      "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "NWNzyTmezEXOYD8E",
+      "_id": "k8r1JOIjoH5usKh4",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!dDKYYr2e5rECmPtW.k8r1JOIjoH5usKh4"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_h201b87tbzv",
+      "path": "Creature Loot#/CF_SEP/Monstrosity",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829137,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "dDKYYr2e5rECmPtW",
+  "folder": "cRKGagRjVYh0KbVZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!dDKYYr2e5rECmPtW"
+}

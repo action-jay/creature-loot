@@ -1,0 +1,44 @@
+{
+  "name": "Digested Corpse",
+  "type": "loot",
+  "img": "icons/magic/unholy/strike-beam-blood-large-red-purple.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"null\" class=\"secret\"><p>The DM selects 1 humanoid. 1 item from that humanoid can be salvaged from the Carrion Crawler's guts. This could be adventuring gear, a weapon, or loot that would have been otherwise salvageable from the creature.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 15,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_4c8j7cuf0ea"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667166907661,
+    "modifiedTime": 1692222821288,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "AL48nfHaWC0pJuFZ",
+  "folder": "vN8cwWhGkgaJW3b9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!AL48nfHaWC0pJuFZ"
+}

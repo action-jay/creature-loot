@@ -1,0 +1,44 @@
+{
+  "name": "Set of Armor",
+  "type": "loot",
+  "img": "icons/equipment/chest/breastplate-layered-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-K0RhLeZ6BdgSDVP8\" class=\"secret\"><p>The DM selects sets of armor left from a monster's victims.</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 12,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_owq86qr54zm"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1667167443808,
+    "modifiedTime": 1692222821374,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "bNBRzpdAyTY86CHG",
+  "folder": "tLmviW64AyL8bP7K",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!bNBRzpdAyTY86CHG"
+}

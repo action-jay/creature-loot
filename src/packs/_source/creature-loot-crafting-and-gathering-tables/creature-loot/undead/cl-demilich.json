@@ -1,0 +1,171 @@
+{
+  "name": "CL-Demilich",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demilich Skull",
+      "img": "icons/commodities/bones/skull-feline-grey.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "xFD6wNUPpPdofuDj",
+      "_id": "ProrJxXonH9FjtdK",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!HSPLm9fJUV0Wzmrv.ProrJxXonH9FjtdK"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demilich Teeth",
+      "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "fnA8Qr8vC5ZCfNlM",
+      "_id": "jd2QZ2u4jd3q3IAv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4d4"
+          }
+        }
+      },
+      "_key": "!tables.results!HSPLm9fJUV0Wzmrv.jd2QZ2u4jd3q3IAv"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ectoplasm",
+      "img": "icons/magic/unholy/projectile-fireball-agile-purple.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "kS0PRhOXPgLGY6KV",
+      "_id": "ybMYM3drl1VXUeWy",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!HSPLm9fJUV0Wzmrv.ybMYM3drl1VXUeWy"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Spirit Dust",
+      "img": "icons/magic/water/bubbles-air-water-light.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "IGuLHJyRYzvlZpdH",
+      "_id": "abOPPVR0iBtSpkjO",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "4"
+          }
+        }
+      },
+      "_key": "!tables.results!HSPLm9fJUV0Wzmrv.abOPPVR0iBtSpkjO"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Demilich Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "R4a62KhbgmWg0RF1",
+      "_id": "dk5aNhmELd7yxa7F",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!HSPLm9fJUV0Wzmrv.dk5aNhmELd7yxa7F"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": true,
+      "text": "Acererak Demilich Crystal",
+      "img": "icons/commodities/gems/gem-faceted-navette-red.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "eVTkdQRhbSzjTcyi",
+      "_id": "cUBjPtOuvhAiwxBp",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!HSPLm9fJUV0Wzmrv.cUBjPtOuvhAiwxBp"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_olna87fr0w8",
+      "path": "Creature Loot#/CF_SEP/Undead",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222829120,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "HSPLm9fJUV0Wzmrv",
+  "folder": "3CWBKFnSmrmQ6QbW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!HSPLm9fJUV0Wzmrv"
+}

@@ -1,0 +1,212 @@
+{
+  "name": "Lightning Dagger",
+  "type": "weapon",
+  "system": {
+    "description": {
+      "value": "<p>Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.</p><p><span style=\"font-family:Signika, sans-serif\">Deals an additional 5 (1d10) lightning damage on a hit.</span></p>",
+      "chat": "",
+      "unidentified": "Dagger"
+    },
+    "source": "Creature Loot",
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": 2,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 20,
+      "long": 60,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "0",
+      "per": "",
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "mwak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d4[piercing] + @mod",
+          "piercing"
+        ],
+        [
+          "1d10[lightning]",
+          "lightning"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 10
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "weaponType": "simpleM",
+    "baseItem": "dagger",
+    "properties": {
+      "amm": false,
+      "fir": false,
+      "fin": true,
+      "hvy": false,
+      "lgt": true,
+      "lod": false,
+      "rch": false,
+      "rel": false,
+      "spc": false,
+      "thr": true,
+      "two": false,
+      "ver": false,
+      "ret": false,
+      "foc": false,
+      "ada": false,
+      "mgc": false,
+      "sil": false
+    },
+    "proficient": false,
+    "toolType": ""
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Dagger",
+        "damage": {
+          "parts": []
+        },
+        "classFeatures": [],
+        "restrictions": [],
+        "filterType": "Weapon",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": true,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Damage",
+          "Combat"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ]
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 1782728300,
+      "definitionId": 3,
+      "originalName": "Dagger",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "fumbleThreshold": null,
+      "effectActivation": false
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    },
+    "cf": {
+      "id": "temp_ccyhjpforxa"
+    }
+  },
+  "effects": [],
+  "img": "icons/weapons/daggers/dagger-black.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666010242665,
+    "modifiedTime": 1692222821465,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "pEGrXOnjqCbB9JN7",
+  "folder": "Av9UGyzlK7LCiJ9P",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!pEGrXOnjqCbB9JN7"
+}

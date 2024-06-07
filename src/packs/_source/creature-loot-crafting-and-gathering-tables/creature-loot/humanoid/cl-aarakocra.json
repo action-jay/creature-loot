@@ -1,0 +1,105 @@
+{
+  "name": "CL-Aarakocra",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Javelin",
+      "img": "icons/weapons/polearms/javelin-flared.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "FZcVfBB18uGKirSP",
+      "_id": "2fgoGuQbswXhkGsO",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!yb5QPz5BxQlAnRa1.2fgoGuQbswXhkGsO"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Tattered Leather Armor",
+      "img": "icons/equipment/chest/breastplate-layered-leather-brown.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "4cjRQ6PZcNqgrwHJ",
+      "_id": "paRkDa3HRpoa5DdI",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!yb5QPz5BxQlAnRa1.paRkDa3HRpoa5DdI"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Aarakocra Feathers",
+      "img": "icons/commodities/materials/feather-blue-green.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "Q2fZifGnRPMGPgjs",
+      "_id": "pA7yPtfRCoIK7Pc1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10"
+          }
+        }
+      },
+      "_key": "!tables.results!yb5QPz5BxQlAnRa1.pA7yPtfRCoIK7Pc1"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_a4nmpir42m7",
+      "path": "Creature Loot#/CF_SEP/Humanoid",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828989,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "yb5QPz5BxQlAnRa1",
+  "folder": "ioTUnZXDRIF8tweF",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!yb5QPz5BxQlAnRa1"
+}

@@ -1,0 +1,127 @@
+{
+  "name": "CL-Deva",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Holy Mace",
+      "img": "icons/weapons/maces/mace-flanged-steel.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "hhlD2wsU0lXBDt3b",
+      "_id": "NaNC5ParC9e3Cemf",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!5E9Xu2mwI075Areo.NaNC5ParC9e3Cemf"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Holy Feathers",
+      "img": "icons/commodities/materials/feather-yellow.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "pN0MbM4hWW9ETN7H",
+      "_id": "Iiuk06lVlsaSbqvt",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "6"
+          }
+        }
+      },
+      "_key": "!tables.results!5E9Xu2mwI075Areo.Iiuk06lVlsaSbqvt"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Blessed Gauntlets",
+      "img": "icons/equipment/hand/gauntlet-plate-gold.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "SRjN0Ca5UzXInqyC",
+      "_id": "J7zAhHjgZro28fnZ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2"
+          }
+        }
+      },
+      "_key": "!tables.results!5E9Xu2mwI075Areo.J7zAhHjgZro28fnZ"
+    },
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Sacred Robe",
+      "img": "icons/equipment/chest/robe-layered-white.webp",
+      "documentCollection": "creature-loot-crafting-and-gathering.creature-loot-crafting-and-gathering-items",
+      "documentId": "NOSATcENnPwXtpjL",
+      "_id": "0l4Cw2melg35pjrw",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1"
+          }
+        }
+      },
+      "_key": "!tables.results!5E9Xu2mwI075Areo.0l4Cw2melg35pjrw"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "cf": {
+      "id": "temp_xmwthulatu",
+      "path": "Creature Loot#/CF_SEP/Celestial",
+      "color": "#000000"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1666797343636,
+    "modifiedTime": 1692222828959,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "5E9Xu2mwI075Areo",
+  "folder": "Nb69rVv6fVlswAC9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!5E9Xu2mwI075Areo"
+}
